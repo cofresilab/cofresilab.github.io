@@ -1,6 +1,6 @@
 ---
 layout: page
-title: [Short Name]
+title: Sips and Shapes Study
 image: 
 ---
 
