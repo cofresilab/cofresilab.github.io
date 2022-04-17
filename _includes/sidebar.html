@@ -1,0 +1,81 @@
+<!-- Sidebar -->
+  <div id="sidebar">
+    <div class="inner">
+
+      <!-- Search -->
+        <section id="search" class="alt">
+          <form method="post" action="#">
+            <input type="text" name="query" id="query" placeholder="Search" />
+          </form>
+        </section>
+
+      <!-- Menu -->
+        <nav id="menu">
+          <header class="major">
+            <h2>Menu</h2>
+          </header>
+          <ul>
+            <li><a href="{{ '' | absolute_url }}">Homepage</a></li>
+            <li><a href="{{ 'research.html' | absolute_url }}">Research</a></li>
+            <li><a href="{{ 'publications.html' | absolute_url }}">Publications</a></li>
+            
+            
+            
+            <li>
+              <span class="opener">3-Day Sipping Shapes Study</span>
+              <ul>
+                <li><a href="{{ '3DSSS_overview.html' | absolute_url }}">Overview of the Study</a></li>
+                <li><a href="{{ 'researchteam.html' | absolute_url }}">About the research Team</a></li>
+                <li><a href="{{ 'directions.html' | absolute_url }}">Directions</a></li>
+              </ul>
+            </li> 
+            
+            
+            
+            
+            <li><a href="{{ 'acknowledgments.html' | absolute_url }}">Acknowledgments</a></li>
+            <li><a href="{{ 'dei.html' | absolute_url }}">Philosophy</a></li>
+            
+            <!-- 
+            
+            <li><a href="#">Etiam Dolore</a></li>
+            <li><a href="#">Adipiscing</a></li>
+            <li>
+              <span class="opener">Another Submenu</span>
+              <ul>
+                <li><a href="#">Lorem Dolor</a></li>
+                <li><a href="#">Ipsum Adipiscing</a></li>
+                <li><a href="#">Tempus Magna</a></li>
+                <li><a href="#">Feugiat Veroeros</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Maximus Erat</a></li>
+            <li><a href="#">Sapien Mauris</a></li>
+            <li><a href="#">Amet Lacinia</a></li> 
+            
+            -->
+          </ul>
+        </nav>
+
+      <!-- Section -->
+        <section>
+          <header class="major">
+            <h2>Get in touch</h2>
+          </header>
+          <!-- <p> Comment about how to get in touch </p> -->
+          <ul class="contact">
+            <li class="fa-envelope-o"><a href="#">{{ site.email }}</a></li>
+            <!--  <li class="fa-phone">{{ site.phone }}</li>--> 
+            <li class="fa-home">{{ site.street_address }}<br />
+            {{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
+            {{ site.country }}</li>
+          </ul>
+        </section>
+
+      <!-- Footer -->
+        <footer id="footer">
+          <p class="copyright">&copy; 2022 {{ site.title }}. All rights reserved. : <a href="https://github.com/andrewbanchich/editorial-jekyll-theme">Forked</a>.</p>
+        </footer>
+
+    </div>
+  </div>
