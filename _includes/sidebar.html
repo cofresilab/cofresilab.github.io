@@ -15,7 +15,7 @@
             <h2>Menu</h2>
           </header>
           
-          {% assign pages_list = site.pages %} {% assign group = 'navigation' %}
+          {% assign pages_list = site.pages %} {% assign group = 'navigation' %} {% include JB/pages_list %}
           
           <ul>
             <li><a href="{{ '' | absolute_url }}">Homepage</a></li>
