@@ -9,7 +9,7 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/SASS.png" alt="" /></a>
+			<a href="{{ 'sipsandshapes.html' | absolute_url }}" class="image"><img src="assets/images/SASS.png" alt="" /></a>
 			<h3>Sips and Shapes Study</h3>
 			<p>Research study at the University of Missouri</p>
 			<ul class="actions">
