@@ -14,6 +14,9 @@
           <header class="major">
             <h2>Menu</h2>
           </header>
+          
+          {% assign pages_list = site.pages %} {% assign group = 'navigation' %}
+          
           <ul>
             <li><a href="{{ '' | absolute_url }}">Homepage</a></li>
             <li><a href="{{ 'research.html' | absolute_url }}">Research</a></li>
