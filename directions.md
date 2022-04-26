@@ -5,14 +5,14 @@ image:
 ---
 
 ### Where to go
-
+[View address in Google Maps](https://goo.gl/maps/qyhsaqvywLMfFqir7)  
 115 Melvin H. Marx Building  
 University of Missouri  
 1416 Carrie Francke Drive  
 Columbia, MO 65211-3470  
 Contact: 573-884-8779  
 
-Click here to view the address in Google Maps: [https://goo.gl/maps/qyhsaqvywLMfFqir7 ](https://goo.gl/maps/qyhsaqvywLMfFqir7)
+
 
 
 ![University of Missouri MARX Building](/assets/images/marx_bldg.png)
