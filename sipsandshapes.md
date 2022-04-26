@@ -3,7 +3,7 @@ layout: page
 title: Sips and Shapes Study
 image: 
 ---
-![img](/assets/images/SASS.png)
+<img src="/assets/images/SASS.png" width="100" height="100">
 
 The Sips and Shapes Study (SASS) is conducted by researchers at the University of Missouri (MU) with funding from the National Institutes of Health (NIH). **The purpose of this study** is to increase understanding of factors that can lead to alcohol and other drug use-related problems in some people (MU Institutional Review Board [IRB#]).  More specifically, this research has two goals. The first goal is to explore how the brain's processing of a visual stimulus changes as a result of new experiences with that stimulus (e.g., when we learn that it predicts drug or food reward). The second goal is to explore if between-person differences in learning-related changes in how the brain processes a visual stimulus are related to between-person differences in the use of alcohol and/or other drugs. We hope that the insight we gain from this study will improve our understanding of factors that might put people at risk for developing problems with alcohol or other drugs, or that might protect people from developing such problems. 
 
