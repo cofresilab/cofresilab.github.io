@@ -3,7 +3,7 @@ layout: page
 title: Sips and Shapes Study
 image: 
 ---
-<img src="/assets/images/SASS1.png" width="700">
+<img src="/assets/images/SASS2.png" width="700">
 
 ------
 
