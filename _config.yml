@@ -4,7 +4,7 @@ subtitle: Addiction Neuroscience
 email: youremailaddress@gmail.com
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "cofresilab.org" # the base hostname & protocol for your site
 author:
 street_address: 123 Psychology Building
 city: Columbia
@@ -16,7 +16,7 @@ phone:
 # Social settings
 500px_url:
 facebook_url:
-github_url:
+github_url: cofresilab
 gitlab_url: 
 googleplus_url:
 instagram_url: 
