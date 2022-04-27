@@ -5,7 +5,7 @@ image:
 ---
 
 # Summary
-<img src="/assets/images/SASS2.png" width="600">
+<img src="/assets/images/SASS2.png" width="700">
 
 ------
 
