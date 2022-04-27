@@ -17,9 +17,8 @@ The Sips and Shapes Study (sometimes abbreviated "SASS") is conducted by researc
 
 -----
 
-## Study Structure
 
-### Part 1: Laboratory Visits
+## Part 1: Laboratory Visits
 
 #### Lab Visit #1 (Pre-Learning)
 Visit the researcher's lab on the MU campus in Columbia, MO to undergo electroencephalogram (EEG) recording ("brain waves") and magnetic resonance imaging (MRI) scanning ("brain pictures") to see how and where in your brain various visual stimuli are processed. This lab visit will last ≈3 hours.  You will be compensated $60 in cash for this lab visit.
@@ -32,19 +31,20 @@ This visit to the researcher's lab needs to take place the day immediately after
 
 **If you complete lab visits #1, 2, and 3, you earn a $40 "streak" bonus**
 
-### Part 2: Post-Lab Online Check-in Surveys
+## Part 2: Post-Lab Online Check-in Surveys
 - At 3, 6, 9, and 12 months after lab visit #3, you complete an online survey (≈15 min).
 - You earn $10 per survey.
 - If you complete the survey the day it is sent to you, you earn $10 extra.
 - If you complete all 4 surveys, you earn a $30 "streak" bonus.
 
-#### How to participate
+### How to participate
 First, complete the eligibility screener so that the research team can determine if you meet the study eligibility criteria.
 [LINK](https://www.cofresilab.org/sipsandshapes.html)
 
+### How do I know if I am eligible?
+If you are eligible, the study research team will reach out to you and send you an email inviting you to participate.
 
-#### What If I Have Questions About The Study?
-
+### What if I have questions about the study?
 You should contact the research team! 
 Dr. Roberto Cofresi
 Email: cofresir@missouri.edu
