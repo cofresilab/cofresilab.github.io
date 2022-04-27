@@ -37,8 +37,9 @@ This visit to the researcher's lab needs to take place the day immediately after
 - If you complete all 4 surveys, you earn a $30 "streak" bonus.
 
 ### How to participate
-First, complete the eligibility screener so that the research team can determine if you meet the study eligibility criteria.
-[LINK](https://www.cofresilab.org/sipsandshapes.html)
+First, complete the eligibility screener so that the research team can determine if you meet the study eligibility criteria.  
+
+<a href="https://www.cofresilab.org/sipsandshapes.html" class="button special">LINK</a>
 
 ### How do I know if I am eligible?
 If you are eligible, the study research team will reach out to you and send you an email inviting you to participate.
