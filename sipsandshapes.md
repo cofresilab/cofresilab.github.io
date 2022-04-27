@@ -36,22 +36,22 @@ This visit to the researcher's lab needs to take place the day immediately after
 - If you complete the survey the day it is sent to you, you earn $10 extra ("prompt bonus")
 - If you complete all 4 surveys, you earn a $30 "streak" bonus.
 
-### How to participate
+## How to participate
 First, complete the eligibility screener so that the research team can determine if you meet the study eligibility criteria.  
 
-<a href="https://www.cofresilab.org/sipsandshapes.html" class="button special">LINK</a>
+<a href="https://www.cofresilab.org/sipsandshapes.html" class="button special">Eligibility Screener</a>
 
-### How do I know if I am eligible?
+## How do I know if I am eligible?
 If you are eligible, the study research team will reach out to you and send you an email inviting you to participate.
 
-### What if I have questions about the study?
+## What if I have questions about the study?
 You should contact the research team! 
 Dr. Roberto Cofresi
 Email: cofresir@missouri.edu
 
 
 <a id="directions">
-### You have been invited to participate. Where to go for lab visits? </a>
+## Where to go for lab visits? </a>
 [View address in Google Maps](https://goo.gl/maps/qyhsaqvywLMfFqir7)  
 115 Melvin H. Marx Building  
 University of Missouri  
