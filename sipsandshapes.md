@@ -4,9 +4,7 @@ title: Sips and Shapes Study
 image: 
 ---
 
-<img src="/assets/images/SASS2.png" width="700">
-
-
+<img src="/assets/images/SASS_webpage_infographic_blocked.png" width="700">
 
 
 
@@ -50,8 +48,8 @@ Dr. Roberto Cofresi
 Email: cofresir@missouri.edu
 
 
-<a id="directions">
-## Where to go for lab visits? </a>
+<a id="directions"></a>
+## Where to go for lab visits?
 [View address in Google Maps](https://goo.gl/maps/qyhsaqvywLMfFqir7)  
 115 Melvin H. Marx Building  
 University of Missouri  
