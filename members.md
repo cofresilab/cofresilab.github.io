@@ -4,7 +4,8 @@ title: Members
 image: 
 ---
 
-
+<div class="row">
+	<div class="6u 12u$(small)">
 
 <h3> Lab director </h3>	
 <p><span class="image left"><img src="assets/images/roberto_cofresi1.jpg" alt="" /></span> 
@@ -27,5 +28,9 @@ image:
 			
 
 
+
+
+</div>
+</div>
 
 
