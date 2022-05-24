@@ -28,11 +28,16 @@ image:
 			
 </div>
 
+</div>
+
+
+
+Magna
+
+
 <div class="6u$ 12u$(small)">
 
-hello
-
-</div>
+Magna odioMagna odio
 
 </div>
 
