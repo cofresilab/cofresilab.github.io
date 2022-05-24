@@ -20,7 +20,7 @@ image:
 	</div>
 	<div class="6u$ 12u$(small)">
 	    <p><span class="image left"><img src="assets/images/liam_peck.jpeg" alt="" /></span>
-      <h3>Liam Peck</h3>
+      <h4>Liam Peck</h4>
       Undergraduate student majoring in Psychology (Senior). He has been working with Dr. Cofresi since Fall 2021         and will be doing is Honors Thesis in 2022-2023 under the supervision of Drs. Bartholow and Cofresi.
   </div>
 	
