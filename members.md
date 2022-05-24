@@ -26,9 +26,11 @@ image:
 </div>
 
 
+
+</div>
+
 <div class="6u$ 12u$(medium)">
 
 hello
 
-</div>
 </div>
