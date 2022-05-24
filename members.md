@@ -4,7 +4,7 @@ title: Members
 image: 
 ---
 
-<div class="row 200%">
+<div class="row">
 
 	<div class="6u$ 12u$(small)">
 	
