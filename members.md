@@ -32,12 +32,3 @@ image:
 
 
 
-Magna
-
-
-<div class="6u$ 12u$(small)">
-
-Magna odioMagna odio
-
-</div>
-
