@@ -17,14 +17,14 @@ image:
 <h3> Undergraduate Research Assistants </h3>
 <p><span class="image left"><img src="assets/images/missing1.jpg" alt="" /></span> 
 <h4>Liz Conley</h4>
-<b>Liz Conley</b> is an an undergraduate student double-majoring in Physics and Electrical Engineering. She has been working with Dr. Cofresi since Summer 2021 on the development of a liquid delivery device used to test cue-reactivity. She has been received training in neuroscience and psychology from Dr. Cofresi.
+Undergraduate student double-majoring in Physics and Electrical Engineering. Liz has been working with Dr. Cofresi since Summer 2021 on the development of a liquid delivery device used to test cue-reactivity. She has been received training in neuroscience and psychology from Dr. Cofresi.
 
 <hr>
 
 
 <p><span class="image left"><img src="assets/images/liam_peck.jpeg" alt="" /></span>
-<h3>Magna odio tempus commodo</h3>
-<b>Liam Peck</b> is a research assistant in the Cofresilab. He has been working with Dr. Cofresi since Fall 2021. Liam is a Senior Psychology major who is doing is Honors Thesis with Drs. Bartholow and Cofresi.
+<h3>Liam Peck</h3>
+Undergraduate student majoring in Psychology (Senior). He has been working with Dr. Cofresi since Fall 2021 and will be doing is Honors Thesis in 2022-2023 under the supervision of Drs. Bartholow and Cofresi.
 			
 
 
