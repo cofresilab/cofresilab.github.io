@@ -7,6 +7,7 @@ image:
 <div class="row">
 	<div class="6u 12u$(small)">
 
+
 <h3> Lab director </h3>	
 <p><span class="image left"><img src="assets/images/roberto_cofresi1.jpg" alt="" /></span> 
 <h4>Dr. Roberto Cofresi</h4>
@@ -21,13 +22,10 @@ image:
 <hr>
 
 
-
 <p><span class="image left"><img src="assets/images/liam_peck.jpeg" alt="" /></span>
 <h3>Magna odio tempus commodo</h3>
 <b>Liam Peck</b> is a research assistant in the Cofresilab. He has been working with Dr. Cofresi since Fall 2021. Liam is a Senior Psychology major who is doing is Honors Thesis with Drs. Bartholow and Cofresi.
 			
-
-
 
 
 </div>
