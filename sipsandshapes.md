@@ -4,7 +4,7 @@ title: Sips and Shapes Study
 image: 
 ---
 
-<img src="/assets/images/SASS_webpage_infographic_blocked.png" width="700">
+<img src="/assets/images/SASS_webpage_infographic_blocked_73122.png" width="700">
 
 
 
