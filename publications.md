@@ -15,7 +15,7 @@ View [Dr. Cofresi's Google Scholar](https://scholar.google.com/citations?user=nR
 
 #### In Press
 
-<i class="fa fa-chevron-right" aria-hidden="true"></i>
+<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Kohen, C., Cofresí, R.U., Bartholow, B.D., & Piasecki, T.M. (In Press). 
 Alcohol craving in the natural environment: Moderating roles of cue exposure, drinking, and alcohol sensitivity.
 <em>Experimental and Clinical Psychopharmacology.</em> Advance online publication. https://doi.org/10.1037/pha0000540
