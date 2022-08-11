@@ -21,7 +21,7 @@ Alcohol craving in the natural environment: Moderating roles of cue exposure, dr
 <em>Experimental and Clinical Psychopharmacology.</em> Advance online publication. https://doi.org/10.1037/pha0000540
 <br/>
 <a href="assets/docs/pub/Kohen et al., 2022 Alcohol Craving in the Natural Environment- Moderating Roles of Cue Exposure, Drinking, and Alcohol Sensitivity.pdf"> <i class="fa fa-download icons"></i> </a>PDF 
-			        | <a href="https://doi.org/10.1037/pha0000540" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI
+			        | <a href="https://doi.org/10.1037/pha0000540 class="icon" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI
 			       
 <hr class="major" />
 			        
