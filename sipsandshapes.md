@@ -4,7 +4,7 @@ title: Sips and Shapes Study
 image: 
 ---
 
-<img src="/assets/images/SASS_webpage_infographic_blocked.png" width="700">
+<img src="/assets/images/SASS_webpage_infographic_blocked_73122.png" width="700">
 
 
 
@@ -21,7 +21,7 @@ The Sips and Shapes Study (sometimes abbreviated "SAS Study") is conducted by re
 Visit the researcher's lab on the MU campus in Columbia, MO to undergo electroencephalogram (EEG) recording ("brain waves") and magnetic resonance imaging (MRI) scanning ("brain pictures") to see how and where in your brain various visual stimuli are processed. This lab visit will last ≈3 hours.  You will be compensated $60 in cash for this lab visit.
 
 #### Lab Visit #2 (Learning): 
-Return to the researcher's lab to complete a computerized learning task in which you are presented in various visual stimuli, some of which predict receipt of a liquid reward containing alcohol or sugar. During this visit, you will also complete questionnaires about your feelings and provide breath samples to track changes in breath alcohol level. The amount of alcohol served will be equivalent to 1-2 standard drinks and the amount of sugar served will be equivalent to an 8-oz. glass of fruit juice. This lab visit will last ≈4 hours to make sure you are sober before you leave. You will be compensated $80.
+Return to the researcher's lab to complete a computerized learning task in which you are presented various visual stimuli, some of which predict receipt of a liquid reward containing alcohol or sugar. Your EEG ("brain waves") will be recorded while you complete this task. During this visit, you will also complete questionnaires about your feelings and provide breath samples to track changes in breath alcohol level. The amount of alcohol served will be equivalent to 1-2 standard drinks and the amount of sugar served will be equivalent to an 8-oz. glass of fruit juice. This lab visit will last ≈4 hours to make sure you are sober before you leave. You will be compensated $80.
 
 #### Lab Visit #3 (Post-Learning):
 This visit to the researcher's lab needs to take place the day immediately after lab visit #2. It will be a repeat of lab visit #1. You can earn $60. 
