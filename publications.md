@@ -86,20 +86,14 @@ Female drinkers are more sensitive than male drinkers to alcohol-induced heart r
 
 #### 2019
                 
-			<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-				Cofresi, R.U., Bartholow, B.D., &amp; Piasecki, T.M. (2019). 
-				Evidence for incentive salience sensitization as a pathway to alcohol use disorder. 
-				<em>Neuroscience and Biobehavioral Reviews, 107</em>, 897-926. https://doi.org/10.1016/j.neubiorev.2019.10.009
-				<br/> 
-				<a href="assets/docs/pub/2019/cofresi_bartholow_piasecki_2019_ist_and_aud.pdf">  <i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1016/j.neubiorev.2019.10.009" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI</li> </p> 
-				
-				
-				
-				
-				
-				
-				
-				
+<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Cofresi, R.U., Bartholow, B.D., &amp; Piasecki, T.M. (2019). 
+Evidence for incentive salience sensitization as a pathway to alcohol use disorder. 
+<em>Neuroscience and Biobehavioral Reviews, 107</em>, 897-926. https://doi.org/10.1016/j.neubiorev.2019.10.009
+<br/> 
+<a href="assets/docs/pub/2019/cofresi_bartholow_piasecki_2019_ist_and_aud.pdf">  <i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1016/j.neubiorev.2019.10.009" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI</li> </p> 
+
+<hr class="major" />
 
 
 <h2> In prep/under review </h2>
