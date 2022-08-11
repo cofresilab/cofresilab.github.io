@@ -11,7 +11,7 @@ View [Dr. Cofresi's Google Scholar](https://scholar.google.com/citations?user=nR
 
 <p> Disclaimer: The PDFs available for download from this page are intended for fair use as defined by U.S. Copyright law, and may not be used for commercial purposes. The definitive versions of journal publications are available from the publishers’ websites. </p>
 	   
-	 <hr> <a id="InPress"> <h2>In Press</h2> </a>
+	
 	 
 	 
 		<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>    
