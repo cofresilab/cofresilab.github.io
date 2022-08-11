@@ -13,7 +13,7 @@ View [Dr. Cofresi's Google Scholar](https://scholar.google.com/citations?user=nR
 
 <hr class="major" />
 
-# In Press
+#### In Press
 
 <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Kohen, C., Cofresí, R.U., Bartholow, B.D., & Piasecki, T.M. (In Press). 
@@ -25,9 +25,9 @@ Alcohol craving in the natural environment: Moderating roles of cue exposure, dr
 			       
 <hr class="major" />
 			        
-# 2022
+#### 2022
 	    
-<i class="fa fa-chevron-right" aria-hidden="true"></i>
+<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Cofresí, R.U., Kohen, C., Motschman, C., Wiers, R.W., Piasecki, T.M., & Bartholow, B.D. (2022)
 Behavioral response bias and event-related brain potentials implicate elevated incentive salience attribution to alcohol cues in emerging adults with lower sensitivity to alcohol. 
 <em>Addiction</em>  117, 892–904. https://doi.org/10.1111/add.15728
@@ -45,7 +45,7 @@ Internal consistency and test-retest reliability of the P3 event-related potenti
 
 <hr class="major" />
 
-# 2021
+#### 2021
 				
 <p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Cofresí, R.U., Watts, A.L., Martins, J.S., Wood, P.K., Sher, K.J., Cowan, N., Miyake, A., & Bartholow, B.D. (2021) 
@@ -63,26 +63,28 @@ Transfer of incentive salience from a first-order alcohol cue to a novel second-
 					
 <hr class="major" />
 
-# 2020
+#### 2020
 			   
 			   
-			<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-				Cofresí, R.U., &amp; Bartholow, B.D. (2020). 
-				Acute effects of alcohol on error-elicited negative affect during a cognitive control task. 
-				<em>Psychopharmacology</em>, <em>237,</em>3383–3397. https://doi.org/10.1007/s00213-020-05619-4
-				<br/>
-				<a href="assets/docs/pub/2020/Cofresi-Bartholow2020_AcuteEffectsOfAlcoholOnError-elicited-NA.pdf"> <i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1007/s00213-020-05619-4" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI</li> </p> 
+<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Cofresí, R.U., &amp; Bartholow, B.D. (2020). 
+Acute effects of alcohol on error-elicited negative affect during a cognitive control task. 
+<em>Psychopharmacology</em>, <em>237,</em>3383–3397. https://doi.org/10.1007/s00213-020-05619-4
+<br/>
+<a href="assets/docs/pub/2020/Cofresi-Bartholow2020_AcuteEffectsOfAlcoholOnError-elicited-NA.pdf"> <i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1007/s00213-020-05619-4" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI</li> </p> 
 			
 			
-				<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-				Cofresi, R.U., Bartholow, B.D., &amp; Fromme, K. (2020). 
-				Female drinkers are more sensitive than male drinkers to alcohol-induced heart rate increase. 
-				<em>Experimental and Clinical Psychopharmacology, 28</em>(5), 540-552. https://psycnet.apa.org/doi/10.1037/pha0000338
-				<br/>
-				<a href="assets/docs/pub/2020/Cofresi-Bartholow-Fromme_2020_Female_Drinkers.pdf"> <i class="fa fa-download icons"></i> </a>PDF | <a href="https://psycnet.apa.org/doi/10.1037/pha0000338" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI</li> </p> 
+<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Cofresi, R.U., Bartholow, B.D., &amp; Fromme, K. (2020). 
+Female drinkers are more sensitive than male drinkers to alcohol-induced heart rate increase. 
+<em>Experimental and Clinical Psychopharmacology, 28</em>(5), 540-552. https://psycnet.apa.org/doi/10.1037/pha0000338
+<br/>
+<a href="assets/docs/pub/2020/Cofresi-Bartholow-Fromme_2020_Female_Drinkers.pdf"> <i class="fa fa-download icons"></i> </a>PDF | <a href="https://psycnet.apa.org/doi/10.1037/pha0000338" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI</li> </p> 
 	      
 	      
-	      <hr> <a id="2019"> <h2>2019</h2> </a>
+<hr class="major" />
+
+#### 2019
                 
 			<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 				Cofresi, R.U., Bartholow, B.D., &amp; Piasecki, T.M. (2019). 
