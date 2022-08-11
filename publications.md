@@ -10,18 +10,16 @@ View [Dr. Cofresi's Google Scholar](https://scholar.google.com/citations?user=nR
 
 
 <p> Disclaimer: The PDFs available for download from this page are intended for fair use as defined by U.S. Copyright law, and may not be used for commercial purposes. The definitive versions of journal publications are available from the publishers’ websites. </p>
-	   
-	
-	 
-	 
-		<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>    
-		    Kohen, C., Cofresí, R.U., Bartholow, B.D., & Piasecki, T.M. (In Press). 
-               Alcohol craving in the natural environment: Moderating roles of cue exposure, drinking, and alcohol sensitivity.
-               <em>Experimental and Clinical Psychopharmacology.</em> Advance online publication. https://doi.org/10.1037/pha0000540
-			        <br/>
-			        <a href="assets/docs/pub/Kohen et al., 2022 Alcohol Craving in the Natural Environment- Moderating Roles of Cue Exposure, Drinking, and Alcohol Sensitivity.pdf"> <i class="fa fa-download icons"></i> </a>PDF 
+
+
+
+Kohen, C., Cofresí, R.U., Bartholow, B.D., & Piasecki, T.M. (In Press). 
+Alcohol craving in the natural environment: Moderating roles of cue exposure, drinking, and alcohol sensitivity.
+<em>Experimental and Clinical Psychopharmacology.</em> Advance online publication. https://doi.org/10.1037/pha0000540
+<br/>
+<a href="assets/docs/pub/Kohen et al., 2022 Alcohol Craving in the Natural Environment- Moderating Roles of Cue Exposure, Drinking, and Alcohol Sensitivity.pdf"> <i class="fa fa-download icons"></i> </a>PDF 
 			        | <a href="https://doi.org/10.1037/pha0000540" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI
-			        </li> </p>
+			       
 			        
 			        
 			        
