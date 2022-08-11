@@ -3,15 +3,20 @@ layout: page
 title: Members
 image: 
 ---
+
+<!--start row-->
 <div class="row">
 
+
+<!-- Roberto-->
 	<div class="6u$ 12u$(small)">
 		<h3>Roberto (Lab Director)</h3>
-		
 <span class="image left"><img src="assets/images/members/roberto_cofresi1.jpg" alt="" /></span> 
 		<p><b>Dr. Roberto Cofresi</b> (he/his) is an Assistant Research Professor at the University of Missouri - Columbia. He earned a B.Sc. in biochemistry and a Ph.D. in neuroscience from the University of Texas at Austin in 2018. Dr. Cofresí is interested in adapting promising anti-addiction and anti-relapse interventions identified in preclinical rodent models for use on human subjects and testing those adapted interventions in the preclinical human laboratory.  Contact him at: cofresir at missouri.edu</p>
 	</div>
 	
+	
+<!-- Liz-->	
 	<div class="6u$ 12u$(small)">
 		<h3>Liz (Research Assistant)</h3>
 		<span class="image left"><img src="assets/images/members/liz_conley3.jpeg" alt="" /></span>
@@ -19,8 +24,19 @@ image:
 	</div>
 
 	
+	<!--end row-->
+</div>
+
 	
-	<!-- Break -->
+	
+	
+	
+	
+	
+<!--start row-->
+<div class="row">
+
+	<!-- Liam -->
 	<div class="6u$ 12u$(small)">
 		<h3>Liam (Research Assistant)</h3>
 		<span class="image left"><img src="assets/images/members/liam_peck.jpeg" alt="" /></span>
@@ -29,6 +45,8 @@ image:
 	
 	<br>
 	
+	
+	<!-- Ian-->
 	<div class="6u$ 12u$(small)">
 		<h3>Ian (Research Assistant)</h3>
 		<span class="image left"><img src="assets/images/members/missing1.jpg" alt="" /></span>
@@ -37,7 +55,7 @@ image:
 	
 	
 	
-	<!--end-->
+	<!--end row-->
 </div>
 
 
