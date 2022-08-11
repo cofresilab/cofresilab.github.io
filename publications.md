@@ -12,6 +12,7 @@ View [Dr. Cofresi's Google Scholar](https://scholar.google.com/citations?user=nR
 <p> Disclaimer: The PDFs available for download from this page are intended for fair use as defined by U.S. Copyright law, and may not be used for commercial purposes. The definitive versions of journal publications are available from the publishers’ websites. </p>
 
 <hr class="major" />
+
 # In Press
 
 <i class="fa fa-chevron-right" aria-hidden="true"></i>
@@ -32,43 +33,37 @@ Behavioral response bias and event-related brain potentials implicate elevated i
 <em>Addiction</em>  117, 892–904. https://doi.org/10.1111/add.15728
  <br/>
 <a href="assets/docs/pub/2022/Cofresi2022-Addiction-Behavioral.pdf"> <i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1111/add.15728" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI</li> </p>
-	 
-	      
-	      <p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-			    Martins, J.S., Joyner, K.J., Morris, D., Patrick, C.J., & Bartholow, B.D. (2022). 
-			    Differential brain responses to alcohol-related and natural rewards are associated with alcohol use and problems: Evidence for reward dysregulation. 
-			    <em>Addiction Biology</em> 27(2), e13118. https://doi.org/10.1111/adb.13118
-			    <br/>
-			      <a href="assets/docs/pub/2021/Martins_etal(2021) Reward Dysregulation and AUD risk_Addiction Biology.pdf"> <i class="fa fa-download icons"></i> </a>PDF 
-			      | <a href="https://doi.org/10.1111/adb.13118" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI</li> </p> 
 			      
-	   <p> <li> <i class="fa fa-chevron-right" aria-hidden="true">
-			    </i>Cofresí, R.U., Piasecki, T.M., Hajcak, G., & Bartholow, B.D. (2022). 
-			    Internal consistency and test-retest reliability of the P3 event-related potential (ERP) elicited by alcoholic and non-alcoholic beverage pictures. 
-			    <em>Psychophysiology</em>. https://doi.org/10.1111/psyp.13967
-			    <br/>
-			    <a href="assets/docs/pub/2021/Cofresi2021 Internal consistency and test-retest reliability of the P3.pdf"> <i class="fa fa-download icons"></i> </a>PDF 
-			    | <a href="https://doi.org/10.1111/psyp.13967" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI</li> </p> 
+<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Cofresí, R.U., Piasecki, T.M., Hajcak, G., & Bartholow, B.D. (2022). 
+Internal consistency and test-retest reliability of the P3 event-related potential (ERP) elicited by alcoholic and non-alcoholic beverage pictures. 
+<em>Psychophysiology</em>. https://doi.org/10.1111/psyp.13967
+<br/>
+<a href="assets/docs/pub/2021/Cofresi2021 Internal consistency and test-retest reliability of the P3.pdf"> <i class="fa fa-download icons"></i> </a>PDF 
+| <a href="https://doi.org/10.1111/psyp.13967" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI</li> </p> 
 				
 
 <hr class="major" />
+
 # 2021
 				
-			<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-				Cofresí, R.U., Watts, A.L., Martins, J.S., Wood, P.K., Sher, K.J., Cowan, N., Miyake, A., & Bartholow, B.D. (2021) 
-				Acute effect of alcohol on working memory updating. 
-				<em>Addiction, 116</em>, 3029-3043. https://doi.org/10.1111/add.15506
-				<br/>
-				<a href="assets/docs/pub/2021/Cofresi et al._2021_Acute effect of alcohol on working memory updating.pdf"> <i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1111/add.15506" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI</li> </p> 
+<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Cofresí, R.U., Watts, A.L., Martins, J.S., Wood, P.K., Sher, K.J., Cowan, N., Miyake, A., & Bartholow, B.D. (2021) 
+Acute effect of alcohol on working memory updating. 
+<em>Addiction, 116</em>, 3029-3043. https://doi.org/10.1111/add.15506
+<br/>
+<a href="assets/docs/pub/2021/Cofresi et al._2021_Acute effect of alcohol on working memory updating.pdf"> <i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1111/add.15506" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI</li> </p> 
 	     
-	     <p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-				 Fleming, K.A., Cofresí, R.U., &amp; Bartholow, B.D. (2021). 
-				 Transfer of incentive salience from a first-order alcohol cue to a novel second-order alcohol cue among individuals at risk for alcohol use disorder: Electrophysiological evidence. 
-				 <em>Addiction, </em>116, 1734-1746. https://doi.org/10.1111/add.15380
-				 <br/>
-				 <a href="assets/docs/pub/2021/fleming_etal-2021-_transfer-of-incentive-salience_addiction.pdf"> <i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1111/add.15380" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI</li> </p> 
+<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Fleming, K.A., Cofresí, R.U., &amp; Bartholow, B.D. (2021). 
+Transfer of incentive salience from a first-order alcohol cue to a novel second-order alcohol cue among individuals at risk for alcohol use disorder: Electrophysiological evidence. 
+<em>Addiction, </em>116, 1734-1746. https://doi.org/10.1111/add.15380
+<br/>
+<a href="assets/docs/pub/2021/fleming_etal-2021-_transfer-of-incentive-salience_addiction.pdf"> <i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1111/add.15380" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI</li> </p> 
 					
-	      <hr>  <a id="2020"> <h2>2020</h2> </a>
+<hr class="major" />
+
+# 2020
 			   
 			   
 			<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
