@@ -35,7 +35,7 @@ image:
 	
 	
 	<!-- Ian-->
-<div class="6u 12u$(medium)">
+<div class="6u 12u$(small)">
 		<h3>Ian (Research Assistant)</h3>
 		<span class="image left"><img src="assets/images/missing1.jpg" alt="" /></span>
 		<p><b>Mr. Ian Flowers</b> is an undergraduate student majoring in Psychology (Junior). Mentored by Dr. Cofresi since Fall 2021, he has learned how to use Matlab pipelines in order to perfom EEG/ERP data processing.</p>
