@@ -5,7 +5,7 @@ image:
 ---
 
 <!--start row-->
-<div class="row">
+<div class="row 200%">
 
 
 <!-- Roberto-->
