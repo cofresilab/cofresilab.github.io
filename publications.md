@@ -5,9 +5,9 @@ image:
 ---
 
 
-View [Dr. Cofresi's Google Scholar](https://scholar.google.com/citations?user=nRAErPEAAAAJ&hl=en) for publications with H-index.
+<a href="#" class="button special icon fa-download">CV</a> & [Dr. Cofresi's Google Scholar](https://scholar.google.com/citations?user=nRAErPEAAAAJ&hl=en) for publications with H-index.
 
-<a href="#" class="button special icon fa-download">CV</a>
+
 
 <p> Disclaimer: The PDFs available for download from this page are intended for fair use as defined by U.S. Copyright law, and may not be used for commercial purposes. The definitive versions of journal publications are available from the publishers’ websites. </p>
 
