@@ -11,6 +11,54 @@ View [Dr. Cofresi's Google Scholar](https://scholar.google.com/citations?user=nR
 
 <p> Disclaimer: The PDFs available for download from this page are intended for fair use as defined by U.S. Copyright law, and may not be used for commercial purposes. The definitive versions of journal publications are available from the publishers’ websites. </p>
 
+
+	      
+	      <!-- List of Publications Start -->
+	   
+	 <hr> <a id="InPress"> <h2>In Press</h2> </a>
+	 
+	 
+		<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>    
+		    Kohen, C., Cofresí, R.U., Bartholow, B.D., & Piasecki, T.M. (In Press). 
+               Alcohol craving in the natural environment: Moderating roles of cue exposure, drinking, and alcohol sensitivity.
+               <em>Experimental and Clinical Psychopharmacology.</em> Advance online publication. https://doi.org/10.1037/pha0000540
+			        <br/>
+			        <a href="assets/docs/pub/Kohen et al., 2022 Alcohol Craving in the Natural Environment- Moderating Roles of Cue Exposure, Drinking, and Alcohol Sensitivity.pdf"> <i class="fa fa-download icons"></i> </a>PDF 
+			        | <a href="https://doi.org/10.1037/pha0000540" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI
+			        </li> </p>
+			        
+			        
+			        
+			         
+         <hr> <a id="2022"> <h2>2022</h2> </a>
+	    
+			        
+			        
+	     <p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+			    Cofresí, R.U., Kohen, C., Motschman, C., Wiers, R.W., Piasecki, T.M., & Bartholow, B.D. (2022)
+			    Behavioral response bias and event-related brain potentials implicate elevated incentive salience attribution to alcohol cues in emerging adults with lower sensitivity to alcohol. 
+			    <em>Addiction</em>  117, 892–904. https://doi.org/10.1111/add.15728
+			    <br/>
+			    <a href="assets/docs/pub/2022/Cofresi2022-Addiction-Behavioral.pdf"> <i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1111/add.15728" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI</li> </p>
+	 
+	      
+	      <p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+			    Martins, J.S., Joyner, K.J., Morris, D., Patrick, C.J., & Bartholow, B.D. (2022). 
+			    Differential brain responses to alcohol-related and natural rewards are associated with alcohol use and problems: Evidence for reward dysregulation. 
+			    <em>Addiction Biology</em> 27(2), e13118. https://doi.org/10.1111/adb.13118
+			    <br/>
+			      <a href="assets/docs/pub/2021/Martins_etal(2021) Reward Dysregulation and AUD risk_Addiction Biology.pdf"> <i class="fa fa-download icons"></i> </a>PDF 
+			      | <a href="https://doi.org/10.1111/adb.13118" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI</li> </p> 
+			      
+	   <p> <li> <i class="fa fa-chevron-right" aria-hidden="true">
+			    </i>Cofresí, R.U., Piasecki, T.M., Hajcak, G., & Bartholow, B.D. (2022). 
+			    Internal consistency and test-retest reliability of the P3 event-related potential (ERP) elicited by alcoholic and non-alcoholic beverage pictures. 
+			    <em>Psychophysiology</em>. https://doi.org/10.1111/psyp.13967
+			    <br/>
+			    <a href="assets/docs/pub/2021/Cofresi2021 Internal consistency and test-retest reliability of the P3.pdf"> <i class="fa fa-download icons"></i> </a>PDF 
+			    | <a href="https://doi.org/10.1111/psyp.13967" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI</li> </p> 
+				
+
 <h2> In prep/under review </h2>
 6.  Cofresí, R. U., Motschman, C. A., Bartholow, B. D., and Piasecki, T. M. Stability of tonic and phasic alcohol craving in the lab across early emerging adulthood. in prep.
 5.  Kohen, C. B., Cofresí, R. U., Piasecki, T. M., and Bartholow, B. D. Measures of sensitivity to the effects of alcohol: trait-stability and concomittant changes with alcohol involvement. in prep.
