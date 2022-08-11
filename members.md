@@ -15,16 +15,25 @@ image:
 	<div class="6u$ 12u$(small)">
 		<h3>Liz (Research Assistant)</h3>
 		<span class="image left"><img src="assets/images/members/liz_conley3.jpeg" alt="" /></span>
-		<p>Ms. Elizabeth Conley is an undergraduate student double-majoring in Physics and Electrical Engineering. Liz has been working with Dr. Cofresi since Summer 2021 on the development of a liquid delivery device used to test cue-reactivity. She has been received training in neuroscience and psychology from Dr. Cofresi.</p>
+		<p><br>Ms. Elizabeth Conley</br> is an undergraduate student double-majoring in Physics and Electrical Engineering. Liz has been working with Dr. Cofresi since Summer 2021 on the development of a liquid delivery device used to test cue-reactivity. She has been received training in neuroscience and psychology from Dr. Cofresi.</p>
 	</div>
 	
 	<!-- Break -->
 	<div class="6u$ 12u$(small)">
 		<h3>Liam (Research Assistant)</h3>
 		<span class="image left"><img src="assets/images/members/liam_peck.jpeg" alt="" /></span>
-		<p>Mr. Liam Peck is an undergraduate student majoring in Psychology (Senior). He has been working with Dr. Cofresi since Fall 2021 and will be doing is Honors Thesis in 2022-2023 under the supervision of Drs. Bartholow and Cofresi.</p>
+		<p><br>Mr. Liam Peck</br> is an undergraduate student majoring in Psychology (Senior). He has been working with Dr. Cofresi since Fall 2021 and will be doing his Honors Thesis in 2022-2023 under the supervision of Drs. Bartholow and Cofresi.</p>
 	</div>
 	
+	<div class="6u$ 12u$(small)">
+		<h3>Ian (Research Assistant)</h3>
+		<span class="image left"><img src="assets/images/members/liam_peck.jpeg" alt="" /></span>
+		<p><br>Mr. Ian Flowers</br> is an undergraduate student majoring in Psychology (Junior). Mentored by Dr. Cofresi since Fall 2021, he has learned how to use Matlab pipelines in order to perfom EEG/ERP data processing.</p>
+	</div>
+	
+	
+	
+	<!--end-->
 </div>
 
 
