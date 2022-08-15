@@ -11,9 +11,27 @@ image:
 
 <p> Disclaimer: The PDFs available for download from this page are intended for fair use as defined by U.S. Copyright law, and may not be used for commercial purposes. The definitive versions of journal publications are available from the publishers’ websites. </p>
 
+
+
+<!-- Years -->
+	      <p class="text-center">
+	      <a href="#InPress"> In Press <i class="fa fa-arrow-circle-o-down icons"></i></a> |
+	      <a href="#2022"> 2022 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
+	      <a href="#2021"> 2021 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
+	      <a href="#2020"> 2020 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
+	      <a href="#2019"> 2019 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
+	      <a href="#2018"> 2018 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
+	      <a href="#2017"> 2017 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
+	      <a href="#2016"> 2016 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
+	      <a href="#2015"> 2015 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
+	      <a href="#2014"> 2014 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
+	      <a href="#2013"> 2013 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
+	      <a href="#2012"> 2012 <i class="fa fa-arrow-circle-o-down icons"></i></a>   
+	      </p>
+
 <hr class="major" />
 
-#### In Press
+#### <a id="InPress">  In Press </a>
 
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Kohen, C., Cofresí, R.U., Bartholow, B.D., & Piasecki, T.M. (In Press). 
@@ -25,7 +43,7 @@ Alcohol craving in the natural environment: Moderating roles of cue exposure, dr
 			       
 <hr class="major" />
 			        
-#### 2022
+#### <a id="2022"> 2022 </a>
 	    
 <p>  <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Cofresí, R.U., Kohen, C., Motschman, C., Wiers, R.W., Piasecki, T.M., & Bartholow, B.D. (2022)
@@ -45,7 +63,7 @@ Internal consistency and test-retest reliability of the P3 event-related potenti
 
 <hr class="major" />
 
-#### 2021
+#### <a id="2021"> 2021 </a>
 				
 <p>  <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Cofresí, R.U., Watts, A.L., Martins, J.S., Wood, P.K., Sher, K.J., Cowan, N., Miyake, A., & Bartholow, B.D. (2021) 
@@ -61,9 +79,13 @@ Transfer of incentive salience from a first-order alcohol cue to a novel second-
 <br/>
 <a href="assets/docs/pub/fleming_etal-2021-_transfer-of-incentive-salience_addiction.pdf"> <i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1111/add.15380" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
 					
+					
+					
 <hr class="major" />
 
-#### 2020
+
+
+#### <a id="2020"> 2020 </a>
 			   
 			   
 <p>  <i class="fa fa-chevron-right" aria-hidden="true"></i>
@@ -77,14 +99,23 @@ Acute effects of alcohol on error-elicited negative affect during a cognitive co
 <p>  <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Cofresi, R.U., Bartholow, B.D., &amp; Fromme, K. (2020). 
 Female drinkers are more sensitive than male drinkers to alcohol-induced heart rate increase. 
-<em>Experimental and Clinical Psychopharmacology, 28</em>(5), 540-552. https://psycnet.apa.org/doi/10.1037/pha0000338
+<em>Experimental and Clinical Psychopharmacology, </em>28 (5), 540-552. https://psycnet.apa.org/doi/10.1037/pha0000338
 <br/>
 <a href="assets/docs/pub/Cofresi-Bartholow-Fromme_2020_Female_Drinkers.pdf"> <i class="fa fa-download icons"></i> </a>PDF | <a href="https://psycnet.apa.org/doi/10.1037/pha0000338" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
+
+<p>  <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Vena, A. A., Zandy, S. L., Cofresí, R. U., & Gonzales, R. A. (2020). Behavioral, neurobiological, and neurochemical mechanisms of ethanol self-administration: A translational review. 
+<em>Pharmacology & Therapeutics,</em> 212, 107573. https://doi.org/10.1016/j.pharmthera.2020.107573
+<br/>
+<a href="assets/docs/pub/Vena_et_al_2020.pdf"> <i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1016/j.pharmthera.2020.107573" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
+
+	      
 	      
 	      
 <hr class="major" />
 
-#### 2019
+
+#### <a id="2019"> 2019 </a>
                 
 <p>  <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Cofresi, R.U., Bartholow, B.D., &amp; Piasecki, T.M. (2019). 
@@ -93,6 +124,91 @@ Evidence for incentive salience sensitization as a pathway to alcohol use disord
 <br/> 
 <a href="assets/docs/pub/cofresi_bartholow_piasecki_2019_ist_and_aud.pdf">  <i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1016/j.neubiorev.2019.10.009" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
 
+
+<p>  <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Cofresí, R. U., Gonzales, R. A., Monfils, M.-H., Chaudhri, N., & Lee, H. J. Cue-alcohol associative learning in female rats. (2019). 
+<em>Alcohol,</em> 81, 1–9. https://doi.org/10.1016/j.alcohol.2019.03.003
+<br/>
+<a href="#"></i> </a>PDF [not available at this time] | <a href="https://doi.org/10.1016/j.alcohol.2019.03.003" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
+
+
+
+<p>  <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Cofresí, R. U., Grote, D.J., Le, E.V.T, Gonzales, R. A., Monfils, M.-H., Chaudhri, N., & Lee, H. J. Alcohol-associated antecedent stimuli elicit alcohol seeking in non-dependent rats and may activate the insula. (2019). 
+<em>Alcohol,</em> 76, 91–102. https://doi.org/10.1016/j.alcohol.2018.08.004.
+<br/>
+<a href="#"></i> </a>PDF [not available at this time] | <a href="https://doi.org/10.1016/j.alcohol.2018.08.004" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
+
+
+
 <hr class="major" />
+
+
+#### <a id="2018"> 2018 </a>
+
+<p>  <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Monfils, M.-H., Lee, H. J., Keller, N. E., Roquet, R. A., Quevedo, S., Agee, L., Cofresí, R. U., & Shumake, J. Predicting extinction phenotype to optimize fear reduction. (2018). 
+<em>Psychopharmacology, </em>236 (1), 99-110. https://doi.org/10.1007/s00213-018-5005-6
+<br/>
+<a href="assets/docs/pub/Monfils_et_al_2018.pdf"></i> </a>PDF | <a href="https://doi.org/10.1007/s00213-018-5005-6" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
+
+
+<p>  <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Cofresí, R. U., Lee, H. J., Monfils, M.-H., Chaudhri, N., & Gonzales, R. A. Characterizing conditioned reactivity to sequential alcohol-predictive cues in well-trained rats. (2018). 
+<em>Alcohol, </em>69, 41–49. https://doi.org/10.1016/j.alcohol.2017.11.034
+<br/>
+<a href="#"></i> </a>PDF [not available at this time]  | <a href="https://doi.org/10.1016/j.alcohol.2017.11.034" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
+
+
+
+<hr class="major" />
+
+#### <a id="2017"> 2017 </a>
+
+<p>  <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Cofresí, R. U., Lewis, S. M., Chaudhri, N., Lee, H. J., Monfils, M.-H., & Gonzales, R. A. (2017). Postretrieval Extinction Attenuates Alcohol Cue Reactivity in Rats. 
+<em>Alcoholism: Clinical and Experimental Research,</em>41(3), 608–617. http://doi.org/10.1111/acer.13323
+<br/>
+<a href="#"></i> </a>PDF [not available at this time]  | <a href="http://doi.org/10.1111/acer.13323" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
+
+
+
+
+<hr class="major" />
+
+#### <a id="2016"> 2016 </a>
+
+<p>  <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Shnitko, T. A., Taylor, S. C., Stringfield, S. J., Zandy, S. L., Cofresí, R. U., Doherty, J. M., Lynch, W., Boettiger, C., Gonzales, R.A., Robinson, D. L. (2016). Acute phenylalanine/tyrosine depletion of phasic dopamine in the rat brain. 
+<em> Psychopharmacology, </em>233(11), 2045–2054. http://doi.org/10.1007/s00213-016-4259-0
+<br/>
+<a href="assets/docs/pub/Shnitko_et_al_2016.pdf"></i> </a>PDF [not available at this time]  | <a href="http://doi.org/10.1007/s00213-016-4259-0" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
+
+
+
+
+<hr class="major" />
+
+#### <a id="2014"> 2014 </a>
+
+<p>  <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Mangieri, R. A., Cofresí, R. U., & Gonzales, R. A. (2014). Ethanol exposure interacts with training conditions to influence behavioral adaptation to a negative instrumental contingency. 
+<em>Frontiers in Behavioral Neuroscience, </em> 8(June), 1–9. http://doi.org/10.3389/fnbeh.2014.00220
+<br/>
+<a href="assets/docs/pub/Mangieri_et_al_2014.pdf"></i> </a>PDF [not available at this time]  | <a href="http://doi.org/10.3389/fnbeh.2014.00220" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
+
+
+
+
+
+<hr class="major" />
+
+#### <a id="2012"> 2012 </a>
+
+<p>  <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Mangieri, R. A., Cofresí, R. U., & Gonzales, R. A. (2012). Ethanol Seeking by Long Evans Rats Is Not Always a Goal-Directed Behavior. 
+<em>PLoS ONE, </em> 7(8), e42886. http://doi.org/10.1371/journal.pone.0042886
+<br/>
+<a href="assets/docs/pub/Mangieri_et_al_2012.pdf"></i> </a>PDF [not available at this time]  | <a href="http://doi.org/10.1371/journal.pone.0042886" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
 
 
