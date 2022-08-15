@@ -15,6 +15,8 @@ image:
 	
 	
 	
+<hr class="major" />	
+	
 <!-- Liz-->	
 
 		<h3>Liz (Research Assistant)</h3>
@@ -22,7 +24,7 @@ image:
 		<p><b>Ms. Elizabeth Conley</b> is an undergraduate student double-majoring in Physics and Electrical Engineering. Liz has been working with Dr. Cofresi since Summer 2021 on the development of a liquid delivery device used to test cue-reactivity. She has been received training in neuroscience and psychology from Dr. Cofresi.</p>
 
 
-	
+<hr class="major" />	
 
 	<!-- Liam -->
 
@@ -30,7 +32,8 @@ image:
 		<span class="image left"><img src="assets/images/members/liam_peck.jpeg" alt="" /></span>
 		<p><b>Mr. Liam Peck</b> is an undergraduate student majoring in Psychology (Senior). He has been working with Dr. Cofresi since Fall 2021 and will be doing his Honors Thesis in 2022-2023 under the supervision of Drs. Bartholow and Cofresi.</p>
 
-	
+<hr class="major" />
+
 	<!-- Ian-->
 
 		<h3>Ian (Research Assistant)</h3>
