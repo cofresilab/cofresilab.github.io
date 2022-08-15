@@ -9,7 +9,7 @@ image:
 
 
 <!-- Roberto-->
-	<div class="6u 12u$(medium)">
+	<div class="4u 12u$(medium)">
 		<h3>Roberto (Lab Director)</h3>
 <span class="image left"><img src="assets/images/members/roberto_cofresi1.jpg" alt="" /></span> 
 		<p><b>Dr. Roberto Cofresi</b> (he/his) is an Assistant Research Professor at the University of Missouri - Columbia. He earned a B.Sc. in biochemistry and a Ph.D. in neuroscience from the University of Texas at Austin in 2018. Dr. Cofresí is interested in adapting promising anti-addiction and anti-relapse interventions identified in preclinical rodent models for use on human subjects and testing those adapted interventions in the preclinical human laboratory.  Contact him at: cofresir at missouri.edu</p>
@@ -35,7 +35,7 @@ image:
 	
 	
 	<!-- Ian-->
-<div class="6u 12u$(medium)">
+<div class="4u 12u$(medium)">
 		<h3>Ian (Research Assistant)</h3>
 		<span class="image left"><img src="assets/images/missing1.jpg" alt="" /></span>
 		<p><b>Mr. Ian Flowers</b> is an undergraduate student majoring in Psychology (Junior). Mentored by Dr. Cofresi since Fall 2021, he has learned how to use Matlab pipelines in order to perfom EEG/ERP data processing.</p>
