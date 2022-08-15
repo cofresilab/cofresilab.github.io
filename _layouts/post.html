@@ -1,26 +1,48 @@
-<!-- Post content+sidebar -->
+<!DOCTYPE HTML>
+<!--
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
 
+{% include head.html %}
 
-  <!-- Blog content + sidebar -->
- <section id="post" class="blog">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-12 col-md-9">
-          <div class="mb-60"></div>
+<body>
 
-        
-              <h5> {{ page.date | date: "%B %Y" }} </h5> <br/>
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+        <!-- Main -->
+        <div id="main">
+            <div class="inner">
+
+                {% include header.html %}
+
+                <!-- Content -->
+                
+                <h5> {{ page.date | date: "%B %Y" }} </h5> <br/>
               <h3><strong>{{ page.title }}</strong></h3>
               
            {{ content }}
            
-          
            
-          <div class="mb-60"></div>
 
-         {% if page.img %}<figure>
-                <img class="resize" src="{{ BASE_PATH }}/assets/images/{{ page.img }}" alt="">
-              </figure>{% endif %}
+                  {% if page.image %}
+                	<span class="image main"><img src="{{ page.image | absolute_url }}" alt="" /></span>
+                  {% endif %}
+
+              </div>
+          </div>
+
+          {% include sidebar.html %}
+
       </div>
-     </div>
-</section>
+
+      {% include footer.html %}
+
+</body>
+
+</html>
+
+
