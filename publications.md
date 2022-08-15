@@ -11,23 +11,21 @@ image:
 
 <p> Disclaimer: The PDFs available for download from this page are intended for fair use as defined by U.S. Copyright law, and may not be used for commercial purposes. The definitive versions of journal publications are available from the publishers’ websites. </p>
 
-
-
 <!-- Years -->
-	      <p class="text-center">
-	      <a href="#InPress"> In Press <i class="fa fa-arrow-circle-o-down icons"></i></a> |
-	      <a href="#2022"> 2022 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
-	      <a href="#2021"> 2021 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
-	      <a href="#2020"> 2020 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
-	      <a href="#2019"> 2019 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
-	      <a href="#2018"> 2018 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
-	      <a href="#2017"> 2017 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
-	      <a href="#2016"> 2016 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
-	      <a href="#2015"> 2015 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
-	      <a href="#2014"> 2014 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
-	      <a href="#2013"> 2013 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
-	      <a href="#2012"> 2012 <i class="fa fa-arrow-circle-o-down icons"></i></a>   
-	      </p>
+<p class="text-center">
+<a href="#InPress"> In Press <i class="fa fa-arrow-circle-o-down icons"></i></a> |
+<a href="#2022"> 2022 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
+<a href="#2021"> 2021 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
+<a href="#2020"> 2020 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
+<a href="#2019"> 2019 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
+<a href="#2018"> 2018 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
+<a href="#2017"> 2017 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
+<a href="#2016"> 2016 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
+<a href="#2015"> 2015 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
+<a href="#2014"> 2014 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
+<a href="#2013"> 2013 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
+<a href="#2012"> 2012 <i class="fa fa-arrow-circle-o-down icons"></i></a>   
+</p>
 
 <hr class="major" />
 
