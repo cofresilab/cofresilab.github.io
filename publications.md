@@ -29,14 +29,14 @@ image:
 
 #### <a id="InPress">  In Press </a>
 
-<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
                Cofresí, R.U., Piasecki, T.M., Bartholow, B.D. et al. 
                Enhanced conditioned “liking” of novel visual cues paired with alcohol or non-alcohol beverage container images among individuals at higher risk for alcohol use disorder. 
                <em>Psychopharmacology</em> Advance online publication. https://doi.org/10.1007/s00213-022-06231-4 
                <br/>
 			        <a href="/assets/docs/pub/Cofresi_conditioned%20association_Psychopharm_2022.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
 			        | <a href="https://doi.org/10.1007/s00213-022-06231-4" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI
-               </li> </p>
+                </p>
 
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Kohen, C., Cofresí, R.U., Bartholow, B.D., & Piasecki, T.M. (In Press). 
