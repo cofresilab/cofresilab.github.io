@@ -29,14 +29,10 @@ image:
 
 #### <a id="InPress">  In Press </a>
 
-<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-               Cofresí, R.U., Piasecki, T.M., Bartholow, B.D. et al. 
-               Enhanced conditioned “liking” of novel visual cues paired with alcohol or non-alcohol beverage container images among individuals at higher risk for alcohol use disorder. 
-               <em>Psychopharmacology</em> Advance online publication. https://doi.org/10.1007/s00213-022-06231-4 
-               <br/>
-			        <a href="/assets/docs/pub/Cofresi_conditioned%20association_Psychopharm_2022.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
-			        | <a href="https://doi.org/10.1007/s00213-022-06231-4" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI
-                </p>
+<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+		Cofresí, R.U., Piasecki, T.M., & Bartholow, B.D. (In Press). 
+	      Acute Sensitization of the P3 Event-Related Potential Response (ERP) to Beverage Images and the Risk for Alcohol Use Disorder (AUD).
+	      <em> Addiction Neuroscience.</em>
 
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Kohen, C., Cofresí, R.U., Bartholow, B.D., & Piasecki, T.M. (In Press). 
@@ -49,6 +45,15 @@ Alcohol craving in the natural environment: Moderating roles of cue exposure, dr
 <hr class="major" />
 			        
 #### <a id="2022"> 2022 </a>
+	
+	<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+               Cofresí, R.U., Piasecki, T.M., Bartholow, B.D. & Schachtman, T.S. (2022).
+               Enhanced conditioned “liking” of novel visual cues paired with alcohol or non-alcohol beverage container images among individuals at higher risk for alcohol use disorder. 
+               <em>Psychopharmacology, 239</em>, 3567–3578. https://doi.org/10.1007/s00213-022-06231-4 
+               <br/>
+			        <a href="/assets/docs/pub/Cofresi_conditioned%20association_Psychopharm_2022.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
+			        | <a href="https://doi.org/10.1007/s00213-022-06231-4" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI
+                </p>
 	    
 <p>  <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Cofresí, R.U., Kohen, C., Motschman, C., Wiers, R.W., Piasecki, T.M., & Bartholow, B.D. (2022)
