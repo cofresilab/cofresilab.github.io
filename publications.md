@@ -32,7 +32,7 @@ image:
 <p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 		Cofresí, R.U., Piasecki, T.M., & Bartholow, B.D. (In Press). 
 	      Acute Sensitization of the P3 Event-Related Potential Response (ERP) to Beverage Images and the Risk for Alcohol Use Disorder (AUD).
-	      <em> Addiction Neuroscience.</em>
+	      <em> Addiction Neuroscience.</em> </p>
 
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Kohen, C., Cofresí, R.U., Bartholow, B.D., & Piasecki, T.M. (In Press). 
