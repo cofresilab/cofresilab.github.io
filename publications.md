@@ -46,10 +46,10 @@ Alcohol craving in the natural environment: Moderating roles of cue exposure, dr
 <hr class="major" />
 			        
 #### <a id="2022"> 2022 </a>
-	
-	<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-               Cofresí, R.U., Piasecki, T.M., Bartholow, B.D. & Schachtman, T.S. (2022).
-               Enhanced conditioned “liking” of novel visual cues paired with alcohol or non-alcohol beverage container images among individuals at higher risk for alcohol use disorder. 
+
+<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+ Cofresí, R.U., Piasecki, T.M., Bartholow, B.D. & Schachtman, T.S. (2022).
+ Enhanced conditioned “liking” of novel visual cues paired with alcohol or non-alcohol beverage container images among individuals at higher risk for alcohol use disorder. 
                <em>Psychopharmacology, 239</em>, 3567–3578. https://doi.org/10.1007/s00213-022-06231-4 
                <br/>
 			        <a href="/assets/docs/pub/Cofresi_conditioned%20association_Psychopharm_2022.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
