@@ -14,7 +14,9 @@ image:
 
 <div>
 <br/>
+<br/>
 <hr>
+<br/>
 <br/>
 </div>
 
@@ -32,7 +34,9 @@ Ms. Elizabeth Abigail Obregon is an undergraduate student majoring in Nutrition 
 
 <div>
 <br/>
+<br/>
 <hr>
+<br/>
 <br/>
 </div>
 
@@ -44,7 +48,9 @@ Mr. Darius Stewart is an undergraduate student majoring in Public Health with an
 
 <div>
 <br/>
+<br/>
 <hr>
+<br/>
 <br/>
 </div>
 
@@ -56,7 +62,9 @@ Ms. Sophia Slinkard is an undergraduate student double-majoring in Biology and P
 
 <div>
 <br/>
+<br/>
 <hr>
+<br/>
 <br/>
 </div>
 
@@ -70,7 +78,9 @@ Ms. Rawan Ebada is an undergraduate student majoring in Biochemistry with an int
 
 <div>
 <br/>
+<br/>
 <hr>
+<br/>
 <br/>
 </div>
 
@@ -85,7 +95,9 @@ Ms. Elizabeth Conley is an undergraduate student double-majoring in Physics and 
 
 <div>
 <br/>
+<br/>
 <hr>
+<br/>
 <br/>
 </div>
 
@@ -99,7 +111,9 @@ Mr. Liam Peck is an undergraduate student majoring in Psychology with an interes
 
 <div>
 <br/>
+<br/>
 <hr>
+<br/>
 <br/>
 </div>
 
@@ -112,7 +126,9 @@ Mr. Ian Flowers is an undergraduate student majoring in Psychology with an inter
 
 <div>
 <br/>
+<br/>
 <hr>
+<br/>
 <br/>
 </div>
 
