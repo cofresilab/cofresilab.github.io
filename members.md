@@ -18,14 +18,8 @@ image:
 <h3>Abigail (Undergraduate Research Assistant for the Sips & Shapes Study)</h3>
 <p><span class="image left"><img src="assets/images/members/abigail_obregon.jpg" alt="" /></span>
 Ms. Elizabeth Abigail Obregon is an undergraduate student majoring in Nutrition and Exercise Physiology with an interest in pursuing graduate training in medicine. Abigail joined the lab in Fall 2022 to learn more about the process of scientific research. She is learning how to collect and analyze EEG data from human participants
-.......
-.......
-.......
-.......</p>
-<br/>
-<br/>
-<br/>
-<br/>
+</p>
+
 <br/>
 <br/>
 <br/>
@@ -40,23 +34,55 @@ Ms. Elizabeth Abigail Obregon is an undergraduate student majoring in Nutrition 
 
 <h3>Darius (Undergraduate Research Assistant for the Sips & Shapes Study)</h3>
 <p><span class="image left"><img src="assets/images/members/missing1.jpg" alt="" /></span>
-Mr. Darius Stewart is an undergraduate student majoring in Public Health with an interest in pursuing graduate training in public health and social work. Darius joined the lab in Fall 2022 to learn more about the neuroscience of addiction. He is learning how to collect and analyze EEG data from human participants.
-.......
-.......
-.......
-.......</p>
+Mr. Darius Stewart is an undergraduate student majoring in Public Health with an interest in pursuing graduate training in public health and social work. Darius joined the lab in Fall 2022 to learn more about the neuroscience of addiction. He is learning how to collect and analyze EEG data from human participants.</p>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <h3>Sophia (Undergraduate Research Assistant for the Sips & Shapes Study)</h3>
 <p><span class="image left"><img src="assets/images/members/sophia_slinkard.jpg" alt="" /></span>
-Ms. Sophia Slinkard is an undergraduate student double-majoring in Biology and Psychology with an interest in pursuing graduate training in medicine. Sophia joined the lab in Fall 2022. As part of her Honors Thesis (2022-2023; co-supervised by Drs. Froeliger and Cofresi) focused on the role of reward-related learning in disordered eating behavior, she is learning how to collect and analyze EEG data from human participants.
-.......
-.......
-.......
-.......</p>
+Ms. Sophia Slinkard is an undergraduate student double-majoring in Biology and Psychology with an interest in pursuing graduate training in medicine. Sophia joined the lab in Fall 2022. As part of her Honors Thesis (2022-2023; co-supervised by Drs. Froeliger and Cofresi) focused on the role of reward-related learning in disordered eating behavior, she is learning how to collect and analyze EEG data from human participants.</p>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 <h3>Rawan (Undergraduate Research Assistant for the Sips & Shapes Study)</h3>
 <p><span class="image left"><img src="assets/images/members/missing1.jpg" alt="" /></span>
 Ms. Rawan Ebada is an undergraduate student majoring in Biochemistry with an interest in pursuing graduate training in medicine. Rawan has been working with Dr. Cofresi since Fall 2021. Having already learned how to collect EEG data, she is now learning how to collect and analyze structural and functional MRI data from human participants.</p>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 	
 <!-- Liz-->	
@@ -65,16 +91,54 @@ Ms. Rawan Ebada is an undergraduate student majoring in Biochemistry with an int
 Ms. Elizabeth Conley is an undergraduate student double-majoring in Physics and Electrical Engineering with an interest in pursuing graduate training in cognitive neuroscience. Liz has been working with Dr. Cofresi since Fall 2021 to learn more about the neuroscience of addiction. She has helped design and develop the lab's intra-oral liquid stimulus delivery systems, including several prototype  mouthpieces. She also has learned how to collect and analyze EEG and functional NIRS data from human participants.</p>
 
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 <!-- Liam -->
 <h3>Liam  (Undergraduate Researcher)</h3>
 <p><span class="image left"><img src="assets/images/members/liam_peck.jpg" alt="" /></span>
 Mr. Liam Peck is an undergraduate student majoring in Psychology with an interest in pursuing graduate training in counseling psychology. Ian has been working with Dr. Cofresi since Fall 2021. As part of his Honors Thesis (2022-2023; co-supervised by Drs. Bartholow and Cofresi) focused on the neural correlates of learning about cues for ingested rewards, he has learned how to collect and analyze EEG and functional MRI data from human participants.</p>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <!-- Ian-->
 <h3>Ian  (Undergraduate Researcher)</h3>
 <p><span class="image left"><img src="assets/images/members/missing1.jpg" alt="" /></span>
 Mr. Ian Flowers is an undergraduate student majoring in Psychology with an interest in pursuing graduate training in legal/forensic psychology. Ian has been working with  Dr. Cofresi since Fall 2021. As part of his McNair Fellowship and Honors Thesis (2022-2023; co-supervised by Drs. Bartholow and Cofresi) focused on the role of familial risk for alcoholism in alcohol cue reactivity and alcohol use, he has learned how to collect and analyze EEG data from human participants.</p>
 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <!-- Mikayla-->
 <h3>Mikayla  (Former Undergraduate Research Assistant and Coordinator)</h3>
