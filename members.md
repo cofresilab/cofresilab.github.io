@@ -8,10 +8,18 @@ image:
 <h3>Roberto (Research Director)</h3>
 <img src="assets/images/members/roberto_cofresi.png" alt="" />
 <p>Dr. Roberto Cofresí is an Assistant Research Professor at the University of Missouri - Columbia. His undergraduate and graduate training in Biochemistry and Neuroscience, respectively, were completed at the University of Texas - Austin. Roberto is interested in  bidirectional translation between rodent and human neuroscience laboratories studying addiction-related learning and memory. The goal of his research is to understand why and how naturally learned signals (cues) for drugs of abuse like alcohol are able to capture attention, impel approach, and promote over-consumption in some of us but not others. Contact at: cofresir at missouri.edu</p>
-	
-	
+
 <br/>
-<hr class="major" />	
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 <!-- Sips & Shapes Study -->
