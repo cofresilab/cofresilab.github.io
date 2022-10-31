@@ -51,7 +51,7 @@ Mr. Ian Flowers is an undergraduate student majoring in Psychology with an inter
 
 	<!-- Mikayla-->
 <h3>Mikayla  (Former Undergraduate Research Assistant and Coordinator)</h3>
-<p><span class="image left"><img src="assets/images/members/missing1.jpg" alt="" /></span>
+<p><span class="image left"><img src="assets/images/members/mikayla_rodgers.jpg" alt="" /></span>
 Ms. Mikayla Rodgers, B.S., was an undergraduate student majoring in Nuclear Medicine with an interest in pursuing graduate training in theranostics. She completed her undergraduate degree in Spring 2022. Mikayla worked with Dr. Cofresi from Fall 2020 to Spring 2022, during which time she learned how to collect EEG and MRI data from human participants as well as how to coordinate human subjects research studies. She is now working as a full-time research scientist at the University of Missouri Molecular Imaging and Theranostics Center in the team of Dr. Barry Edwards.</p>
 
 
