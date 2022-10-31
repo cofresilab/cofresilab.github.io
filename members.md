@@ -22,6 +22,21 @@ Ms. Elizabeth Abigail Obregon is an undergraduate student majoring in Nutrition 
 .......
 .......
 .......</p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 <h3>Darius (Undergraduate Research Assistant for the Sips & Shapes Study)</h3>
 <p><span class="image left"><img src="assets/images/members/missing1.jpg" alt="" /></span>
