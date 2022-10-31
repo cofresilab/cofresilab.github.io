@@ -16,16 +16,20 @@ image:
 
 <!-- Sips & Shapes Study -->
 <h3>Abigail (Undergraduate Research Assistant for the Sips & Shapes Study)</h3>
+<span class="image left"><img src="assets/images/members/roberto_cofresi1.jpg" alt="" /></span> 
 <p>Ms. Elizabeth Abigail Obregon is an undergraduate student majoring in Nutrition and Exercise Physiology with an interest in pursuing graduate training in medicine. Abigail joined the lab in Fall 2022 to learn more about the process of scientific research. She is learning how to collect and analyze EEG data from human participants.</p>
 
 <h3>Darius (Undergraduate Research Assistant for the Sips & Shapes Study)</h3>
+<span class="image left"><img src="assets/images/members/roberto_cofresi1.jpg" alt="" /></span> 
 <p>Mr. Darius Stewart is an undergraduate student majoring in Public Health with an interest in pursuing graduate training in public health and social work. Darius joined the lab in Fall 2022 to learn more about the neuroscience of addiction. He is learning how to collect and analyze EEG data from human participants.</p>
 
 <h3>Sophia (Undergraduate Research Assistant for the Sips & Shapes Study)</h3>
+<span class="image left"><img src="assets/images/members/roberto_cofresi1.jpg" alt="" /></span> 
 <p>Ms. Sophia Slinkard is an undergraduate student double-majoring in Biology and Psychology with an interest in pursuing graduate training in medicine. Sophia joined the lab in Fall 2022. As part of her Honors Thesis (2022-2023; co-supervised by Drs. Froeliger and Cofresi) focused on the role of reward-related learning in disordered eating behavior, she is learning how to collect and analyze EEG data from human participants.</p>
 
-Rawan (Undergraduate Research Assistant for the Sips & Shapes Study)
-Ms. Rawan Ebada is an undergraduate student majoring in Biochemistry with an interest in pursuing graduate training in medicine. Rawan has been working with Dr. Cofresi since Fall 2021. Having already learned how to collect EEG data, she is now learning how to collect and analyze structural and functional MRI data from human participants.
+<h3>Rawan (Undergraduate Research Assistant for the Sips & Shapes Study)</h3>
+<span class="image left"><img src="assets/images/members/roberto_cofresi1.jpg" alt="" /></span> 
+<p>Ms. Rawan Ebada is an undergraduate student majoring in Biochemistry with an interest in pursuing graduate training in medicine. Rawan has been working with Dr. Cofresi since Fall 2021. Having already learned how to collect EEG data, she is now learning how to collect and analyze structural and functional MRI data from human participants.</p>
 
 
 	
