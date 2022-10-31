@@ -34,25 +34,25 @@ Ms. Rawan Ebada is an undergraduate student majoring in Biochemistry with an int
 	
 <!-- Liz-->	
 <h3>Liz  (Undergraduate Researcher)</h3>
-<span class="image left"><img src="assets/images/members/liz_conley.jpg" alt="" /></span>
-<p>Ms. Elizabeth Conley is an undergraduate student double-majoring in Physics and Electrical Engineering with an interest in pursuing graduate training in cognitive neuroscience. Liz has been working with Dr. Cofresi since Fall 2021 to learn more about the neuroscience of addiction. She has helped design and develop the lab's intra-oral liquid stimulus delivery systems, including several prototype  mouthpieces. She also has learned how to collect and analyze EEG and functional NIRS data from human participants.</p>
+<p><span class="image left"><img src="assets/images/members/liz_conley.jpg" alt="" /></span>
+Ms. Elizabeth Conley is an undergraduate student double-majoring in Physics and Electrical Engineering with an interest in pursuing graduate training in cognitive neuroscience. Liz has been working with Dr. Cofresi since Fall 2021 to learn more about the neuroscience of addiction. She has helped design and develop the lab's intra-oral liquid stimulus delivery systems, including several prototype  mouthpieces. She also has learned how to collect and analyze EEG and functional NIRS data from human participants.</p>
 
 
 	<!-- Liam -->
 <h3>Liam  (Undergraduate Researcher)</h3>
-<img src="assets/images/members/liam_peck.jpg" alt="" />
-<p>Mr. Liam Peck is an undergraduate student majoring in Psychology with an interest in pursuing graduate training in counseling psychology. Ian has been working with Dr. Cofresi since Fall 2021. As part of his Honors Thesis (2022-2023; co-supervised by Drs. Bartholow and Cofresi) focused on the neural correlates of learning about cues for ingested rewards, he has learned how to collect and analyze EEG and functional MRI data from human participants.</p>
+<p><span class="image left"><img src="assets/images/members/liam_peck.jpg" alt="" /></span>
+Mr. Liam Peck is an undergraduate student majoring in Psychology with an interest in pursuing graduate training in counseling psychology. Ian has been working with Dr. Cofresi since Fall 2021. As part of his Honors Thesis (2022-2023; co-supervised by Drs. Bartholow and Cofresi) focused on the neural correlates of learning about cues for ingested rewards, he has learned how to collect and analyze EEG and functional MRI data from human participants.</p>
 
 	<!-- Ian-->
 <h3>Ian  (Undergraduate Researcher)</h3>
-<img src="assets/images/missing1.jpg" alt="" />
-<p>Mr. Ian Flowers is an undergraduate student majoring in Psychology with an interest in pursuing graduate training in legal/forensic psychology. Ian has been working with  Dr. Cofresi since Fall 2021. As part of his McNair Fellowship and Honors Thesis (2022-2023; co-supervised by Drs. Bartholow and Cofresi) focused on the role of familial risk for alcoholism in alcohol cue reactivity and alcohol use, he has learned how to collect and analyze EEG data from human participants.</p>
+<p><span class="image left"><img src="assets/images/members/missing1.jpg" alt="" /></span>
+Mr. Ian Flowers is an undergraduate student majoring in Psychology with an interest in pursuing graduate training in legal/forensic psychology. Ian has been working with  Dr. Cofresi since Fall 2021. As part of his McNair Fellowship and Honors Thesis (2022-2023; co-supervised by Drs. Bartholow and Cofresi) focused on the role of familial risk for alcoholism in alcohol cue reactivity and alcohol use, he has learned how to collect and analyze EEG data from human participants.</p>
 
 
 	<!-- Mikayla-->
 <h3>Mikayla  (Former Undergraduate Research Assistant and Coordinator)</h3>
-<img src="assets/images/missing1.jpg" alt="" />
-<p>Ms. Mikayla Rodgers, B.S., was an undergraduate student majoring in Nuclear Medicine with an interest in pursuing graduate training in theranostics. She completed her undergraduate degree in Spring 2022. Mikayla worked with Dr. Cofresi from Fall 2020 to Spring 2022, during which time she learned how to collect EEG and MRI data from human participants as well as how to coordinate human subjects research studies. She is now working as a full-time research scientist at the University of Missouri Molecular Imaging and Theranostics Center in the team of Dr. Barry Edwards.</p>
+<p><span class="image left"><img src="assets/images/members/missing1.jpg" alt="" /></span>
+Ms. Mikayla Rodgers, B.S., was an undergraduate student majoring in Nuclear Medicine with an interest in pursuing graduate training in theranostics. She completed her undergraduate degree in Spring 2022. Mikayla worked with Dr. Cofresi from Fall 2020 to Spring 2022, during which time she learned how to collect EEG and MRI data from human participants as well as how to coordinate human subjects research studies. She is now working as a full-time research scientist at the University of Missouri Molecular Imaging and Theranostics Center in the team of Dr. Barry Edwards.</p>
 
 
 
