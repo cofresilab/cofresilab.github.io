@@ -15,9 +15,7 @@ image:
 
 <div>
 <br/>
-<br/>
 <hr>
-<br/>
 <br/>
 </div>
 
@@ -36,7 +34,19 @@ Ms. Elizabeth Abigail Obregon is an undergraduate student majoring in Nutrition 
 <div>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <hr>
+
 <br/>
 <br/>
 </div>
@@ -50,6 +60,17 @@ Mr. Darius Stewart is an undergraduate student majoring in Public Health with an
 <div>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <hr>
 <br/>
 <br/>
