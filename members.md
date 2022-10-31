@@ -4,14 +4,10 @@ title: Members
 image: 
 ---
 
-<!--start row-->
-<div class="row">
-
-<div class="6u 12u$(medium)">
 <!-- Roberto-->
-		<h3>Roberto (Lab Director)</h3>
+		<h3>Roberto (Research Director)</h3>
 <span class="image left"><img src="assets/images/members/roberto_cofresi1.jpg" alt="" /></span> 
-		<p><b>Dr. Roberto Cofresi</b> (he/his) is an Assistant Research Professor at the University of Missouri - Columbia. He earned a B.Sc. in biochemistry and a Ph.D. in neuroscience from the University of Texas at Austin in 2018. Dr. Cofresí is interested in adapting promising anti-addiction and anti-relapse interventions identified in preclinical rodent models for use on human subjects and testing those adapted interventions in the preclinical human laboratory.  Contact him at: cofresir at missouri.edu</p>
+		<p>Dr. Roberto Cofresí is an Assistant Research Professor at the University of Missouri - Columbia. His undergraduate and graduate training in Biochemistry and Neuroscience, respectively, were completed at the University of Texas - Austin. Roberto is interested in  bidirectional translation between rodent and human neuroscience laboratories studying addiction-related learning and memory. The goal of his research is to understand why and how naturally learned signals (cues) for drugs of abuse like alcohol are able to capture attention, impel approach, and promote over-consumption in some of us but not others. Contact at: cofresir at missouri.edu</p>
 	
 	
 <br/>
@@ -19,18 +15,18 @@ image:
 	
 <!-- Liz-->	
 
-		<h3>Liz (Research Assistant)</h3>
+		<h3>Liz  (Undergraduate Researcher)</h3>
 		<span class="image left"><img src="assets/images/members/liz_conley3.jpg" alt="" /></span>
-		<p><b>Ms. Elizabeth Conley</b> is an undergraduate student double-majoring in Physics and Electrical Engineering. Liz has been working with Dr. Cofresi since Summer 2021 on the development of a liquid delivery device used to test cue-reactivity. She has been received training in neuroscience and psychology from Dr. Cofresi.</p>
+		<p>Ms. Elizabeth Conley is an undergraduate student double-majoring in Physics and Electrical Engineering with an interest in pursuing graduate training in cognitive neuroscience. Liz has been working with Dr. Cofresi since Fall 2021 to learn more about the neuroscience of addiction. She has helped design and develop the lab's intra-oral liquid stimulus delivery systems, including several prototype  mouthpieces. She also has learned how to collect and analyze EEG and functional NIRS data from human participants.</p>
 
 <br/>
 <hr class="major" />	
 
 	<!-- Liam -->
 
-		<h3>Liam (Research Assistant)</h3>
+		<h3>Liam  (Undergraduate Researcher)</h3>
 		<span class="image left"><img src="assets/images/members/liam_peck.jpeg" alt="" /></span>
-		<p><b>Mr. Liam Peck</b> is an undergraduate student majoring in Psychology (Senior). He has been working with Dr. Cofresi since Fall 2021 and will be doing his Honors Thesis in 2022-2023 under the supervision of Drs. Bartholow and Cofresi.</p>
+		<p>Mr. Liam Peck is an undergraduate student majoring in Psychology with an interest in pursuing graduate training in counseling psychology. Ian has been working with Dr. Cofresi since Fall 2021. As part of his Honors Thesis (2022-2023; co-supervised by Drs. Bartholow and Cofresi) focused on the neural correlates of learning about cues for ingested rewards, he has learned how to collect and analyze EEG and functional MRI data from human participants.</p>
 
 <br/>
 <br/>
@@ -38,18 +34,10 @@ image:
 
 	<!-- Ian-->
 
-		<h3>Ian (Research Assistant)</h3>
+		<h3>Ian  (Undergraduate Researcher)</h3>
 		<span class="image left"><img src="assets/images/missing1.jpg" alt="" /></span>
-		<p><b>Mr. Ian Flowers</b> is an undergraduate student majoring in Psychology (Junior). Mentored by Dr. Cofresi since Fall 2021, he has learned how to use Matlab pipelines in order to perfom EEG/ERP data processing.</p>
+		<p>Mr. Ian Flowers is an undergraduate student majoring in Psychology with an interest in pursuing graduate training in legal/forensic psychology. Ian has been working with  Dr. Cofresi since Fall 2021. As part of his McNair Fellowship and Honors Thesis (2022-2023; co-supervised by Drs. Bartholow and Cofresi) focused on the role of familial risk for alcoholism in alcohol cue reactivity and alcohol use, he has learned how to collect and analyze EEG data from human participants.</p>
 
-
-
-</div>
-	
-	
-	
-	<!--end row-->
-</div>
 
 
 
