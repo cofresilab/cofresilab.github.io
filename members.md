@@ -112,7 +112,7 @@ Ms. Elizabeth Conley is an undergraduate student double-majoring in Physics and 
 <!-- Liam -->
 <h3>Liam  (Undergraduate Researcher)</h3>
 <p><span class="image left"><img src="assets/images/members/liam_peck.jpg" alt="" /></span>
-Mr. Liam Peck is an undergraduate student majoring in Psychology with an interest in pursuing graduate training in counseling psychology. Ian has been working with Dr. Cofresi since Fall 2021. As part of his Honors Thesis (2022-2023; co-supervised by Drs. Bartholow and Cofresi) focused on the neural correlates of learning about cues for ingested rewards, he has learned how to collect and analyze EEG and functional MRI data from human participants.</p>
+Mr. Liam Peck is an undergraduate student majoring in Psychology with an interest in pursuing graduate training in counseling psychology. Liam has been working with Dr. Cofresi since Fall 2021. As part of his Honors Thesis (2022-2023; co-supervised by Drs. Bartholow and Cofresi) focused on the neural correlates of learning about cues for ingested rewards, he has learned how to collect and analyze EEG and functional MRI data from human participants.</p>
 </div>
 
 
