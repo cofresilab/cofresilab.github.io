@@ -30,12 +30,6 @@ image:
 #### <a id="InPress">  In Press </a>
 
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-		Cofresí, R.U., Piasecki, T.M., & Bartholow, B.D. (In Press). 
-	      Acute Sensitization of the P3 Event-Related Potential Response (ERP) to Beverage Images and the Risk for Alcohol Use Disorder (AUD).
-	      <em> Addiction Neuroscience.</em> 
-</p>
-
-<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Kohen, C., Cofresí, R.U., Bartholow, B.D., & Piasecki, T.M. (In Press). 
 Alcohol craving in the natural environment: Moderating roles of cue exposure, drinking, and alcohol sensitivity.
 <em>Experimental and Clinical Psychopharmacology.</em> Advance online publication. https://doi.org/10.1037/pha0000540
@@ -46,6 +40,14 @@ Alcohol craving in the natural environment: Moderating roles of cue exposure, dr
 <hr class="major" />
 			        
 #### <a id="2022"> 2022 </a>
+
+<p> <li> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Cofresí, R.U., Piasecki, T.M., & Bartholow, B.D. (2022). 
+Acute Sensitization of the P3 Event-Related Potential Response (ERP) to Beverage Images and the Risk for Alcohol Use Disorder (AUD). 
+<em>Addiction Neuroscience, 4,</em> 100041. https://doi.org/10.1016/j.addicn.2022.100041.
+<br/>
+<a href="/assets/docs/pub/Cofresi_TxT_ACR-P3_AddictionNeuroscience_2022.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1016/j.addicn.2022.100041." target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI</li> <
+/p>
 
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
  Cofresí, R.U., Piasecki, T.M., Bartholow, B.D. & Schachtman, T.S. (2022).
