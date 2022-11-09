@@ -4,7 +4,7 @@ title: Sips and Shapes Study
 image: 
 ---
 
-<img src="/assets/images/SASS_webpage_infographic_blocked.png" width="700">
+<img src="/assets/images/11-02-22 SASS webpage infographic blocked.png" width="700">
 
 
 
@@ -37,7 +37,7 @@ This visit to the researcher's lab needs to take place the day immediately after
 ## How to participate
 First, complete the eligibility screener so that the research team can determine if you meet the study eligibility criteria.  
 
-<a href="https://www.cofresilab.org/sipsandshapes.html" class="button special">Eligibility Screener</a>
+<a href="https://showmeportal.missouri.edu/redcap/surveys/?s=LHCXJARTY3P3YE78" class="button special">Eligibility Screener</a>
 
 ## How do I know if I am eligible?
 If you are eligible, the study research team will reach out to you by email, text message or phone call (depending on your indicated preference) to invite you to participate.
