@@ -75,7 +75,7 @@ Behavioral response bias and event-related brain potentials implicate elevated i
 <p>  <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Cofresí, R.U., Piasecki, T.M., Hajcak, G., & Bartholow, B.D. (2022). 
 Internal consistency and test-retest reliability of the P3 event-related potential (ERP) elicited by alcoholic and non-alcoholic beverage pictures. 
-<em>Psychophysiology</em>. https://doi.org/10.1111/psyp.13967
+<em>Psychophysiology</em>, 59, e13967. https://doi.org/10.1111/psyp.13967
 <br/>
 <a href="assets/docs/pub/Cofresi2021 Internal consistency and test-retest reliability of the P3.pdf"> <i class="fa fa-download icons"></i> </a>PDF 
 | <a href="https://doi.org/10.1111/psyp.13967" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
