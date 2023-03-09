@@ -129,7 +129,7 @@ Mr. Liam Peck is an undergraduate student majoring in Psychology with an interes
 <div>
 <!-- Ian-->
 <h3>Ian  (Undergraduate Researcher)</h3>
-<p><span class="image left"><img src="assets/images/members/missing1.jpg" alt="" /></span>
+<p><span class="image left"><img src="assets/images/members/Ian_flowers.png" alt="" /></span>
 Mr. Ian Flowers is an undergraduate student majoring in Psychology with an interest in pursuing graduate training in legal/forensic psychology. Ian has been working with  Dr. Cofresi since Fall 2021. As part of his McNair Fellowship and Honors Thesis (2022-2023; co-supervised by Drs. Bartholow and Cofresi) focused on the role of familial risk for alcoholism in alcohol cue reactivity and alcohol use, he has learned how to collect and analyze EEG data from human participants.</p>
 </div>
 
