@@ -4,7 +4,7 @@ title: Sips and Shapes Study
 image: 
 ---
 
-<img src="/assets/images/SASS_webpage_infographic_blocked_73122.png" width="700">
+<img src="/assets/images/01-16-23 SASS webpage infographic blocked.png" width="700">
 
 
 
@@ -21,12 +21,12 @@ The Sips and Shapes Study (sometimes abbreviated "SAS Study") is conducted by re
 Visit the researcher's lab on the MU campus in Columbia, MO to undergo electroencephalogram (EEG) recording ("brain waves") and magnetic resonance imaging (MRI) scanning ("brain pictures") to see how and where in your brain various visual stimuli are processed. This lab visit will last ≈3 hours.  You will be compensated $60 in cash for this lab visit.
 
 #### Lab Visit #2 (Learning): 
-Return to the researcher's lab to complete a computerized learning task in which you are presented various visual stimuli, some of which predict receipt of a liquid reward containing alcohol or sugar. Your EEG ("brain waves") will be recorded while you complete this task. During this visit, you will also complete questionnaires about your feelings and provide breath samples to track changes in breath alcohol level. The amount of alcohol served will be equivalent to 1-2 standard drinks and the amount of sugar served will be equivalent to an 8-oz. glass of fruit juice. This lab visit will last ≈4 hours to make sure you are sober before you leave. You will be compensated $80.
+Return to the researcher's lab to complete a computerized learning task in which you are presented various visual stimuli, some of which predict receipt of a liquid reward containing alcohol or sugar. Your EEG ("brain waves") will be recorded while you complete this task. During this visit, you will also complete questionnaires about your feelings and provide breath samples to track changes in breath alcohol level. The amount of alcohol served will be equivalent to 1 standard drink and the amount of sugar served will be equivalent to an 8-oz. glass of fruit juice. This lab visit will last ≈3 hours to make sure you are sober before you leave. You will be compensated $60.
 
 #### Lab Visit #3 (Post-Learning):
 This visit to the researcher's lab needs to take place the day immediately after lab visit #2. It will be a repeat of lab visit #1. You can earn $60. 
 
-**If you complete lab visits #1, 2, and 3, you earn a $40 "streak" bonus**
+**If you complete lab visits #1, 2, and 3, you earn a $60 "streak" bonus**
 
 ## Part 2: Post-Lab Online Check-in Surveys
 - At 3, 6, 9, and 12 months after lab visit #3, you complete an online survey (≈15 min).
@@ -37,7 +37,7 @@ This visit to the researcher's lab needs to take place the day immediately after
 ## How to participate
 First, complete the eligibility screener so that the research team can determine if you meet the study eligibility criteria.  
 
-<a href="https://www.cofresilab.org/sipsandshapes.html" class="button special">Eligibility Screener</a>
+<a href="https://showmeportal.missouri.edu/redcap/surveys/?s=LHCXJARTY3P3YE78" class="button special">Eligibility Screener</a>
 
 ## How do I know if I am eligible?
 If you are eligible, the study research team will reach out to you by email, text message or phone call (depending on your indicated preference) to invite you to participate.

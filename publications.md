@@ -13,7 +13,8 @@ image:
 
 <!-- Years -->
 <p class="text-center">
-<a href="#InPress"> In Press <i class="fa fa-arrow-circle-o-down icons"></i></a> |
+<!-- <a href="#InPress"> In Press <i class="fa fa-arrow-circle-o-down icons"></i></a> | -->
+<a href="#2022"> 2023 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
 <a href="#2022"> 2022 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
 <a href="#2021"> 2021 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
 <a href="#2020"> 2020 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
@@ -27,28 +28,42 @@ image:
 
 <hr class="major" />
 
-#### <a id="InPress">  In Press </a>
+<!--- #### <a id="InPress">  In Press </a> --->
+
+
+			        
+<hr class="major" />
+
+#### <a id="2023">  2023 </a>
 
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-               Cofresí, R.U., Piasecki, T.M., Bartholow, B.D. et al. 
-               Enhanced conditioned “liking” of novel visual cues paired with alcohol or non-alcohol beverage container images among individuals at higher risk for alcohol use disorder. 
-               <em>Psychopharmacology</em> Advance online publication. https://doi.org/10.1007/s00213-022-06231-4 
-               <br/>
-			        <a href="/assets/docs/pub/Cofresi_conditioned%20association_Psychopharm_2022.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
-			        | <a href="https://doi.org/10.1007/s00213-022-06231-4" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI
-                </p>
-
-<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-Kohen, C., Cofresí, R.U., Bartholow, B.D., & Piasecki, T.M. (In Press). 
-Alcohol craving in the natural environment: Moderating roles of cue exposure, drinking, and alcohol sensitivity.
-<em>Experimental and Clinical Psychopharmacology.</em> Advance online publication. https://doi.org/10.1037/pha0000540
+Kohen, C. B., Cofresí, R. U., Bartholow, B. D., & Piasecki, T. M. (2023). Alcohol craving in the natural environment: Moderating roles of cue exposure, drinking, and alcohol sensitivity. 
+<em>Experimental and Clinical Psychopharmacology,</em> 31(1), 57–71. https://doi.org/10.1037/pha0000540 
 <br/>
-<a href="assets/docs/pub/Kohen et al., 2022 Alcohol Craving in the Natural Environment- Moderating Roles of Cue Exposure, Drinking, and Alcohol Sensitivity.pdf"> <i class="fa fa-download icons"></i> </a>PDF 
-			        | <a href="https://doi.org/10.1037/pha0000540" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>
+<a href="assets/docs/pub/Kohen_et_al_2023.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
+	| <a href="https://doi.org/10.1037/pha0000540" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>
+			        
 			       
 <hr class="major" />
 			        
 #### <a id="2022"> 2022 </a>
+
+<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Cofresí, R.U., Piasecki, T.M., & Bartholow, B.D. (2022). 
+Acute Sensitization of the P3 Event-Related Potential Response (ERP) to Beverage Images and the Risk for Alcohol Use Disorder (AUD). 
+<em>Addiction Neuroscience, 4,</em> 100041. https://doi.org/10.1016/j.addicn.2022.100041
+<br/>
+<a href="/assets/docs/pub/Cofresi_TxT_ACR-P3_AddictionNeuroscience_2022.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1016/j.addicn.2022.100041" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI 
+</p>
+
+<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+ Cofresí, R.U., Piasecki, T.M., Bartholow, B.D. & Schachtman, T.S. (2022).
+ Enhanced conditioned “liking” of novel visual cues paired with alcohol or non-alcohol beverage container images among individuals at higher risk for alcohol use disorder. 
+               <em>Psychopharmacology, 239</em>, 3567–3578. https://doi.org/10.1007/s00213-022-06231-4 
+               <br/>
+			        <a href="/assets/docs/pub/Cofresi_conditioned%20association_Psychopharm_2022.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
+			        | <a href="https://doi.org/10.1007/s00213-022-06231-4" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI
+                </p>
 	    
 <p>  <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Cofresí, R.U., Kohen, C., Motschman, C., Wiers, R.W., Piasecki, T.M., & Bartholow, B.D. (2022)
@@ -60,7 +75,7 @@ Behavioral response bias and event-related brain potentials implicate elevated i
 <p>  <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Cofresí, R.U., Piasecki, T.M., Hajcak, G., & Bartholow, B.D. (2022). 
 Internal consistency and test-retest reliability of the P3 event-related potential (ERP) elicited by alcoholic and non-alcoholic beverage pictures. 
-<em>Psychophysiology</em>. https://doi.org/10.1111/psyp.13967
+<em>Psychophysiology</em>, 59, e13967. https://doi.org/10.1111/psyp.13967
 <br/>
 <a href="assets/docs/pub/Cofresi2021 Internal consistency and test-retest reliability of the P3.pdf"> <i class="fa fa-download icons"></i> </a>PDF 
 | <a href="https://doi.org/10.1111/psyp.13967" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
