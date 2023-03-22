@@ -189,7 +189,7 @@ Cofresí, R. U., Lee, H. J., Monfils, M.-H., Chaudhri, N., & Gonzales, R. A. Cha
 Cofresí, R. U., Lewis, S. M., Chaudhri, N., Lee, H. J., Monfils, M.-H., & Gonzales, R. A. (2017). Postretrieval Extinction Attenuates Alcohol Cue Reactivity in Rats. 
 <em>Alcoholism: Clinical and Experimental Research,</em>41(3), 608–617. http://doi.org/10.1111/acer.13323
 <br/>
-<a href="assets/docs/pub/Cofresí%20et%20al._2017_Postretrieval%20Extinction%20Attenuates%20Alcohol%20Cue%20Reactivity%20in%20Rats.pdf"><i class="fa fa-download icons"></i> </a>PDF | <a href="http://doi.org/10.1111/acer.13323" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
+<a href="assets/docs/pub/Cofresi2017.pdf"><i class="fa fa-download icons"></i> </a>PDF | <a href="http://doi.org/10.1111/acer.13323" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
 
 
 
