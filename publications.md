@@ -177,7 +177,7 @@ Monfils, M.-H., Lee, H. J., Keller, N. E., Roquet, R. A., Quevedo, S., Agee, L.,
 Cofresí, R. U., Lee, H. J., Monfils, M.-H., Chaudhri, N., & Gonzales, R. A. Characterizing conditioned reactivity to sequential alcohol-predictive cues in well-trained rats. (2018). 
 <em>Alcohol, </em>69, 41–49. https://doi.org/10.1016/j.alcohol.2017.11.034
 <br/>
-<a href="assets/docs/pub/Cofresí%20et%20al._2018_Characterizing%20conditioned%20reactivity%20to%20sequential%20alcohol-predictive%20cues%20in%20well-trained%20rats.pdf"><i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1016/j.alcohol.2017.11.034" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
+<a href="assets/docs/pub/cofresi2018.pdf"><i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1016/j.alcohol.2017.11.034" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
 
 
 
