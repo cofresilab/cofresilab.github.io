@@ -149,7 +149,7 @@ Evidence for incentive salience sensitization as a pathway to alcohol use disord
 Cofresí, R. U., Gonzales, R. A., Monfils, M.-H., Chaudhri, N., & Lee, H. J. Cue-alcohol associative learning in female rats. (2019). 
 <em>Alcohol,</em> 81, 1–9. https://doi.org/10.1016/j.alcohol.2019.03.003
 <br/>
-<a href="assets/docs/pub/Cofresi%CC%81%20et%20al._2019_Cue-alcohol%20associative%20learning%20in%20female%20rats.pdf" target="_blank" rel="noopener noreferrer"><i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1016/j.alcohol.2019.03.003" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
+<a href="assets/docs/pub/cofresi2019_cue.pdf" target="_blank" rel="noopener noreferrer"><i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1016/j.alcohol.2019.03.003" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
 
 
 
@@ -157,7 +157,7 @@ Cofresí, R. U., Gonzales, R. A., Monfils, M.-H., Chaudhri, N., & Lee, H. J. Cue
 Cofresí, R. U., Grote, D.J., Le, E.V.T, Gonzales, R. A., Monfils, M.-H., Chaudhri, N., & Lee, H. J. Alcohol-associated antecedent stimuli elicit alcohol seeking in non-dependent rats and may activate the insula. (2019). 
 <em>Alcohol,</em> 76, 91–102. https://doi.org/10.1016/j.alcohol.2018.08.004.
 <br/>
-<a href="assets/docs/pub/Cofresi%CC%81%20et%20al._2019_Alcohol-associated%20antecedent%20stimuli%20elicit%20alcohol%20seeking%20in%20non-dependent%20rats%20and%20may%20activate%20the%20insula.pdf" target="_blank" rel="noopener noreferrer"><i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1016/j.alcohol.2018.08.004" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
+<a href="assets/docs/pub/cofresi2019_alcohol.pdf" target="_blank" rel="noopener noreferrer"><i class="fa fa-download icons"></i> </a>PDF | <a href="https://doi.org/10.1016/j.alcohol.2018.08.004" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p> 
 
 
 
