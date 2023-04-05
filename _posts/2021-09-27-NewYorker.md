@@ -22,5 +22,5 @@ Dr. Roberto Cofresi shared with The New Yorker Magazine his insights about neuro
 
 
 
-<span class="image tiny"><img src="/assets/images/news/newyorker.png" alt="NewYorker" /></span>
+<span class="image tiny"><img src="/assets/images/news/newyorker.png" alt="NewYorker" width="800" /></span>
 
