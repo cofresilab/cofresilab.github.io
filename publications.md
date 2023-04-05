@@ -5,7 +5,7 @@ image:
 ---
 
 
-<a href="#" class="button special icon fa-download">CV</a> & [Dr. Cofresi's Google Scholar](https://scholar.google.com/citations?user=nRAErPEAAAAJ&hl=en) for publications with H-index.
+<a href="assets/docs/Cofresi_CV_04-2023.pdf" class="button special icon fa-download">CV</a> & [Dr. Cofresi's Google Scholar](https://scholar.google.com/citations?user=nRAErPEAAAAJ&hl=en) for publications with H-index.
 
 
 
