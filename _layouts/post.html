@@ -22,9 +22,12 @@
               
            {{ content }}
            
-                  {% if post.image %}
-                	<span class="image main"><img src="{{ post.image | absolute_url }}" alt="" /></span>
-                  {% endif %}
+        
+                  
+                  {% if post.image %}	
+                <img src="{{ BASE_PATH }}/assets/images/{{ post.image }}"
+                style="width: auto; height: auto;max-width: 20px;max-height: 10px">
+                 {% endif %}	
            
               </div>
           </div>
