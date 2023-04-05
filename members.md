@@ -21,8 +21,24 @@ image:
 <h2> Sips & Shapes Study Research Staff </h2>
 
 
-<div>
 <!-- Sips & Shapes Study -->
+
+<div>
+<h3>Alana (Research Coordinator)</h3>
+<p><span class="image left"><img src="assets/images/members/alana_hatanaka.jpeg" alt="" /></span>
+Ms. Alana Hatanaka is an undergraduate student majoring in Health Sciences with an interest in pursuing graduate training in health administration. Alana has been working with Dr. Cofresi since Spring 2023 to learn more about program coordination and the neuroscience of addiction. She already has experience collecting and analyzing EEG data, so she is now focused on learning how to collect and analyze functional MRI data from human participants.</p>
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<hr>
+
+<div>
 <h3>Abigail (Undergraduate Research Assistant)</h3>
 <p><span class="image left"><img src="assets/images/members/abigail_obregon.jpg" alt="" /></span>
 Ms. Elizabeth Abigail Obregon is an undergraduate student majoring in Nutrition and Exercise Physiology with an interest in pursuing graduate training in medicine. Abigail joined the lab in Fall 2022 to learn more about the process of scientific research. She is learning how to collect and analyze EEG data from human participants.</p>
@@ -43,6 +59,23 @@ Ms. Elizabeth Abigail Obregon is an undergraduate student majoring in Nutrition 
 <h3>Darius (Undergraduate Research Assistant)</h3>
 <p><span class="image left"><img src="assets/images/members/missing1.jpg" alt="" /></span>
 Mr. Darius Stewart is an undergraduate student majoring in Public Health with an interest in pursuing graduate training in public health and social work. Darius joined the lab in Fall 2022 to learn more about the neuroscience of addiction. He is learning how to collect and analyze EEG data from human participants.</p>
+</div>
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<hr>
+
+<div>
+<h3> Katelyn (Undergraduate Research Assistant)</h3>
+<p><span class="image left"><img src="assets/images/members/katelyn_matzdorf.jpg" alt="" /></span>
+Ms. Katelyn Matzdorf is double majoring in Psychology and Biology with and emphasis in human biology and medicine, with an interest in going to medical school post-graduation. She joined the lab with the interest of learning more about neuroscience and is currently learning how to collect and analyze EEG data.</p>
 </div>
 
 
