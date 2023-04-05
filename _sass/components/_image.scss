@@ -55,6 +55,15 @@
 				width: 40%;
 			}
 		}
+		&.tiny {
+			display: block;
+			margin: 0 0 _size(element-margin) 0;
+			width: 40%;
+
+			img {
+				width: 20%;
+			}
+		}
 
 		&.main {
 			display: block;
