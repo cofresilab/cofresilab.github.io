@@ -20,11 +20,10 @@ image:
             <div class="blog-post">
 		    
 		
-    		<h4> {{ post.date | date: "%B %Y" }} </h4>
-		
-		    
-              <h2> <a href="{{ BASE_PATH }}{{ post.url }}"> {{ post.title }}</a></h2>
+    		<h4> {{ post.date | date: "%B %Y" }} | <a href="{{ BASE_PATH }}{{ post.url }}"> {{ post.title }}</a></h4>
+    		
 	      <p>{{ post.content }}</p>
+	      s
             </div>
           </div>
 	  <div class="mb-60"></div>
