@@ -25,7 +25,7 @@ image:
 
 <div>
 <h3>Alana (Research Coordinator)</h3>
-<p><span class="image left"><img src="assets/images/members/alana_hatanaka.jpg" alt="" /></span>
+<p><span class="image left"><img src="assets/images/members/alana-hatanaka.jpg" alt="" /></span>
 Ms. Alana Hatanaka is an undergraduate student majoring in Health Sciences with an interest in pursuing graduate training in health administration. Alana has been working with Dr. Cofresi since Spring 2023 to learn more about program coordination and the neuroscience of addiction. She already has experience collecting and analyzing EEG data, so she is now focused on learning how to collect and analyze functional MRI data from human participants.</p>
 </div>
 
