@@ -2,7 +2,7 @@
 layout: post
 tagline: 
 tags : 
-img : 
+img : /assets/images/news/voxmag.png
 img2 : 
 img3 : 
 author : 
