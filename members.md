@@ -92,7 +92,7 @@ Ms. Katelyn Matzdorf is double majoring in Psychology and Biology with and empha
 <div>
 <h3>Sophia (Undergraduate Research Assistant)</h3>
 <p><span class="image left"><img src="assets/images/members/sophia_slinkard.jpg" alt="" /></span>
-Ms. Sophia Slinkard is an undergraduate student double-majoring in Biology and Psychology with an interest in pursuing graduate training in medicine. Sophia joined the lab in Fall 2022. As part of her Honors Thesis (2022-2023; co-supervised by Drs. Froeliger and Cofresi) focused on the role of reward-related learning in disordered eating behavior, she is learning how to collect and analyze EEG data from human participants.</p>
+Ms. Sophia Slinkard is an undergraduate student double-majoring in Biology and Psychology with an interest in pursuing graduate training in medicine. Sophia joined the lab in Fall 2022. As part of her research apprenticeship (2022-2023; co-supervised by Drs. Froeliger and Cofresi) focused on the role of reward-related learning in disordered eating behavior, she is learning how to collect and analyze EEG data from human participants.</p>
 </div>
 
 
