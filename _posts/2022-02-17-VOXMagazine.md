@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 tagline: 
 tags : 
 img : assets/images/news/voxmag.png
