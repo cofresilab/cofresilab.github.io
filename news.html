@@ -6,20 +6,22 @@ image:
 
 
 {% for post in site.posts %}
+<!-- Section -->
 <section>
-	    
-	 <div class="posts">
-
+	<header class="major">
+		<h2>News</h2>
+	</header>
+	<div class="posts">
 		<article>
-			<h3> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.date | date: "%B %Y" }} | {{ post.title }}</a>
-			</h3>
-    	
-    		
-	      <p>{{ post.content }}</p>
-	      
-	      </article>
-	      
-	      </div>
+			<h3><a href="{{ BASE_PATH }}{{ post.url }}" class="image"> {{ post.date | date: "%B %Y" }} | {{ post.title }} </a></h3>
+			<p>{{ post.content }}</p>
+			<ul class="actions">
+				<li><a href="{{ BASE_PATH }}{{ post.url }}" class="button">More</a></li>
+			</ul>
+		</article>
+		
+</div>
 </section>
-
+		
+		
 {% endfor %}
