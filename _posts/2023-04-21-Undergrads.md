@@ -1,22 +1,9 @@
 ---
 layout: post
-tagline: 
-tags : 
-img : 
-img2 :
-img3 : 
-author : 
 title: Undergraduate Research Week 2023
-title2 : 
-title3 : 
-css: 
-js: 
-bgcolor: 
-keywords: 
-canonical:
-
 ---
 <span class="image small"><img src="assets/images/news/urw2023.png" alt="urw2023" width="600"/></span>
+
 <p class="lead"> Undergraduate lab members presented their independent research projects at the 2023 edition of the Undergraduate Research Week. All projects were mentored and/or co-directed by Dr. Cofresi.  </p>
 
 (1) **Hannah Drzewiecki & Jasmine Chen**, "Alcohol craving in a laboratory setting among emerging adults"
