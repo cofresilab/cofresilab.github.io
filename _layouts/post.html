@@ -18,12 +18,11 @@
                 <!-- Content -->
                 
   <header class="major">
-			<h2> {{ page.date | date: "%B %Y" }} </h2>
+			<h2> {{ page.date | date: "%B %Y" }} | {{ page.title }} </h2>
 	</header>
     	
-<h3><strong>{{ page.title }}</strong></h3>
               
-           {{ content }}
+           {{ post.content }}
            
               </div>
           </div>
