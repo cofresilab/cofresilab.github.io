@@ -16,15 +16,20 @@
                 {% include header.html %}
 
                 <!-- Content -->
-                
-  <header class="major">
-			<h2> {{ page.date | date: "%B %Y" }} | {{ page.title }} </h2>
-	</header>
+              <div class="blog-block post-content-area">
+                <div class="blog-post">
+              
+              
+                <header class="major">
+		            	<h2> {{ page.date | date: "%B %Y" }} | {{ page.title }} </h2>
+	              </header>
     	
               
-           {{ content }}
+                     {{ content }}
            
-              </div>
+                </div>
+             </div>
+            </div>
           </div>
 
           {% include sidebar.html %}
