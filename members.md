@@ -3,8 +3,10 @@ layout: page
 title: Members
 image: 
 ---
+      <header class="major">
+			    <h2> Director </h2> 
+			</header>
 
-<h2> Director </h2>
 <div>
 <!-- Roberto-->
 <h3>Roberto (Director)</h3>
@@ -17,8 +19,10 @@ image:
 
 <hr>
 
+  <header class="major">
+		<h2> Sips & Shapes Study Research Staff </h2> 
+	</header>
 
-<h2> Sips & Shapes Study Research Staff </h2>
 
 
 <!-- Sips & Shapes Study -->
@@ -107,8 +111,10 @@ Ms. Sophia Slinkard is an undergraduate student double-majoring in Biology and P
 
 <hr>
 
+<header class="major">
+	<h2> Undergraduate Researchers </h2>
+	</header>
 
-<h2> Undergraduate Researchers </h2>
 
 <div>	
 <!-- Liz-->	
@@ -201,7 +207,11 @@ Ms. Jasmine Chen is an undergraduate student double-majoring in Psychology and B
 <br/>
 
 <hr>
-<h2> Lab Alumni </h2>
+
+<header class="major">
+	<h2> Lab Alumni </h2>
+	</header>
+
 
 
 <div>
