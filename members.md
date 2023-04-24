@@ -57,7 +57,7 @@ Ms. Elizabeth Abigail Obregon is an undergraduate student majoring in Nutrition 
 
 <div>
 <h3>Darius (Undergraduate Research Assistant)</h3>
-<p><span class="image left"><img src="assets/images/members/missing1.jpg" alt="" /></span>
+<p><span class="image left"><img src="assets/images/members/darius_stewart.jpg" alt="" /></span>
 Mr. Darius Stewart is an undergraduate student majoring in Public Health with an interest in pursuing graduate training in public health and social work. Darius joined the lab in Fall 2022 to learn more about the neuroscience of addiction. He is learning how to collect and analyze EEG data from human participants.</p>
 </div>
 
