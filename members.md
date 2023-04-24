@@ -164,8 +164,43 @@ Mr. Ian Flowers is an undergraduate student majoring in Psychology with an inter
 
 <hr>
 
+<div>
+<!-- Hannah-->
+<h3>Hannah  (Undergraduate Researcher)</h3>
+<p><span class="image left"><img src="assets/images/members/missing1.jpg" alt="" /></span>
+Ms. Hannah Drzewiecki is an undergraduate student double-majoring in Psychology and Biology. Hannah is a trainee for the NIH Maximizing Access to Research Careers ([MARC](https://nigms.nih.gov/training/MARC/Pages/USTARAwards.aspx)) Awards (T34). Hannah has been working with  Dr. Cofresi since Fall 2022 on a research paper analyzing alcohol craving and sensitivity in emerging adults.</p>
+</div>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
+<hr>
+
+<div>
+<!-- Jasmine-->
+<h3>Jasmine  (Undergraduate Researcher)</h3>
+<p><span class="image left"><img src="assets/images/members/jasmine_chen.jpg" alt="" /></span>
+Ms. Jasmine Chen is an undergraduate student double-majoring in Psychology and Biology. Jasmine is a trainee for the NIH Maximizing Access to Research Careers ([MARC](https://nigms.nih.gov/training/MARC/Pages/USTARAwards.aspx)) Awards (T34).</p>
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<hr>
 <h2> Lab Alumni </h2>
 
 
