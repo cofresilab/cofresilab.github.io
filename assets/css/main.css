@@ -2251,6 +2251,7 @@
 	}
 
 		hr.major {
+		  border-bottom: solid 4px rgba(0,0,0, 0.75)
 			margin: 3em 0;
 		}
 
