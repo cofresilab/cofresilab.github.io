@@ -6,10 +6,11 @@ image:
 
 
 {% for post in site.posts %}
-	  <div class="blog-block post-content-area">
-	  
-	 
-            <div class="blog-post">
+	  <section>
+	    
+	 <div class="posts">
+
+		<article>
 		    
 		<header class="major">
 			<h2> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.date | date: "%B %Y" }} | {{ post.title }}</a></h2>
@@ -18,9 +19,9 @@ image:
     		
 	      <p>{{ post.content }}</p>
 	      
-	      <hr class="major" />
+	      </article>
 	      
-            </div>
-          </div>
-	  <div class="mb-60"></div>
+	      </div>
+</section>
+
 {% endfor %}
