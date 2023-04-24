@@ -12,7 +12,7 @@ image:
             <div class="blog-post">
 		    
 		<header class="major">
-			<h2> {{ post.date | date: "%B %Y" }} | <a href="{{ BASE_PATH }}{{ post.url }}"> {{ post.title }}</a></h2>
+			<h2> <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.date | date: "%B %Y" }} | {{ post.title }}</a></h2>
 	</header>
     	
     		
