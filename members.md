@@ -3,9 +3,10 @@ layout: page
 title: Members
 image: 
 ---
-      <header class="major">
-			    <h2> Director </h2> 
-			</header>
+<header class="major">
+		<h2> Director </h2> 
+	</header>
+
 
 <div>
 <!-- Roberto-->
