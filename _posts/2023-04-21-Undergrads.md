@@ -17,7 +17,7 @@ canonical:
 
 ---
 
-<p class="lead"> Undergraduate lab members presented their independent research projects at the 2023 edition of the Undergraduate Research Week.  </p>
+<p class="lead"> Undergraduate lab members presented their independent research projects at the 2023 edition of the Undergraduate Research Week. All projects were mentored and/or co-directed by Dr. Cofresi.  </p>
 
 <!--readmore-->
 
@@ -31,6 +31,8 @@ canonical:
 
 
 Ian and Liam also presented their research at the [Midwest Psychological Association](https://midwesternpsych.org/) in Chicago, IL.
+
+Liz Conley was also presenting research with her lab in the College of Engineering: “An automated calculation to determine polymer persistence length from AFM images”
 
 ![URW2023](/assets/images/news/urw2023.png)
 
