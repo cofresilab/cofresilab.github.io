@@ -48,6 +48,23 @@ image:
 			<p>Ms. Elizabeth Abigail Obregon is an undergraduate student majoring in Nutrition and Exercise Physiology with an interest in pursuing graduate training in medicine. Abigail joined the lab in Fall 2022 to learn more about the process of scientific research. She is learning how to collect and analyze EEG data from human participants.</p>
 		</article>
 		
+			<article>
+			<a href="#" class="image"><img src="assets/images/members/katelyn-matzdorf.jpg" alt="" width="150"/></a>
+			<h3>Katelyn (Undergraduate Research Assistant)</h3>
+			<p>Ms. Katelyn Matzdorf is double majoring in Psychology and Biology with and emphasis in human biology and medicine, with an interest in going to medical school post-graduation. She joined the lab with the interest of learning more about neuroscience and is currently learning how to collect and analyze EEG data.</p>
+		</article>
+		
+		
+		<article>
+			<a href="#" class="image"><img src="assets/images/members/sophia_slinkard.jpg" alt="" width="150"/></a>
+			<h3>Sophia (Undergraduate Research Assistant)</h3>
+			<p>Ms. Sophia Slinkard is an undergraduate student double-majoring in Biology and Psychology with an interest in pursuing graduate training in medicine. Sophia joined the lab in Fall 2022. As part of her research apprenticeship (2022-2023; co-supervised by Drs. Froeliger and Cofresi) focused on the role of reward-related learning in disordered eating behavior, she is learning how to collect and analyze EEG data from human participants.</p>
+		</article>
+		
+		
+		
+		
+		
 
 </div>
 </section>
