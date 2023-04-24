@@ -16,7 +16,7 @@ keywords:
 canonical:
 
 ---
-
+<span class="image tiny"><img src="/assets/images/news/voxmag.png" alt="VoxMagazine" width="600"/></span>
 
 The article features experts on the science of addiction, MU Professor Dr. Kenneth Sher and Dr. Roberto Cofresi, who weigh in on how HBO's 'Euphoria' depicts addiction.
 
@@ -29,4 +29,3 @@ Dr. Cofresi explains that understanding addiction and withdrawal comes from ackn
 The article was also featured in the Missouri Center for Addiction Research and Engagement [(click to read the article in MO-CARE)](https://mocare.missouri.edu/news/mo-care-investigators-weigh-how-show-euphoria-portrays-addiction) 
 
 
-<span class="image tiny"><img src="/assets/images/news/voxmag.png" alt="VoxMagazine" width="600"/></span>
