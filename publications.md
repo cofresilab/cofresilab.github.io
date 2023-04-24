@@ -31,8 +31,6 @@ image:
 <!--- #### <a id="InPress">  In Press </a> --->
 
 
-			        
-<hr class="major" />
 
 #### <a id="2023">  2023 </a>
 
