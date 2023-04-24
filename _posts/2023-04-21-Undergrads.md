@@ -34,7 +34,6 @@ Ian and Liam also presented their research at the [Midwest Psychological Associa
 
 Liz Conley was also presenting research with her lab in the College of Engineering: “An automated calculation to determine polymer persistence length from AFM images”
 
-![URW2023](/assets/images/news/urw2023.png)
-
+<span class="image small"><img src="assets/images/news/urw2023.png" alt="" width="600"/></span>
 
  
