@@ -6,7 +6,7 @@ image:
 
 <a href="https://showmeportal.missouri.edu/redcap/surveys/?s=LHCXJARTY3P3YE78"><img src="/assets/images/04-05-23 SASS webpage infographic blocked.png" width="700"></a>
 
-<a href="https://showmeportal.missouri.edu/redcap/surveys/?s=LHCXJARTY3P3YE78" class="button fit">PARTICIPATE</a>
+<a href="https://showmeportal.missouri.edu/redcap/surveys/?s=LHCXJARTY3P3YE78" class="button">PARTICIPATE</a>
 
 
 ## Study details
