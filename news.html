@@ -12,7 +12,8 @@ image:
 {% for post in site.posts %}
 		<article>
 			<header class="major">
-		      <h2><a href="{{ BASE_PATH }}{{ post.url }}"> {{ post.date | date: "%B %Y" }} | {{ post.title }} </a></h2>
+		      <h2>{{ post.date | date: "%B %Y" }}</h2> 
+		      <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
 	</header>
 			<p>{{ post.content }}</p>
 			<ul class="actions">
