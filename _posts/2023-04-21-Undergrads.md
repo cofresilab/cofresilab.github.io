@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Undergraduate Research Week 2023
+title: Undergraduate Research Week
 ---
 <span class="image small"><a href="{{ BASE_PATH }}{{ post.url }}"><img src="https://www.cofresilab.org/assets/images/news/urw2023.png" alt="urw2023" width="600"/></a></span>
 
