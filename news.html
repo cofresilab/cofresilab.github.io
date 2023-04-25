@@ -4,14 +4,14 @@ title: Lab news
 image: 
 ---
 
-
-{% for post in site.posts %}
 <!-- Section -->
 <section>
 	<header class="major">
 		<h2>News</h2>
 	</header>
 	<div class="posts">
+	  
+{% for post in site.posts %}
 		<article>
 			<h3><a href="{{ BASE_PATH }}{{ post.url }}"> {{ post.date | date: "%B %Y" }} | {{ post.title }} </a></h3>
 			<p>{{ post.content }}</p>
@@ -20,8 +20,10 @@ image:
 			</ul>
 		</article>
 		
+{% endfor %}		
+
 </div>
 </section>
 		
 		
-{% endfor %}
+
