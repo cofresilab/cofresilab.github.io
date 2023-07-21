@@ -1,6 +1,19 @@
 ---
 layout: post
+tagline: 
+tags : 
+img : 
+img2 :
+img3 : 
+author : 
 title: Undergraduate Research Week
+title2 : 
+title3 : 
+css: 
+js: 
+bgcolor: 
+keywords: 
+canonical:
 ---
 <span class="image small"><img src="https://www.cofresilab.org/assets/images/news/urw2023.png" alt="urw2023" width="600"/></span>
 

@@ -31,7 +31,7 @@ image:
 <div>
 <h3>Alana (Research Coordinator)</h3>
 <p><span class="image left"><img src="assets/images/members/alana-hatanaka.jpg" alt="" /></span>
-Ms. Alana Hatanaka is an undergraduate student majoring in Health Sciences with an interest in pursuing graduate training in health administration. Alana has been working with Dr. Cofresi since Spring 2023 to learn more about program coordination and the neuroscience of addiction. She already has experience collecting and analyzing EEG data, so she is now focused on learning how to collect and analyze functional MRI data from human participants.</p>
+Ms. Alana Hatanaka has been working with Dr. Cofresi since Spring 2023 to learn more about program coordination and the neuroscience of addiction.</p>
 </div>
 
 <br/>
@@ -63,7 +63,7 @@ Ms. Elizabeth Abigail Obregon is an undergraduate student majoring in Nutrition 
 <div>
 <h3>Darius (Undergraduate Research Assistant)</h3>
 <p><span class="image left"><img src="assets/images/members/darius_stewart.jpg" alt="" /></span>
-Mr. Darius Stewart is an undergraduate student majoring in Public Health with an interest in pursuing graduate training in public health and social work. Darius joined the lab in Fall 2022 to learn more about the neuroscience of addiction. He is learning how to collect and analyze EEG data from human participants.</p>
+Mr. Darius Stewart joined the lab in Fall 2022 to learn more about the neuroscience of addiction. He is learning how to collect and analyze EEG data from human participants. He recently graduated with a B.S. in Public Health and will be starting the MU Masters in Public Health in the Fall.</p>
 </div>
 
 
@@ -134,42 +134,6 @@ Ms. Elizabeth Conley is an undergraduate student double-majoring in Physics and 
 <hr>
 
 
-<div>
-<!-- Liam -->
-<h3>Liam  (Undergraduate Researcher)</h3>
-<p><span class="image left"><img src="assets/images/members/liam_peck.jpg" alt="" /></span>
-Mr. Liam Peck is an undergraduate student majoring in Psychology with an interest in pursuing graduate training in counseling psychology. Liam has been working with Dr. Cofresi since late Spring 2022. As part of his Honors Thesis (2022-2023; co-supervised by Drs. Bartholow and Cofresi) focused on the neural correlates of learning about cues for ingested rewards, he has learned how to collect and analyze EEG and functional MRI data from human participants.</p>
-</div>
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<hr>
-
-
-<div>
-<!-- Ian-->
-<h3>Ian  (Undergraduate Researcher)</h3>
-<p><span class="image left"><img src="assets/images/members/Ian_flowers2.png" alt="" /></span>
-Mr. Ian Flowers is an undergraduate student majoring in Psychology with an interest in pursuing graduate training in legal/forensic psychology. Ian has been working with  Dr. Cofresi since Fall 2021. As part of his McNair Fellowship and Honors Thesis (2022-2023; co-supervised by Drs. Bartholow and Cofresi) focused on the role of familial risk for alcoholism in alcohol cue reactivity and alcohol use, he has learned how to collect and analyze EEG data from human participants.</p>
-</div>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<hr>
 
 <div>
 <!-- Hannah-->
@@ -239,4 +203,43 @@ Ms. Mikayla Rodgers, B.S., was an undergraduate student majoring in Nuclear Medi
 Ms. Rawan Ebada is an undergraduate student majoring in Biochemistry with an interest in pursuing graduate training in medicine. Rawan worked with Dr. Cofresi from Fall 2021 to Fall 2022; and learned how to collect EEG data, as well as structural and functional MRI data from human participants.</p>
 </div>
 
+
+
+
+<div>
+<!-- Liam -->
+<h3>Liam  (Former Undergraduate Researcher)</h3>
+<p><span class="image left"><img src="assets/images/members/liam_peck.jpg" alt="" /></span>
+Mr. Liam Peck was mentored by Dr. Cofresi for his Honors Thesis focusing on the neural correlates (EEG, MRI) of learning about cues for ingested rewards. After graduating with a B.S in Psychology, he started working as Research Specialist I at MU Psychological Sciences coordinating a NIH R01 Study. </p>
+</div>
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<hr>
+
+
+<div>
+<!-- Ian-->
+<h3>Ian  (Former Undergraduate Researcher)</h3>
+<p><span class="image left"><img src="assets/images/members/Ian_flowers2.png" alt="" /></span>
+Mr. Ian Flowers was mentored by Dr. Cofresi for his Honors Thesis focusing on the role of familial risk for alcoholism in alcohol cue reactivity and alcohol use. He was accepted into the graduate program in Applied Psychology at Maastricht University, Netherlands for Fall 2023. </p>
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<hr>
 
