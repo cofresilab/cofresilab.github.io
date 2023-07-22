@@ -139,7 +139,7 @@ Ms. Elizabeth Conley is an undergraduate student double-majoring in Physics and 
 <!-- Hannah-->
 <h3>Hannah  (Undergraduate Researcher)</h3>
 <p><span class="image left"><img src="assets/images/members/missing1.jpg" alt="" /></span>
-Ms. Hannah Drzewiecki is an undergraduate student double-majoring in Psychology and Biology. Hannah is a trainee for the NIH Maximizing Access to Research Careers ([MARC](https://nigms.nih.gov/training/MARC/Pages/USTARAwards.aspx)) Awards (T34). Hannah has been working with  Dr. Cofresi since Fall 2022 on a research paper analyzing alcohol craving and sensitivity in emerging adults.</p>
+Ms. Hannah Drzewiecki is an undergraduate student double-majoring in Psychology and Biology. Hannah is a trainee for the NIH Maximizing Access to Research Careers Awards (T34). Hannah has been working with  Dr. Cofresi since Fall 2022 on a research paper analyzing alcohol craving and sensitivity in emerging adults.</p>
 </div>
 
 <br/>
