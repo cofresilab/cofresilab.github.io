@@ -239,15 +239,5 @@ Mr. Liam Peck was mentored by Dr. Cofresi for his Honors Thesis focusing on the 
 Mr. Ian Flowers was mentored by Dr. Cofresi for his Honors Thesis focusing on the role of familial risk for alcoholism in alcohol cue reactivity and alcohol use. He was accepted into the graduate program in Applied Psychology at Maastricht University, Netherlands for Fall 2023. </p>
 </div>
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
-<hr>
 
