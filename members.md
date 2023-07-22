@@ -86,14 +86,14 @@ image:
 			<article>
 			<a href="#" class="image small"><img src="assets/images/members/missing1.jpg" alt=""/></a>
 			<h3>Hannah  (Undergraduate Researcher)</h3>
-			<p>Ms. Hannah Drzewiecki is an undergraduate student double-majoring in Psychology and Biology. Hannah is a trainee for the NIH Maximizing Access to Research Careers ([MARC](https://nigms.nih.gov/training/MARC/Pages/USTARAwards.aspx)) Awards (T34). Hannah has been working with  Dr. Cofresi since Fall 2022 on a research paper analyzing alcohol craving and sensitivity in emerging adults.</p>
+			<p>Ms. Hannah Drzewiecki is an undergraduate student double-majoring in Psychology and Biology. Hannah is a trainee for the NIH Maximizing Access to Research Careers Awards (T34). Hannah has been working with  Dr. Cofresi since Fall 2022 on a research paper analyzing alcohol craving and sensitivity in emerging adults.</p>
 		</article>
 		
 		
 		<article>
 			<a href="#" class="image small"><img src="assets/images/members/jasmine_chen.jpg" alt=""/></a>
 			<h3>Jasmine  (Undergraduate Researcher)</h3>
-			<p>Ms. Jasmine Chen is an undergraduate student double-majoring in Psychology and Biology. Jasmine is a trainee for the NIH Maximizing Access to Research Careers ([MARC](https://nigms.nih.gov/training/MARC/Pages/USTARAwards.aspx)) Awards (T34).</p>
+			<p>Ms. Jasmine Chen is an undergraduate student double-majoring in Psychology and Biology. Jasmine is a trainee for the NIH Maximizing Access to Research Careers Awards (T34).</p>
 		</article>
 		
 
