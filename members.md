@@ -157,7 +157,7 @@ Ms. Hannah Drzewiecki is an undergraduate student double-majoring in Psychology 
 <div>
 <!-- Jasmine-->
 <h3>Jasmine  (Undergraduate Researcher)</h3>
-<p><span class="image left"><img src="assets/images/members/jasmine_chen.jpg" alt="" /></span>
+<p><span class="image left"><img src="assets/images/members/jasmine_chen2.jpg" alt="" /></span>
 Ms. Jasmine Chen is an undergraduate student double-majoring in Psychology and Biology. Jasmine is a trainee for the NIH Maximizing Access to Research Careers ([MARC](https://nigms.nih.gov/training/MARC/Pages/USTARAwards.aspx)) Awards (T34).</p>
 </div>
 
