@@ -63,8 +63,8 @@ image:
 			
 		<article>
 			<a href="#" class="image small"><img src="assets/images/members/missing1.jpg" alt=""/></a>
-			<h3>Camilla (Undergraduate Research Assistant)</h3>
-			<p>Camilla is an undergraduate student who joined the lab in Summer 2023.</p>
+			<h3>Camilla Gutierrez (Undergraduate Research Assistant)</h3>
+			<p>Camilla is an undergraduate student double-majoring in Biology and Psychology, with an interest in neuroscience. She joined the lab in Summer 2023.</p>
 		</article>
 		
 
