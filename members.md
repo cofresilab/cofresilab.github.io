@@ -56,19 +56,19 @@ image:
   <article>
 			<a href="#" class="image small"><img src="assets/images/members/missing1.jpg" alt=""/></a>
 			<h3>Peyton (Undergraduate Research Assistant)</h3>
-			<p>Ms. Peyton Maras is an undergradute student majoring in Psychology. She joined the lab in the Fall of 2023 to learn more about research in cognitive neuroscience of addiction.</p>
+			<p>Ms. Peyton Maras is an undergraduate student majoring in Psychology. She joined the lab in the Fall of 2023 to learn more about research in cognitive neuroscience of addiction.</p>
 		</article>
 
   <article>
 			<a href="#" class="image small"><img src="assets/images/members/missing1.jpg" alt=""/></a>
 			<h3>Paola (Undergraduate Research Assistant)</h3>
-			<p>Ms. Paola Gonzalez is an undergradute student majoring in Psychology. She joined the lab in the Fall of 2023 to learn more about neuroscientific research methods in psychology. Her passion is developmental psychology and she is interested in pursuing graduate training in Social Work.</p>
+			<p>Ms. Paola Gonzalez is an undergraduate student majoring in Psychology. She joined the lab in the Fall of 2023 to learn more about neuroscientific research methods in psychology. Her passion is developmental psychology and she is interested in pursuing graduate training in Social Work.</p>
 		</article>
   
 		 <article>
 			<a href="#" class="image small"><img src="assets/images/members/missing1.jpg" alt=""/></a>
 			<h3>Lukas (Undergraduate Research Assistant)</h3>
-			<p>Mr. Lukas Hawkins is an undergradute student majoring in Psychology. He joined the lab in the Fall of 2023 to learn more about the cognitive neuroscience of addiction.</p>
+			<p>Mr. Lukas Hawkins is an undergraduate student majoring in Psychology. He joined the lab in the Fall of 2023 to learn more about the cognitive neuroscience of addiction.</p>
 		</article>
 			
 		
