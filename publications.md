@@ -12,6 +12,7 @@ image:
 <!-- Years -->
 <p class="text-center">
 <!-- <a href="#InPress"> In Press <i class="fa fa-arrow-circle-o-down icons"></i></a> | -->
+<a href="#2024"> 2024 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
 <a href="#2023"> 2023 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
 <a href="#2022"> 2022 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
 <a href="#2021"> 2021 <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
@@ -29,9 +30,34 @@ image:
 <!--- #### <a id="InPress">  In Press </a> --->
 
 
+#### <a id="2024">  2024 </a>
+ 
+<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Kohen, C. B., Cofresí, R. U., Piasecki, T. M., & Bartholow, B. D. (2024). Predictive utility of the P3 event‐related potential (ERP) response to alcohol cues for ecologically assessed alcohol craving and use. 
+<em>Addiction Biology,</em> 29(2), e13368. https://doi.org/10.1111/adb.13368 
+<br/>
+<a href="assets/docs/pub/Kohen et al._2024_Predictive utility of the P3 event‐related potential (ERP) response to alcohol cues for ecologically assessed alcoho.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
+	| <a href="https://doi.org/10.1111/adb.13368" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>
+			        
+			       
+<hr class="major" />
 
 #### <a id="2023">  2023 </a>
 
+<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Brown, A. A., Cofresí, R. U., & Froeliger, B. (2023). Associations Between the Wisconsin Inventory of Smoking Dependence Motives and Regional Brain Volumes in Adult Smokers. 
+<em>Nicotine and Tobacco Research,</em> 25(12), 1882–1890. https://doi.org/10.1093/ntr/ntad097 
+<br/>
+<a href="assets/docs/pub/Brown, Cofresí, Froeliger_2023_Associations between the Wisconsin Inventory of Smoking Dependence Motives (WISDM-68) and Regional Brain.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
+	| <a href="https://doi.org/10.1093/ntr/ntad097" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>
+ 
+<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Miller, M. B., Cofresí, R. U., McCarthy, D. M., & Carskadon, M. A. (2023). Sleep and circadian influences on blood alcohol concentration. 
+<em>Sleep,</em> 46(12), 1–8. https://doi.org/10.1093/sleep/zsad250 
+<br/>
+<a href="assets/docs/pub/miller (2023 SLEEP) sleep circadian influence on BAC.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
+	| <a href="https://doi.org/10.1093/sleep/zsad250" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>
+ 
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Kohen, C. B., Cofresí, R. U., Bartholow, B. D., & Piasecki, T. M. (2023). Alcohol craving in the natural environment: Moderating roles of cue exposure, drinking, and alcohol sensitivity. 
 <em>Experimental and Clinical Psychopharmacology,</em> 31(1), 57–71. https://doi.org/10.1037/pha0000540 
