@@ -5,13 +5,13 @@ image:
 ---
 
 
-<a href="assets/docs/Cofresi_CV_04-2023.pdf" class="button special icon fa-download">CV</a> & [Dr. Cofresi's Google Scholar](https://scholar.google.com/citations?user=nRAErPEAAAAJ&hl=en) for publications with H-index.
+<a href="assets/docs/cofresi_cv_may2024.pdf" class="button special icon fa-download">CV</a> & [Dr. Cofresi's Google Scholar](https://scholar.google.com/citations?user=nRAErPEAAAAJ&hl=en) for publications with H-index.
 
 <p> Disclaimer: The PDFs available for download from this page are intended for fair use as defined by U.S. Copyright law, and may not be used for commercial purposes. The definitive versions of journal publications are available from the publishers’ websites. </p>
 
 <!-- Years -->
 <p class="text-center">
-<!-- <a href="#InPress"> In Press <i class="fa fa-arrow-circle-o-down icons"></i></a> | -->
+<a href="#InPress"> In Press <i class="fa fa-arrow-circle-o-down icons"></i></a> |
 <a href="#2024"> 2024 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
 <a href="#2023"> 2023 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
 <a href="#2022"> 2022 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
@@ -27,7 +27,17 @@ image:
 
 <hr class="major" />
 
-<!--- #### <a id="InPress">  In Press </a> --->
+#### <a id="InPress">  In Press </a>
+
+<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Cofresí, R. U., Upton, S., Brown, A., Piasecki, T. M., Bartholow, B. D., & Froeliger, B. (in press). Mesocorticolimbic system reactivity to alcohol use-related visual cues as a function of alcohol sensitivity phenotype: a pilot fMRI study. <em>Addiction Neuroscience.</em> https://doi.org/10.1016/j.addicn.2024.100156 
+<br/>
+		  <a href="https://doi.org/10.1016/j.addicn.2024.100156" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI
+		 </li> </p> 
+
+
+<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Acuff, S. F., Cofresi, R., Varner, A., Dennhardt, A. A., Sable, J., Bartholow, B., MacKillop, J., Murphy, J. G. (in press). Correspondence Between the Alcohol-P3 Event-related Potential and Alcohol Demand Phenotypes of Alcohol Reward Among Heavy Drinking Emerging Adults. Alcohol: Clinical & Experimental Research. Online ahead of print.
 
 
 #### <a id="2024">  2024 </a>
