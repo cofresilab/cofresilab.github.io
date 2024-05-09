@@ -2,12 +2,12 @@
   <div id="sidebar">
     <div class="inner">
 
-      <!-- Search -->
+      <!-- Search
         <section id="search" class="alt">
           <form method="post" action="#">
             <input type="text" name="query" id="query" placeholder="Search" />
           </form>
-        </section>
+        </section>  -->
         
 
       <!-- Menu -->
@@ -20,8 +20,8 @@
           <ul>
             <!-- <li><a href="{{ 'research.html' | absolute_url }}">Research</a></li> -->
             <li><a href="{{ 'publications.html' | absolute_url }}">Publications</a></li>
-            <li><a href="{{ 'members.html' | absolute_url }}">Lab Members</a></li>
-            <li><a href="{{ 'news.html' | absolute_url }}">Lab News</a></li>
+            <li><a href="{{ 'members.html' | absolute_url }}">Members</a></li>
+            <li><a href="{{ 'news.html' | absolute_url }}">News</a></li>
             <li><a href="{{ 'acknowledgments.html' | absolute_url }}">Acknowledgments</a></li>
             
             <!-- 
@@ -53,12 +53,8 @@
           </header>
           <div class="mini-posts">
             <article>
-              <p>Sips And Shapes Study</p>
+              <strong>Sips And Shapes Study</strong>
               <a href="{{ 'sipsandshapes.html' | absolute_url }}" class="image med"><img src="assets/images/SASSlogo2.png" alt="" /></a>
-            </article>
-            <article>
-              <p>Directions to the lab</p>
-              <a href="{{ 'directions.html' | absolute_url }}" class="image"><img src="assets/images/marx_bldg.png" alt="" /></a>
             </article>
           </div>
         </section>
@@ -78,6 +74,7 @@
             <li class="fa-home">{{ site.street_address }}<br />
             {{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
             {{ site.country }}</li>
+              <a href="{{ 'directions.html' | absolute_url }}" class="image"><img src="assets/images/marx_bldg.png" alt="" /></a>
           </ul>
         </section>
 
