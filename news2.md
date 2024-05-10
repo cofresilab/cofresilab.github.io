@@ -24,7 +24,6 @@ image:
 			<ul class="actions">
 				<li><a href="{{ BASE_PATH }}{{ post.url }}" class="button">VIEW</a></li>
 			</ul>
-		</article>
 		<hr class="major" />
 {% endfor %}		
 
