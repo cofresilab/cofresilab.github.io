@@ -33,7 +33,7 @@ image:
 Cofresí, R. U., Upton, S., Brown, A., Piasecki, T. M., Bartholow, B. D., & Froeliger, B. (in press). Mesocorticolimbic system reactivity to alcohol use-related visual cues as a function of alcohol sensitivity phenotype: a pilot fMRI study. <em>Addiction Neuroscience.</em> https://doi.org/10.1016/j.addicn.2024.100156 
 <br/>
 <a href="assets/docs/pub/Cofresí et al._2024_Mesocorticolimbic system reactivity to alcohol use-related visual cues as a function of alcohol sensitivity phenoty.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
-<a href="https://doi.org/10.1016/j.addicn.2024.100156" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>
+	| <a href="https://doi.org/10.1016/j.addicn.2024.100156" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>
 
 
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
