@@ -101,18 +101,8 @@ image:
 			<p>Ms. Elizabeth Conley is an undergraduate student double-majoring in Physics and Electrical Engineering with an interest in pursuing graduate training in cognitive neuroscience. Liz has been working with Dr. Cofresi since Fall 2021 to learn more about the neuroscience of addiction. She has helped design and develop the lab's intra-oral liquid stimulus delivery systems, including several prototype  mouthpieces. She also has learned how to collect and analyze EEG and functional NIRS data from human participants.</p>
 		</article>
 		
-			<article>
-			<a href="#" class="image small"><img src="assets/images/members/missing1.jpg" alt=""/></a>
-			<h3>Hannah  (Undergraduate Researcher)</h3>
-			<p>Ms. Hannah Drzewiecki is an undergraduate student double-majoring in Psychology and Biology. Hannah is a trainee for the NIH Maximizing Access to Research Careers Awards (T34). Hannah has been working with  Dr. Cofresi since Fall 2022 on a research paper analyzing alcohol craving and sensitivity in emerging adults.</p>
-		</article>
-		
-		
-		<article>
-			<a href="#" class="image small"><img src="assets/images/members/jasmine_chen.jpg" alt=""/></a>
-			<h3>Jasmine  (Undergraduate Researcher)</h3>
-			<p>Ms. Jasmine Chen is an undergraduate student double-majoring in Psychology and Biology. Jasmine is a trainee for the NIH Maximizing Access to Research Careers Awards (T34).</p>
-		</article>
+			
+
 		
 
 </div>
@@ -128,6 +118,25 @@ image:
 	</header>
 	
 <div class="features">
+
+<article>
+			<span class="icon fa-paper-plane"></span>
+			<div class="content">
+			<h3>Jasmine Chen</h3> 
+			Fall 2022 to Spring 2023.
+			<b>Then:</b> Undergraduate Research Assistant. MARC/IMSD Intern.
+			</div>
+		</article>
+		
+		
+<article>
+			<span class="icon fa-paper-plane"></span>
+			<div class="content">
+			<h3>Hannah Drzewiecki</h3> 
+			Fall 2022 to Spring 2023.
+			<b>Then:</b> Undergraduate Research Assistant. MARC/IMSD Intern.
+			</div>
+		</article>
 
 
 <article>
@@ -174,11 +183,11 @@ image:
 
 
 <article>
-			<span class="icon fa-id-badge"></span>
+			<span class="fa fa-id-badge"></span>
 			<div class="content">
 			<h3>Sophia Slinkard</h3>  
 			Fall 2022 to Spring 2023.
-			<b>Then:</b> Undergraduate Research Assistant.</b> Research apprenticeship (2022-2023; co-supervised by Drs. Froeliger and Cofresi) focused on the role of reward-related learning in disordered eating behavior.
+			<b>Then:</b> Undergraduate Research Assistant. Research apprenticeship (2022-2023; co-supervised by Drs. Froeliger and Cofresi) focused on the role of reward-related learning in disordered eating behavior.
 			</div>
 		</article>
 	
@@ -188,7 +197,7 @@ image:
 			<div class="content">
 			<h3>Alana Hatanaka</h3> 
 			Spring to Summer 2023.
-			<b>Then:</b> Research coordinator.</b>
+			<b>Then:</b> Research coordinator.
 			<b>Now:</b> Senior Clinical Lab Technician, MU Veterinary Diagnostic Laboratory.
 			</div>
 		</article>
