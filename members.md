@@ -127,7 +127,7 @@ image:
 		<h2>Lab Alumni </h2>
 	</header>
 	
-<div class="posts">
+<div class="features">
 
 
 			<h3>Mikayla Rodgers</h3> Fall 2020 to Spring 2022
