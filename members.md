@@ -130,40 +130,40 @@ image:
 <div class="posts">
 
 		<article>
-			<a href="#" class="image small"><img src="assets/images/members/mikayla_rodgers.jpg" alt="" /></a>
-			<h3>Mikayla  (Former Undergraduate Research Assistant and Coordinator)</h3>
-			<p>Ms. Mikayla Rodgers, B.S., was an undergraduate student majoring in Nuclear Medicine with an interest in pursuing graduate training in theranostics. She completed her undergraduate degree in Spring 2022. Mikayla worked with Dr. Cofresi from Fall 2020 to Spring 2022, during which time she learned how to collect EEG and MRI data from human participants as well as how to coordinate human subjects research studies. She is now working as a full-time research scientist at the University of Missouri Molecular Imaging and Theranostics Center in the team of Dr. Barry Edwards.</p>
+			<h3>Mikayla Rodgers</h3>
+			<p>Then: Research coordinator, Undergraduate Research Assistant.</p>
+			<p>Now: Research specialist, MU Molecular Imaging and Theranostics Center.</p>
 		</article>
 		
 		<article>
-			<a href="#" class="image small"><img src="assets/images/members/missing1.jpg" alt=""/></a>
-			<h3>Rawan (Former Undergraduate Research Assistant)</h3>
-			<p>Ms. Rawan Ebada is an undergraduate student majoring in Biochemistry with an interest in pursuing graduate training in medicine. Rawan worked with Dr. Cofresi from Fall 2021 to Fall 2022; and learned how to collect EEG data, as well as structural and functional MRI data from human participants.</p>
+			<h3>Rawan Ebada</h3>
+				<p>Then: Undergraduate Research Assistant.</p>
 		</article>
 		
 		
 			<article>
-			<a href="#" class="image small"><img src="assets/images/members/liam_peck.jpg" alt=""/></a>
-			<h3>Liam  (Undergraduate Researcher)</h3>
-			<p>Mr. Liam Peck was mentored by Dr. Cofresi for his Honors Thesis focusing on the neural correlates (EEG, MRI) of learning about cues for ingested rewards. After graduating with a B.S in Psychology, he started working as Research Specialist I at MU Psychological Sciences coordinating a NIH R01 Study.</p>
+			<h3>Liam Peck</h3>
+			<p>Then: Undergraduate Research Assistant.</p>
+			<p>Now: Research Specialist, MU Psychological Sciences.</p>
 		</article>
 		
 			<article>
-			<a href="#" class="image small"><img src="assets/images/members/Ian_flowers2.png" alt=""/></a>
-			<h3>Ian  (Undergraduate Researcher)</h3>
-			<p>Mr. Ian Flowers was mentored by Dr. Cofresi for his Honors Thesis focusing on the role of familial risk for alcoholism in alcohol cue reactivity and alcohol use. He was accepted into the graduate program in Applied Psychology at Maastricht University, Netherlands for Fall 2023.</p>
+			
+			<h3>Ian Flowers</h3>
+			<p>Then: Undergraduate Research Assistant.</p>
+			<p>Now: Applied Psychology at Maastricht University, Netherlands.</p>
 		</article>
   
   <article>
-			<a href="#" class="image small"><img src="assets/images/members/sophia_slinkard.jpg" alt=""/></a>
-			<h3>Sophia (Undergraduate Research Assistant)</h3>
-			<p>Ms. Sophia Slinkard was an undergraduate student double-majoring in Biology and Psychology with an interest in pursuing graduate training in medicine. Sophia worked in the lab Fall 2022 and Spring 2023. As part of her research apprenticeship (2022-2023; co-supervised by Drs. Froeliger and Cofresi) focused on the role of reward-related learning in disordered eating behavior, she learned how to collect and analyze EEG data from human participants and presented a poster about her work at the MU Spring 2023 Research Forum.</p>
+			<h3>Sophia Slinkard</h3>
+				<p>Then: Undergraduate Research Assistant.</p>
 		</article>
 
   <article>
-			<a href="#" class="image small"><img src="assets/images/members/alana-hatanaka.jpg" alt="" /></a>
-			<h3>Alana (Research Coordinator)</h3>
-			<p>Ms. Alana Hatanaka worked with Dr. Cofresi during Spring and Summer 2023 to learn more about research coordination and the neuroscience of addiction. She is now working full-time at Mizzou Therapy Services. </p>
+			
+			<h3>Alana Hatanaka</h3>
+			<p>Then: Research coordinator.</p>
+			<p>Now: Senior Clinical Lab Technician, MU Veterinary Diagnostic Laboratory.</p>
 		</article>
 
 </div>
