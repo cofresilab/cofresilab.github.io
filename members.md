@@ -129,6 +129,7 @@ image:
 	
 <div class="features">
 
+
 <article>
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
@@ -139,7 +140,8 @@ image:
 			</div>
 		</article>
 	
-	<article>
+	
+<article>
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
 			<h3>Rawan Ebada</h3> 
@@ -147,6 +149,7 @@ image:
 			Then: Undergraduate Research Assistant.
 			</div>
 		</article>
+
 
 <article>
 			<span class="icon fa-paper-plane"></span>
@@ -158,7 +161,8 @@ image:
 			</div>
 		</article>
 	
-			<article>
+	
+<article>
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
 			<h3>Ian Flowers</h3> 
@@ -168,6 +172,7 @@ image:
 			</div>
 		</article>
 
+
 <article>
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
@@ -176,7 +181,8 @@ image:
 			</div>
 		</article>
 	
-			<article>
+	
+<article>
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
 			<h3>Alana Hatanaka</h3> Spring to Summer 2023
