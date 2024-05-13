@@ -6,7 +6,7 @@ image:
 <section>
 
 	<header class="major">
-		<h2>Lab director</h2>
+		<h2>Lab direction</h2>
 	</header>
 	
 	
@@ -16,6 +16,17 @@ image:
 			<p>Dr. Roberto Cofresí is an Assistant Research Professor at the University of Missouri - Columbia. His undergraduate and graduate training in Biochemistry and Neuroscience, respectively, were completed at the University of Texas - Austin. Roberto is interested in  bidirectional translation between rodent and human neuroscience laboratories studying addiction-related learning and memory. The goal of his research is to understand why and how naturally learned signals (cues) for drugs of abuse like alcohol are able to capture attention, impel approach, and promote over-consumption in some of us but not others. Contact at: cofresir at missouri.edu</p>
 		
 </div>
+
+
+
+<div>
+			<a href="#" class="image small"><img src="assets/images/members/missing1.png" alt="" /></a>
+			<h3>Sandie (Co-Director)</h3>
+			<p>Dr. Sandie Keerstock is the Research Specialist Lead and coordinates research activities in the lab. Contact at: skeerstock at missouri.edu</p>
+		
+</div>
+
+
 </section>
 		
 		
@@ -34,36 +45,13 @@ image:
 			<p>Mr. Darius Stewart joined the lab in Fall 2022 to learn more about the neuroscience of addiction. He is learning how to collect and analyze EEG data from human participants. He recently graduated with a B.S. in Public Health and will be starting the MU Masters in Public Health in Fall 2023.</p>
 		</article>
 
+
   <article>
 			<a href="#" class="image small"><img src="assets/images/members/Professional_Headshot_Camila.jpg" alt=""/></a>
 			<h3>Camila (Undergraduate Research Assistant)</h3>
 			<p>Ms. Camila Gutierrez is double majoring in Psychology and Biology with emphasis in Human Biology and Medical Science. She joined the lab in the Summer of 2023 to learn more about neuroscience and research. She is learning how to collect and analyze EEG data from human participants as well as research coordination.</p>
 		</article>
-
-  <article>
-			<a href="#" class="image small"><img src="assets/images/members/katelyn-matzdorf.jpg" alt=""/></a>
-			<h3>Katelyn (Undergraduate Research Assistant)</h3>
-			<p>Ms. Katelyn Matzdorf is double majoring in Psychology and Biology with and emphasis in human biology and medicine, with an interest in going to medical school post-graduation. She joined the lab with the interest of learning more about neuroscience and is currently learning how to collect and analyze EEG data.</p>
-		</article>
-		
-  <article>
-			<a href="#" class="image small"><img src="assets/images/members/abigail_obregon.jpg" alt=""/></a>
-			<h3>Abigail (Undergraduate Research Assistant)</h3>
-			<p>Ms. Elizabeth Abigail Obregon is an undergraduate student majoring in Nutrition and Exercise Physiology with an interest in pursuing medical training. Abigail joined the lab in Fall 2022 to learn more about the process of scientific research and its interface with medicine. </p>
-		</article>
-
-  
-  <article>
-			<a href="#" class="image small"><img src="assets/images/members/missing1.jpg" alt=""/></a>
-			<h3>Peyton (Undergraduate Research Assistant)</h3>
-			<p>Ms. Peyton Maras is an undergraduate student majoring in Psychology. She joined the lab in the Fall of 2023 to learn more about research in cognitive neuroscience of addiction.</p>
-		</article>
-
-  <article>
-			<a href="#" class="image small"><img src="assets/images/members/missing1.jpg" alt=""/></a>
-			<h3>Paola (Undergraduate Research Assistant)</h3>
-			<p>Ms. Paola Gonzalez is an undergraduate student majoring in Psychology. She joined the lab in the Fall of 2023 to learn more about neuroscientific research methods in psychology. Her passion is developmental psychology and she is interested in pursuing graduate training in Social Work.</p>
-		</article>
+	
   
 		 <article>
 			<a href="#" class="image small"><img src="assets/images/members/missing1.jpg" alt=""/></a>
@@ -72,13 +60,6 @@ image:
 		</article>
 			
 		
-		
-		
-		
-		
-			
-		
-		
 
 </div>
 </section>
@@ -88,26 +69,6 @@ image:
 
 
 		
-<section>
-	<header class="major">
-		<h2>Undergraduate Researchers </h2>
-	</header>
-	
-<div class="posts">
-
-		<article>
-			<a href="#" class="image small"><img src="assets/images/members/liz_conley.jpg" alt=""/></a>
-			<h3>Liz  (Undergraduate Researcher)</h3>
-			<p>Ms. Elizabeth Conley is an undergraduate student double-majoring in Physics and Electrical Engineering with an interest in pursuing graduate training in cognitive neuroscience. Liz has been working with Dr. Cofresi since Fall 2021 to learn more about the neuroscience of addiction. She has helped design and develop the lab's intra-oral liquid stimulus delivery systems, including several prototype  mouthpieces. She also has learned how to collect and analyze EEG and functional NIRS data from human participants.</p>
-		</article>
-		
-			
-
-		
-
-</div>
-</section>
-
 
 
 
@@ -119,14 +80,64 @@ image:
 	
 <div class="features">
 
+		
+<article>
+			<span class="icon fa-paper-plane"></span>
+			<div class="content">
+			<h3>Elizabeth Conley</h3>  
+			Fall 2021 to Spring 2024.
+			<b>Then:</b> Undergraduate Research Assistant. MU Goldwater Fellowship Nominee; DAAD Summer REU.
+			<b>Now:</b> PhD student in Neuroscience, Washington University in St. Louis
+			</div>
+		</article>
+		
+		
+		<article>
+			<span class="icon fa-paper-plane"></span>
+			<div class="content">
+			<h3>Peyton Maras</h3>  
+			Fall 2023 to Spring 2024.
+			<b>Then:</b> Undergraduate Research Assistant. 
+			</div>
+		</article>
+
+<article>
+			<span class="icon fa-paper-plane"></span>
+			<div class="content">
+			<h3>Katelyn Matzdorf</h3>  
+			Spring 2023 to Spring 2024.
+			<b>Then:</b> Undergraduate Research Assistant.
+			</div>
+		</article>
+		
+		
+<article>
+			<span class="icon fa-paper-plane"></span>
+			<div class="content">
+			<h3>Abigail Obregon</h3>  
+			Fall 2022 to Spring 2024.
+			<b>Then:</b> Undergraduate Research Assistant. 
+			</div>
+		</article>
 
 
 <article>
-			<span class="fa fa-id-badge"></span>
+			<span class="icon fa-paper-plane"></span>
+			<div class="content">
+			<h3>Paola Gonzalez</h3>  
+			Fall 2023.
+			<b>Then:</b> Undergraduate Research Assistant. 
+			<b>Now:</b> Master's student, MU Social Work
+			</div>
+		</article>		
+
+<article>
+			<span class="icon fa-paper-plane"></span>
 			<div class="content">
 			<h3>Sophia Slinkard</h3>  
 			Fall 2022 to Spring 2023.
 			<b>Then:</b> Undergraduate Research Assistant. Research apprenticeship (2022-2023; co-supervised by Drs. Froeliger and Cofresi) focused on the role of reward-related learning in disordered eating behavior.
+			<b>Now:</b> Medical student, KCU
 			</div>
 		</article>
 		
@@ -182,6 +193,17 @@ image:
 			<b>Now:</b> Senior Clinical Lab Technician, MU Veterinary Diagnostic Laboratory.
 			</div>
 		</article>
+
+
+<article>
+			<span class="icon fa-paper-plane"></span>
+			<div class="content">
+			<h3>Rawan Ebada</h3> 
+			Fall 2021 to Fall 2022.
+			<b>Then:</b> Undergraduate Research Assistant.
+			</div>
+		</article>
+		
 		
 <article>
 			<span class="icon fa-paper-plane"></span>
@@ -195,14 +217,7 @@ image:
 		
 	
 		
-<article>
-			<span class="icon fa-paper-plane"></span>
-			<div class="content">
-			<h3>Rawan Ebada</h3> 
-			Fall 2021 to Fall 2022.
-			<b>Then:</b> Undergraduate Research Assistant.
-			</div>
-		</article>
+
 		
 
 
