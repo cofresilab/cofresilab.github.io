@@ -119,47 +119,18 @@ image:
 	
 <div class="features">
 
+
+
 <article>
-			<span class="icon fa-paper-plane"></span>
+			<span class="fa fa-id-badge"></span>
 			<div class="content">
-			<h3>Jasmine Chen</h3> 
+			<h3>Sophia Slinkard</h3>  
 			Fall 2022 to Spring 2023.
-			<b>Then:</b> Undergraduate Research Assistant. MARC/IMSD Intern.
+			<b>Then:</b> Undergraduate Research Assistant. Research apprenticeship (2022-2023; co-supervised by Drs. Froeliger and Cofresi) focused on the role of reward-related learning in disordered eating behavior.
 			</div>
 		</article>
 		
 		
-<article>
-			<span class="icon fa-paper-plane"></span>
-			<div class="content">
-			<h3>Hannah Drzewiecki</h3> 
-			Fall 2022 to Spring 2023.
-			<b>Then:</b> Undergraduate Research Assistant. MARC/IMSD Intern.
-			</div>
-		</article>
-
-
-<article>
-			<span class="icon fa-paper-plane"></span>
-			<div class="content">
-			<h3>Mikayla Rodgers</h3> 
-			Fall 2020 to Spring 2022.
-			<b>Then:</b> Research coordinator, Undergraduate Research Assistant.
-			<b>Now:</b> Research specialist, MU Molecular Imaging and Theranostics Center.
-			</div>
-		</article>
-	
-	
-<article>
-			<span class="icon fa-paper-plane"></span>
-			<div class="content">
-			<h3>Rawan Ebada</h3> 
-			Fall 2021 to Fall 2022.
-			<b>Then:</b> Undergraduate Research Assistant.
-			</div>
-		</article>
-
-
 <article>
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
@@ -183,14 +154,24 @@ image:
 
 
 <article>
-			<span class="fa fa-id-badge"></span>
+			<span class="icon fa-paper-plane"></span>
 			<div class="content">
-			<h3>Sophia Slinkard</h3>  
+			<h3>Jasmine Chen</h3> 
 			Fall 2022 to Spring 2023.
-			<b>Then:</b> Undergraduate Research Assistant. Research apprenticeship (2022-2023; co-supervised by Drs. Froeliger and Cofresi) focused on the role of reward-related learning in disordered eating behavior.
+			<b>Then:</b> Undergraduate Research Assistant. MARC/IMSD Intern.
 			</div>
 		</article>
-	
+		
+		
+<article>
+			<span class="icon fa-paper-plane"></span>
+			<div class="content">
+			<h3>Hannah Drzewiecki</h3> 
+			Fall 2022 to Spring 2023.
+			<b>Then:</b> Undergraduate Research Assistant. MARC/IMSD Intern.
+			</div>
+		</article>
+
 	
 <article>
 			<span class="icon fa-paper-plane"></span>
@@ -201,6 +182,28 @@ image:
 			<b>Now:</b> Senior Clinical Lab Technician, MU Veterinary Diagnostic Laboratory.
 			</div>
 		</article>
+		
+<article>
+			<span class="icon fa-paper-plane"></span>
+			<div class="content">
+			<h3>Mikayla Rodgers</h3> 
+			Fall 2020 to Spring 2022.
+			<b>Then:</b> Research coordinator, Undergraduate Research Assistant.
+			<b>Now:</b> Research specialist, MU Molecular Imaging and Theranostics Center.
+			</div>
+		</article>
+		
+	
+		
+<article>
+			<span class="icon fa-paper-plane"></span>
+			<div class="content">
+			<h3>Rawan Ebada</h3> 
+			Fall 2021 to Fall 2022.
+			<b>Then:</b> Undergraduate Research Assistant.
+			</div>
+		</article>
+		
 
 
 </div>
