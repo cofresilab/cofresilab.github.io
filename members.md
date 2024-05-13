@@ -132,9 +132,10 @@ image:
 <article>
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
-			<h3>Mikayla Rodgers</h3> Fall 2020 to Spring 2022
-			<p>Then: Research coordinator, Undergraduate Research Assistant.</p>
-			<p>Now: Research specialist, MU Molecular Imaging and Theranostics Center.</p>
+			<h3>Mikayla Rodgers</h3> 
+			<i class="fa-calendar"></i>Fall 2020 to Spring 2022
+			Then: Research coordinator, Undergraduate Research Assistant.
+			Now: Research specialist, MU Molecular Imaging and Theranostics Center.
 			</div>
 		</article>
 	
