@@ -135,8 +135,8 @@ image:
 			<div class="content">
 			<h3>Mikayla Rodgers</h3> 
 			Fall 2020 to Spring 2022.
-			Then: Research coordinator, Undergraduate Research Assistant.
-			Now: Research specialist, MU Molecular Imaging and Theranostics Center.
+			<b>Then:</b> Research coordinator, Undergraduate Research Assistant.
+			<b>Now:</b> Research specialist, MU Molecular Imaging and Theranostics Center.
 			</div>
 		</article>
 	
@@ -146,7 +146,7 @@ image:
 			<div class="content">
 			<h3>Rawan Ebada</h3> 
 			Fall 2021 to Fall 2022.
-			Then: Undergraduate Research Assistant.
+			<b>Then:</b> Undergraduate Research Assistant.
 			</div>
 		</article>
 
@@ -156,8 +156,8 @@ image:
 			<div class="content">
 			<h3>Liam Peck</h3>
 			Fall 2022 to Spring 2023.
-			Then: Undergraduate Research Assistant. Honors Thesis (co-mentored with Dr. Bruce Bartholow) focusing on the neural correlates (EEG, MRI) of learning about cues for ingested rewards.
-			Now: Research Specialist, MU Psychological Sciences.
+			<b>Then:</b> Undergraduate Research Assistant. Honors Thesis (co-mentored with Dr. Bruce Bartholow) focusing on the neural correlates (EEG, MRI) of learning about cues for ingested rewards.
+			<b>Now:</b> Research Specialist, MU Psychological Sciences.
 			</div>
 		</article>
 	
@@ -168,7 +168,7 @@ image:
 			<h3>Ian Flowers</h3> 
 			Fall 2022 to Spring 2023.
 			<b>Then:</b> Undergraduate Research Assistant. Honors Thesis (co-mentored with Dr. Bruce Bartholow) focusing on the role of familial risk for alcoholism in alcohol cue reactivity and alcohol use.
-			Now: Applied Psychology at Maastricht University, Netherlands.
+			<b>Now:</b> Applied Psychology at Maastricht University, Netherlands.
 			</div>
 		</article>
 
@@ -178,7 +178,7 @@ image:
 			<div class="content">
 			<h3>Sophia Slinkard</h3>  
 			Fall 2022 to Spring 2023.
-			Then: Undergraduate Research Assistant. Research apprenticeship (2022-2023; co-supervised by Drs. Froeliger and Cofresi) focused on the role of reward-related learning in disordered eating behavior.
+			<b>Then:</b> Undergraduate Research Assistant.</b> Research apprenticeship (2022-2023; co-supervised by Drs. Froeliger and Cofresi) focused on the role of reward-related learning in disordered eating behavior.
 			</div>
 		</article>
 	
@@ -188,8 +188,8 @@ image:
 			<div class="content">
 			<h3>Alana Hatanaka</h3> 
 			Spring to Summer 2023.
-			Then: Research coordinator.
-			Now: Senior Clinical Lab Technician, MU Veterinary Diagnostic Laboratory.
+			<b>Then:</b> Research coordinator.</b>
+			<b>Now:</b> Senior Clinical Lab Technician, MU Veterinary Diagnostic Laboratory.
 			</div>
 		</article>
 
