@@ -142,8 +142,9 @@ image:
 	<article>
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
-			<h3>Rawan Ebada</h3> Fall 2021 to Fall 2022
-			<p>Then: Undergraduate Research Assistant.</p>
+			<h3>Rawan Ebada</h3> 
+			<i class="fa-calendar"></i>Fall 2021 to Fall 2022
+			Then: Undergraduate Research Assistant.
 			</div>
 		</article>
 
@@ -151,8 +152,9 @@ image:
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
 			<h3>Liam Peck</h3>
-			<p>Then: Undergraduate Research Assistant. Honors Thesis (co-mentored with Dr. Bruce Bartholow, Fall 2022 to Spring 2023) focusing on the neural correlates (EEG, MRI) of learning about cues for ingested rewards.</p>
-			<p>Now: Research Specialist, MU Psychological Sciences.</p>
+			<i class="fa-calendar"></i>Fall 2022 to Spring 2023.
+			Then: Undergraduate Research Assistant. Honors Thesis (co-mentored with Dr. Bruce Bartholow) focusing on the neural correlates (EEG, MRI) of learning about cues for ingested rewards.
+			Now: Research Specialist, MU Psychological Sciences.
 			</div>
 		</article>
 	
@@ -160,7 +162,8 @@ image:
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
 			<h3>Ian Flowers</h3> 
-			<p>Then: Undergraduate Research Assistant. Honors Thesis (co-mentored with Dr. Bruce Bartholow, Fall 2022 to Spring 2023) focusing on the role of familial risk for alcoholism in alcohol cue reactivity and alcohol use.</p>
+			<i class="fa-calendar"></i>Fall 2022 to Spring 2023.
+			<p>Then: Undergraduate Research Assistant. Honors Thesis (co-mentored with Dr. Bruce Bartholow) focusing on the role of familial risk for alcoholism in alcohol cue reactivity and alcohol use.</p>
 			<p>Now: Applied Psychology at Maastricht University, Netherlands.</p>
 			</div>
 		</article>
