@@ -174,7 +174,7 @@ image:
 
 
 <article>
-			<span class="icon fa-paper-plane"></span>
+			<span class="icon fa-id-badge"></span>
 			<div class="content">
 			<h3>Sophia Slinkard</h3>  
 			Fall 2022 to Spring 2023.
