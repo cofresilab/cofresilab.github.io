@@ -25,7 +25,7 @@ image:
 <article>
 			<a href="#" class="image"><img src="assets/images/members/KeerstockS.jpg" alt="" /></a>
 			<h3>Sandie</h3>
-			<h4>Co-director - Research Specialist Lead</h4>
+			<h6>Co-director - Research Specialist Lead</h6>
 			<p>Dr. Sandie Keerstock coordinates research activities in the lab. Contact at: skeerstock at missouri.edu</p>
 
 </article>
