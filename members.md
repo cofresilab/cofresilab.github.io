@@ -74,175 +74,50 @@ image:
 
 
 		
-
-
-
-		
 <section>
 	<header class="major">
 		<h2>Lab Alumni </h2>
 	</header>
 	
 
-<div class="row">
-		
-
-			
-			<div class="4u 12u$(medium)">
-			<h3>Elizabeth Conley</h3>  
-			Fall 2021 to Spring 2024.
-			<b>Then:</b> Undergraduate Research Assistant. MU Goldwater Fellowship Nominee; DAAD Summer REU.
-			<b>Now:</b> PhD student in Neuroscience, Washington University in St. Louis
-			</div>
+			<li><b>Elizabeth Conley</b>. Fall 2021 to Spring 2024.<b>Then:</b> Undergraduate Research Assistant. MU Goldwater Fellowship Nominee; DAAD Summer REU. <b>Now:</b> PhD student in Neuroscience, Washington University in St. Louis. </li>
 		
 		
-		
+		  <li><b>Peyton Maras</b>. Fall 2023 to Spring 2024.<b>Then:</b> Undergraduate Research Assistant.</li>
 		
 			
-			<div class="4u 12u$(medium)">
-			<h3>Peyton Maras</h3>  
-			Fall 2023 to Spring 2024.
-			<b>Then:</b> Undergraduate Research Assistant. 
-			</div>
-		
-
-
+			<li><b>Katelyn Matzdorf</b>.	Spring 2023 to Spring 2024.	<b>Then:</b> Undergraduate Research Assistant.</li>
 			
-			<div class="4u$ 12u$(medium)">
-			<h3>Katelyn Matzdorf</h3>  
-			Spring 2023 to Spring 2024.
-			<b>Then:</b> Undergraduate Research Assistant.
-			</div>
 		
-
-</div>
-
-
-		<hr class="major" />
-
-
-
-<div class="row">
-
-
-			<div class="4u 12u$(medium)">
-			<h3>Abigail Obregon</h3>  
-			Fall 2022 to Spring 2024.
-			<b>Then:</b> Undergraduate Research Assistant. 
-			</div>
-		
-
-
-
+			<li><b>Abigail Obregon</b>.	Fall 2022 to Spring 2024. <b>Then:</b> Undergraduate Research Assistant. </li>
 			
-			<div class="4u 12u$(medium)">
-			<h3>Paola Gonzalez</h3>  
-			Fall 2023.
-			<b>Then:</b> Undergraduate Research Assistant. 
-			<b>Now:</b> Master's student, MU Social Work
-			</div>
-				
-
-
+		
+			<li><b>Paola Gonzalez</b>. Fall 2023.<b>Then:</b> Undergraduate Research Assistant.	<b>Now:</b> Master's student, MU Social Work.</li>
 			
-			<div class="4u$ 12u$(medium)">
-			<h3>Sophia Slinkard</h3>  
-			Fall 2022 to Spring 2023.
-			<b>Then:</b> Undergraduate Research Assistant. Research apprenticeship (2022-2023; co-supervised by Drs. Froeliger and Cofresi) focused on the role of reward-related learning in disordered eating behavior.
-			<b>Now:</b> Medical student, KCU
-			</div>
-
-
-</div>		
-		
-		<hr class="major" />
-
-
-<div class="row">
+					
+			<li><b>Sophia Slinkard</b>. Fall 2022 to Spring 2023. <b>Then:</b> Undergraduate Research Assistant. Research apprenticeship (2022-2023; co-supervised by Drs. Froeliger and Cofresi) focused on the role of reward-related learning in disordered eating behavior. <b>Now:</b> Medical student, KCU.</li>
 			
-			<div class="4u 12u$(medium)">
-			<h3>Liam Peck</h3>
-			Fall 2022 to Spring 2023.
-			<b>Then:</b> Undergraduate Research Assistant. Honors Thesis (co-mentored with Dr. Bruce Bartholow) focusing on the neural correlates (EEG, MRI) of learning about cues for ingested rewards.
-			<b>Now:</b> Research Specialist, MU Psychological Sciences.
-			</div>
-		
-	
-	
-
 			
-			<div class="4u 12u$(medium)">
-			<h3>Ian Flowers</h3> 
-			Fall 2022 to Spring 2023.
-			<b>Then:</b> Undergraduate Research Assistant. Honors Thesis (co-mentored with Dr. Bruce Bartholow) focusing on the role of familial risk for alcoholism in alcohol cue reactivity and alcohol use.
-			<b>Now:</b> Applied Psychology at Maastricht University, Netherlands.
-			</div>
-		
-
-
-
+			<li><b>Liam Peck</b>. Fall 2022 to Spring 2023.<b>Then:</b> Undergraduate Research Assistant. Honors Thesis (co-mentored with Dr. Bruce Bartholow) focusing on the neural correlates (EEG, MRI) of learning about cues for ingested rewards.	<b>Now:</b> Research Specialist, MU Psychological Sciences.</li>
 			
-			<div class="4u$ 12u$(medium)">
-			<h3>Jasmine Chen</h3> 
-			Fall 2022 to Spring 2023.
-			<b>Then:</b> Undergraduate Research Assistant. MARC/IMSD Intern.
-			</div>
-
-
-</div>		
-		
-		<hr class="major" />
-
-<div class="row">
-
-
-			<div class="4u 12u$(medium)">
-			<h3>Hannah Drzewiecki</h3> 
-			Fall 2022 to Spring 2023.
-			<b>Then:</b> Undergraduate Research Assistant. MARC/IMSD Intern.
-			</div>
-		
-
-	
-
 			
-			<div class="4u 12u$(medium)">
-			<h3>Alana Hatanaka</h3> 
-			Spring to Summer 2023.
-			<b>Then:</b> Research coordinator.
-			<b>Now:</b> Senior Clinical Lab Technician, MU Veterinary Diagnostic Laboratory.
-			</div>
-		
-
-
-
+			<li><b>Ian Flowers</b>.	Fall 2022 to Spring 2023.<b>Then:</b> Undergraduate Research Assistant. Honors Thesis (co-mentored with Dr. Bruce Bartholow) focusing on the role of familial risk for alcoholism in alcohol cue reactivity and alcohol use. <b>Now:</b> Applied Psychology at Maastricht University, Netherlands.</li>
 			
-			<div class="4u$ 12u$(medium)">
-			<h3>Rawan Ebada</h3> 
-			Fall 2021 to Fall 2022.
-			<b>Then:</b> Undergraduate Research Assistant.
-			</div>
-
-
-</div>		
-		
-		<hr class="major" />
-
-<div class="row">
-
-
-			<div class="4u 12u$(medium)">
-			<h3>Mikayla Rodgers</h3> 
-			Fall 2020 to Spring 2022.
-			<b>Then:</b> Research coordinator, Undergraduate Research Assistant.
-			<b>Now:</b> Research specialist, MU Molecular Imaging and Theranostics Center.
-			</div>
-		
-</div>		
-	
-		
-
-		
+			
+			<li><b>Jasmine Chen</b>.	Fall 2022 to Spring 2023.	<b>Then:</b> Undergraduate Research Assistant. MARC/IMSD Intern.</li>
+			
+			
+			<li><b>Hannah Drzewiecki</b>. Fall 2022 to Spring 2023. <b>Then:</b> Undergraduate Research Assistant. MARC/IMSD Intern.</li>
+			
+			
+			<li><b>Alana Hatanaka</b>.	Spring to Summer 2023.	<b>Then:</b> Research coordinator.<b>Now:</b> Senior Clinical Lab Technician, MU Veterinary Diagnostic Laboratory.</li>
+			
+			
+			<li><b>Rawan Ebada</b>.	Fall 2021 to Fall 2022.	<b>Then:</b> Undergraduate Research Assistant.</li>
+			
+			
+			<li><b>Mikayla Rodgers</b>. Fall 2020 to Spring 2022. <b>Then:</b> Research coordinator, Undergraduate Research Assistant. <b>Now:</b> Research specialist, MU Molecular Imaging and Theranostics Center.</li>
+			
 
 
 </section>
