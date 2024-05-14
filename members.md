@@ -64,15 +64,20 @@ image:
 	
 		<article>
 			<a href="#" class="image"><img src="assets/images/members/StewartD.jpg" alt="" /></a>
-			<h3>Darius (Undergraduate Research Assistant)</h3>
-			<p>Mr. Darius Stewart joined the lab in Fall 2022 to learn more about the neuroscience of addiction. He is learning how to collect and analyze EEG data from human participants. He recently graduated with a B.S. in Public Health and will be starting the MU Masters in Public Health in Fall 2023.</p>
+			<h3>Darius Stewart, B.S.</h3>
+			<b>Research Technician</b><br>
+			Currently in the MU Masters in Public Health program<br>
+			<em>- B.S. in Public Health, University of Missouri (2023)</em><br>
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Fall 2022
 		</article>
 
 
   <article>
 			<a href="#" class="image"><img src="assets/images/members/GutierrezC.jpg" alt=""/></a>
-			<h3>Camila (Undergraduate Research Assistant)</h3>
-			<p>Ms. Camila Gutierrez is double majoring in Psychology and Biology with emphasis in Human Biology and Medical Science. She joined the lab in the Summer of 2023 to learn more about neuroscience and research. She is learning how to collect and analyze EEG data from human participants as well as research coordination.</p>
+			<h3>Camila Gutierrez</h3>
+			<b>Undergraduate Research Assistant</b><br>
+			Double majoring in Psychology and Biology with emphasis in Human Biology and Medical Science.<br> 
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Summer 2023
 		</article>
 	
   
