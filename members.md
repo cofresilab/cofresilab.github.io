@@ -16,12 +16,13 @@ image:
 <article>
 
 			<a href="#" class="image"><img src="assets/images/members/CofresiR.jpg" alt="" /></a>
-			<h3>Dr. Roberto Cofresí</h3>
+			<h3><a href="https://psychology.missouri.edu/people/cofresi" target="_blank" rel="noopener noreferrer"><i class="fa fa-university" aria-hidden="true"></i>Dr. Roberto Cofresí</a></h3>
 			<b>Director, Principal Investigator </b> <br>
 			Assistant Research Professor, Department of Psychological Sciences, University of Missouri<br>
 			<em>- PhD Neuroscience, University of Texas at Austin <br>
 			- B.S Biochemistry, University of Texas at Austin</em><br>
 		  cofresir at missouri.edu
+		 
 
 </article>
 
