@@ -91,8 +91,10 @@ image:
   
 		 <article>
 			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
-			<h3>Lukas (Undergraduate Research Assistant)</h3>
-			<p>Mr. Lukas Hawkins is an undergraduate student majoring in Psychology. He joined the lab in the Fall of 2023 to learn more about the cognitive neuroscience of addiction.</p>
+			<h3>Lukas Hawkins</h3>
+			<b>Undergraduate Research Assistant</b><br>
+			<p>Majoring in Psychology.<br>
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Fall 2023</p>
 		</article>
 			
 		
