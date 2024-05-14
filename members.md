@@ -79,6 +79,7 @@ image:
 		<h2>Lab Alumni </h2>
 	</header>
 	
+	<ul>
 
 			<li><b>Elizabeth Conley</b>. Fall 2021 to Spring 2024.<b>Then:</b> Undergraduate Research Assistant. MU Goldwater Fellowship Nominee; DAAD Summer REU. <b>Now:</b> PhD student in Neuroscience, Washington University in St. Louis. </li>
 		
@@ -118,7 +119,7 @@ image:
 			
 			<li><b>Mikayla Rodgers</b>. Fall 2020 to Spring 2022. <b>Then:</b> Research coordinator, Undergraduate Research Assistant. <b>Now:</b> Research specialist, MU Molecular Imaging and Theranostics Center.</li>
 			
-
+</ul>
 
 </section>
 
