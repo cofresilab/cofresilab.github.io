@@ -15,9 +15,8 @@ image:
 		
 <article>
 
-			<a href="#" class="image small"><img src="assets/images/members/CofresiR.jpg" alt="" /></a>
-			<h3>Roberto</h3>
-			<h4>Director</h4>
+			<a href="#" class="image"><img src="assets/images/members/CofresiR.jpg" alt="" /></a>
+			<h3>Roberto - Director</h3>
 			<p>Dr. Roberto Cofresí is an Assistant Research Professor at the University of Missouri - Columbia. His undergraduate and graduate training in Biochemistry and Neuroscience, respectively, were completed at the University of Texas - Austin. Roberto is interested in  bidirectional translation between rodent and human neuroscience laboratories studying addiction-related learning and memory. The goal of his research is to understand why and how naturally learned signals (cues) for drugs of abuse like alcohol are able to capture attention, impel approach, and promote over-consumption in some of us but not others. Contact at: cofresir at missouri.edu</p>
 
 </article>
