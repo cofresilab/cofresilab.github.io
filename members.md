@@ -16,12 +16,16 @@ image:
 <article>
 
 			<a href="#" class="image"><img src="assets/images/members/CofresiR.jpg" alt="" /></a>
-			<h3><a href="https://psychology.missouri.edu/people/cofresi" target="_blank" rel="noopener noreferrer"><i class="fa fa-university" aria-hidden="true"></i>Dr. Roberto Cofresí</a></h3>
+			<h3><a href="https://psychology.missouri.edu/people/cofresi" target="_blank" rel="noopener noreferrer">Dr. Roberto Cofresí</a></h3>
 			<b>Director, Principal Investigator </b> <br>
 			Assistant Research Professor <br>
 			Department of Psychological Sciences, University of Missouri<br>
-			<em>- PhD Neuroscience, University of Texas at Austin <br>
-			- B.S Biochemistry, University of Texas at Austin</em><br>
+		
+			<em>
+			<i class="fa fa-university" aria-hidden="true"></i>PhD Neuroscience, University of Texas at Austin <br>
+			<i class="fa fa-university" aria-hidden="true"></i>B.S Biochemistry, University of Texas at Austin <br>
+			</em>
+		  
 		  Contact at: CofresiR at missouri.edu
 		 
 
@@ -36,10 +40,12 @@ image:
 			<b>Co-director, Research Specialist Lead</b> <br>
 			Department of Psychological Sciences, University of Missouri <br>
 			
-			<em>- PhD Linguistics, University of Texas at Austin, USA<br>
-			- M.A. Phonetics & Phonology, Sorbonne Nouvelle University, Paris France<br>
-			- M.A. Language Sciences, Stendhal University, Grenoble France<br>
-			- B.A. English Studies, UPPA, Pau France<br></em>
+			<em>
+			<i class="fa fa-university" aria-hidden="true"></i>PhD Linguistics, University of Texas at Austin, USA<br>
+			<i class="fa fa-university" aria-hidden="true"></i>M.A. Phonetics & Phonology, Sorbonne Nouvelle, Paris France<br>
+			<i class="fa fa-university" aria-hidden="true"></i>M.A. Language Sciences, Stendhal Univ., Grenoble France<br>
+			<i class="fa fa-university" aria-hidden="true"></i>B.A. English Studies, UPPA, Pau France<br>
+			</em>
 			
 			Contact at: SKeerstock at missouri.edu
 
