@@ -10,7 +10,7 @@ image:
 	</header>
 	
 	
-<div class="features">
+<div class="posts">
 
 		
 <article>
@@ -23,7 +23,7 @@ image:
 
 
 <article>
-			<a href="#" class="image small"><img src="assets/images/members/missing1.png" alt="" /></a>
+			<a href="#" class="image small"><img src="assets/images/members/missing1.jpg" alt="" /></a>
 			<h3>Sandie (Co-Director)</h3> <br>
 			<p>Dr. Sandie Keerstock is the Research Specialist Lead and coordinates research activities in the lab. Contact at: skeerstock at missouri.edu</p>
 
