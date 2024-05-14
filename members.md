@@ -31,7 +31,7 @@ image:
 <article>
 			<a href="#" class="image"><img src="assets/images/members/KeerstockS.jpg" alt="" /></a>
 			<h3>Dr. Sandie Keerstock</h3>
-			<h5> Co-director, Research Specialist Lead</h5>
+			<b>Co-director, Research Specialist Lead</b>
 			<em>PhD Linguistics, University of Texas at Austin</em><br>
 			Contact at: skeerstock at missouri.edu
 
