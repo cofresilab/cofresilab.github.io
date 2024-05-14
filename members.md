@@ -17,11 +17,11 @@ image:
 
 			<a href="#" class="image"><img src="assets/images/members/CofresiR.jpg" alt="" /></a>
 			<h3>Dr. Roberto Cofresí</h3>
-			Director, Principal Investigator <br>
+			<dd>Director, Principal Investigator <br>
 			Assistant Research Professor, University of Missouri - Columbia <br>
 			PhD Neuroscience, University of Texas at Austin <br>
 			B.S Biochemistry, University of Texas at Austin <br>
-		  cofresir at missouri.edu</p>
+		  cofresir at missouri.edu</dd>
 
 </article>
 
