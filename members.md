@@ -54,7 +54,7 @@ image:
 
 
   <article>
-			<a href="#" class="image small"><img src="assets/images/members/GutierrezC.jpg" alt=""/></a>
+			<a href="#" class="image"><img src="assets/images/members/GutierrezC.jpg" alt=""/></a>
 			<h3>Camila (Undergraduate Research Assistant)</h3>
 			<p>Ms. Camila Gutierrez is double majoring in Psychology and Biology with emphasis in Human Biology and Medical Science. She joined the lab in the Summer of 2023 to learn more about neuroscience and research. She is learning how to collect and analyze EEG data from human participants as well as research coordination.</p>
 		</article>
