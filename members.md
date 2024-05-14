@@ -82,7 +82,7 @@ image:
 
 		
 <article>
-			<span class="icon fa-paper-plane"></span>
+			
 			<div class="content">
 			<h3>Elizabeth Conley</h3>  
 			Fall 2021 to Spring 2024.
@@ -93,7 +93,7 @@ image:
 		
 		
 		<article>
-			<span class="icon fa-paper-plane"></span>
+			
 			<div class="content">
 			<h3>Peyton Maras</h3>  
 			Fall 2023 to Spring 2024.
@@ -102,7 +102,7 @@ image:
 		</article>
 
 <article>
-			<span class="icon fa-paper-plane"></span>
+			
 			<div class="content">
 			<h3>Katelyn Matzdorf</h3>  
 			Spring 2023 to Spring 2024.
@@ -112,7 +112,7 @@ image:
 		
 		
 <article>
-			<span class="icon fa-paper-plane"></span>
+			
 			<div class="content">
 			<h3>Abigail Obregon</h3>  
 			Fall 2022 to Spring 2024.
@@ -122,7 +122,7 @@ image:
 
 
 <article>
-			<span class="icon fa-paper-plane"></span>
+			
 			<div class="content">
 			<h3>Paola Gonzalez</h3>  
 			Fall 2023.
@@ -132,7 +132,7 @@ image:
 		</article>		
 
 <article>
-			<span class="icon fa-paper-plane"></span>
+			
 			<div class="content">
 			<h3>Sophia Slinkard</h3>  
 			Fall 2022 to Spring 2023.
@@ -143,7 +143,7 @@ image:
 		
 		
 <article>
-			<span class="icon fa-paper-plane"></span>
+			
 			<div class="content">
 			<h3>Liam Peck</h3>
 			Fall 2022 to Spring 2023.
@@ -154,7 +154,7 @@ image:
 	
 	
 <article>
-			<span class="icon fa-paper-plane"></span>
+			
 			<div class="content">
 			<h3>Ian Flowers</h3> 
 			Fall 2022 to Spring 2023.
@@ -165,7 +165,7 @@ image:
 
 
 <article>
-			<span class="icon fa-paper-plane"></span>
+			
 			<div class="content">
 			<h3>Jasmine Chen</h3> 
 			Fall 2022 to Spring 2023.
@@ -175,7 +175,7 @@ image:
 		
 		
 <article>
-			<span class="icon fa-paper-plane"></span>
+			
 			<div class="content">
 			<h3>Hannah Drzewiecki</h3> 
 			Fall 2022 to Spring 2023.
@@ -185,7 +185,7 @@ image:
 
 	
 <article>
-			<span class="icon fa-paper-plane"></span>
+			
 			<div class="content">
 			<h3>Alana Hatanaka</h3> 
 			Spring to Summer 2023.
@@ -196,7 +196,7 @@ image:
 
 
 <article>
-			<span class="icon fa-paper-plane"></span>
+			
 			<div class="content">
 			<h3>Rawan Ebada</h3> 
 			Fall 2021 to Fall 2022.
@@ -206,7 +206,7 @@ image:
 		
 		
 <article>
-			<span class="icon fa-paper-plane"></span>
+			
 			<div class="content">
 			<h3>Mikayla Rodgers</h3> 
 			Fall 2020 to Spring 2022.
