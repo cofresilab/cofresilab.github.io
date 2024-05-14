@@ -114,10 +114,17 @@ image:
 			<b>Then:</b> Undergraduate Research Assistant.
 			</div>
 		
-		
+
+</div>
+
+
 		<hr class="major" />
 
-			
+
+
+<div class="row">
+
+
 			<div class="4u 12u$(medium)">
 			<h3>Abigail Obregon</h3>  
 			Fall 2022 to Spring 2024.
@@ -144,10 +151,14 @@ image:
 			<b>Then:</b> Undergraduate Research Assistant. Research apprenticeship (2022-2023; co-supervised by Drs. Froeliger and Cofresi) focused on the role of reward-related learning in disordered eating behavior.
 			<b>Now:</b> Medical student, KCU
 			</div>
-		
+
+
+</div>		
 		
 		<hr class="major" />
 
+
+<div class="row">
 			
 			<div class="4u 12u$(medium)">
 			<h3>Liam Peck</h3>
@@ -176,11 +187,15 @@ image:
 			Fall 2022 to Spring 2023.
 			<b>Then:</b> Undergraduate Research Assistant. MARC/IMSD Intern.
 			</div>
-		
+
+
+</div>		
 		
 		<hr class="major" />
 
-			
+<div class="row">
+
+
 			<div class="4u 12u$(medium)">
 			<h3>Hannah Drzewiecki</h3> 
 			Fall 2022 to Spring 2023.
@@ -207,11 +222,15 @@ image:
 			Fall 2021 to Fall 2022.
 			<b>Then:</b> Undergraduate Research Assistant.
 			</div>
-		
+
+
+</div>		
 		
 		<hr class="major" />
 
-			
+<div class="row">
+
+
 			<div class="4u 12u$(medium)">
 			<h3>Mikayla Rodgers</h3> 
 			Fall 2020 to Spring 2022.
@@ -219,9 +238,9 @@ image:
 			<b>Now:</b> Research specialist, MU Molecular Imaging and Theranostics Center.
 			</div>
 		
-		
-	
 </div>		
+	
+		
 
 		
 
