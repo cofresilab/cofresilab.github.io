@@ -34,7 +34,9 @@ image:
 
 </section>
 		
-		
+
+
+<hr class="major" />		
 		
 		
 <section>
