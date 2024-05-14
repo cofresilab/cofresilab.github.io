@@ -84,7 +84,7 @@ image:
 	</header>
 	
 
-
+<div class="row">
 		
 
 			
@@ -221,7 +221,7 @@ image:
 		
 		
 	
-		
+</div>		
 
 		
 
