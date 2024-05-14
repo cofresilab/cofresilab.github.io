@@ -37,9 +37,9 @@ image:
 			Department of Psychological Sciences, University of Missouri <br>
 			
 			<em>- PhD Linguistics, University of Texas at Austin, USA<br>
-			- M.A. Phonetics & Phonology, Sorbonne Nouvelle University, Paris-France<br>
-			- M.A. Teaching French as a Foreign Language, Stendhal University, Grenoble-France<br>
-			- B.A. English Studies, UPPA, Pau-France<br></em>
+			- M.A. Phonetics & Phonology, Sorbonne Nouvelle University, Paris France<br>
+			- M.A. Language Sciences, Stendhal University, Grenoble France<br>
+			- B.A. English Studies, UPPA, Pau France<br></em>
 			
 			Contact at: SKeerstock at missouri.edu
 
