@@ -115,7 +115,7 @@ image:
 			</div>
 		
 		
-		
+		<hr class="major" />
 
 			
 			<div class="4u 12u$(medium)">
@@ -146,7 +146,7 @@ image:
 			</div>
 		
 		
-		
+		<hr class="major" />
 
 			
 			<div class="4u 12u$(medium)">
@@ -178,7 +178,7 @@ image:
 			</div>
 		
 		
-		
+		<hr class="major" />
 
 			
 			<div class="4u 12u$(medium)">
@@ -209,7 +209,7 @@ image:
 			</div>
 		
 		
-		
+		<hr class="major" />
 
 			
 			<div class="4u 12u$(medium)">
