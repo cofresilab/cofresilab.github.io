@@ -98,6 +98,14 @@ image:
 		</article>
 			
 		
+		
+		 <article>
+			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
+			<h3>Peyton Maras</h3>
+			<b>Undergraduate Research Assistant</b><br>
+			<p>Majoring in Psychology<br>
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Fall 2023</p>
+		</article>
 
 </div>
 </section>
@@ -117,7 +125,7 @@ image:
 			<li><b>Elizabeth Conley</b>. Fall 2021 to Spring 2024.Then: Undergraduate Research Assistant. MU Goldwater Fellowship Nominee; DAAD Summer REU. Last known: PhD student in Neuroscience, Washington University in St. Louis. </li>
 		
 		
-		  <li><b>Peyton Maras</b>. Fall 2023 to Spring 2024.Then: Undergraduate Research Assistant.</li>
+		  <!-- <li><b>Peyton Maras</b>. Fall 2023 to Spring 2024.Then: Undergraduate Research Assistant.</li> !-->
 		
 			
 			<li><b>Katelyn Matzdorf</b>.	Spring 2023 to Spring 2024.	Then: Undergraduate Research Assistant.</li>
