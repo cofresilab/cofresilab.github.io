@@ -44,7 +44,9 @@ image:
 		<h2>Sips & Shapes Study Research Staff </h2>
 	</header>
 	
-<div class="mini-posts">
+<div class="row 200%">
+	<div class="6u 12u$(medium)">
+
 	
 		<article>
 			<a href="#" class="image small"><img src="assets/images/members/darius_stewart.jpg" alt="" /></a>
@@ -67,7 +69,7 @@ image:
 		</article>
 			
 		
-
+</div>
 </div>
 </section>
 
