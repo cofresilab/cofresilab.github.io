@@ -19,8 +19,8 @@ image:
 			<h3>Dr. Roberto Cofresí</h3>
 			<b>Director, Principal Investigator </b> <br>
 			Assistant Research Professor, Department of Psychological Sciences, University of Missouri<br>
-			<em>PhD Neuroscience, University of Texas at Austin <br>
-			B.S Biochemistry, University of Texas at Austin</em><br>
+			<em>- PhD Neuroscience, University of Texas at Austin <br>
+			- B.S Biochemistry, University of Texas at Austin</em><br>
 		  cofresir at missouri.edu
 
 </article>
@@ -33,7 +33,7 @@ image:
 			<h3>Dr. Sandie Keerstock</h3>
 			<b>Co-director, Research Specialist Lead</b> <br>
 			Department of Psychological Sciences, University of Missouri <br>
-			<em>PhD Linguistics, University of Texas at Austin</em><br>
+			<em>~PhD Linguistics, University of Texas at Austin</em><br>
 			Contact at: skeerstock at missouri.edu
 
 </article>
