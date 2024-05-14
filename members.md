@@ -30,8 +30,10 @@ image:
 
 <article>
 			<a href="#" class="image"><img src="assets/images/members/KeerstockS.jpg" alt="" /></a>
-			<h3>Sandie - Co-director, Research Specialist Lead</h3>
-			<p>Dr. Sandie Keerstock coordinates research activities in the lab. Contact at: skeerstock at missouri.edu</p>
+			<h3>Dr. Sandie Keerstock</h3>
+			<h6> Co-director, Research Specialist Lead</h6>
+			PhD Linguistics, University of Texas at Austin <br>
+			Contact at: skeerstock at missouri.edu</p>
 
 </article>
 
