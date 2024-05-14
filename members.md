@@ -44,24 +44,30 @@ image:
 		<h2>Sips & Shapes Study Research Staff </h2>
 	</header>
 	
-<div class="row 200%">
-	<div class="6u 12u$(medium)">
-
+<div class="posts">
 	
+		<article>
 			<a href="#" class="image small"><img src="assets/images/members/darius_stewart.jpg" alt="" /></a>
 			<h3>Darius (Undergraduate Research Assistant)</h3>
 			<p>Mr. Darius Stewart joined the lab in Fall 2022 to learn more about the neuroscience of addiction. He is learning how to collect and analyze EEG data from human participants. He recently graduated with a B.S. in Public Health and will be starting the MU Masters in Public Health in Fall 2023.</p>
-	
+		</article>
+
+
+  <article>
 			<a href="#" class="image small"><img src="assets/images/members/Professional_Headshot_Camila.jpg" alt=""/></a>
 			<h3>Camila (Undergraduate Research Assistant)</h3>
 			<p>Ms. Camila Gutierrez is double majoring in Psychology and Biology with emphasis in Human Biology and Medical Science. She joined the lab in the Summer of 2023 to learn more about neuroscience and research. She is learning how to collect and analyze EEG data from human participants as well as research coordination.</p>
-		
+		</article>
+	
+  
+		 <article>
 			<a href="#" class="image small"><img src="assets/images/members/missing1.jpg" alt=""/></a>
 			<h3>Lukas (Undergraduate Research Assistant)</h3>
 			<p>Mr. Lukas Hawkins is an undergraduate student majoring in Psychology. He joined the lab in the Fall of 2023 to learn more about the cognitive neuroscience of addiction.</p>
+		</article>
 			
 		
-</div>
+
 </div>
 </section>
 
