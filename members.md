@@ -73,7 +73,9 @@ image:
 			<h3>Darius Stewart, B.S.</h3>
 			<b>Research Technician</b><br>
 			Currently in the MU Masters in Public Health program<br>
-			<em>- B.S. in Public Health, University of Missouri (2023)</em><br>
+			<em>
+			<i class="fa fa-university" aria-hidden="true"></i>B.S. in Public Health, University of Missouri (2023)
+			</em><br>
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Fall 2022
 		</article>
 
