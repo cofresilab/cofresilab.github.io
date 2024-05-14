@@ -18,10 +18,11 @@ image:
 			<a href="#" class="image"><img src="assets/images/members/CofresiR.jpg" alt="" /></a>
 			<h3><a href="https://psychology.missouri.edu/people/cofresi" target="_blank" rel="noopener noreferrer"><i class="fa fa-university" aria-hidden="true"></i>Dr. Roberto Cofresí</a></h3>
 			<b>Director, Principal Investigator </b> <br>
-			Assistant Research Professor, Department of Psychological Sciences, University of Missouri<br>
+			Assistant Research Professor <br>
+			Department of Psychological Sciences, University of Missouri<br>
 			<em>- PhD Neuroscience, University of Texas at Austin <br>
 			- B.S Biochemistry, University of Texas at Austin</em><br>
-		  cofresir at missouri.edu
+		  Contact at: CofresiR at missouri.edu
 		 
 
 </article>
@@ -35,10 +36,12 @@ image:
 			<b>Co-director, Research Specialist Lead</b> <br>
 			Department of Psychological Sciences, University of Missouri <br>
 			
-			<i class="fa fa-university" aria-hidden="true"></i>
-			<em>PhD Linguistics, University of Texas at Austin</em><br>
+			<em>- PhD Linguistics, University of Texas at Austin, USA<br>
+			- M.A. Phonetics & Phonology, Paris III Sorbonne Nouvelle-Paris VII Diderot, France
+			- M.A. Teaching French as a Foreign Language, Grenoble III Stendhal University, France
+			- B.A. English Studies, Université de Pau et des Pays de l’Adour, France</em>
 			
-			Contact at: skeerstock at missouri.edu
+			Contact at: SKeerstock at missouri.edu
 
 </article>
 
