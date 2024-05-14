@@ -44,7 +44,7 @@ image:
 		<h2>Sips & Shapes Study Research Staff </h2>
 	</header>
 	
-<div class="features">
+<div class="mini-posts">
 	
 		<article>
 			<a href="#" class="image small"><img src="assets/images/members/darius_stewart.jpg" alt="" /></a>
