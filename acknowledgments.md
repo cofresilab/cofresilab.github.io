@@ -5,9 +5,22 @@ image:
 ---
 
 
+		
+
 The following scholars, individuals, and groups have helped this lab to exist, so I would like to dedicate this space to acknowledging them:
 
+<div class="features">
+
+<article>
+		<span class="icon fa-diamond"></span>
+			<div class="content">
+
 [University of Texas System Louis Stokes Alliance for Minority Participation](https://www.utep.edu/engineering/lsamp/)
+
+    </div>
+		</article>
+</div>
+		
 
 [Mangieri lab](https://pharmacy.utexas.edu/directory/regina-mangieri) - Regina Mangieri, PhD
 
