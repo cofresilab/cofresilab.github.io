@@ -80,7 +80,7 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 		<span class="icon fa-paper-plane"></span>
 			<div class="content">		
 
-Nadia Chaudhri, PhD. <br> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9372569/" target="_blank" rel="noopener noreferrer">Friend recollections, and a collection of collaborations with Nadia. Monfils, Lee, Cofresí & Gonzales. Front Behav Neurosci. 2022 Jul 29;16:954906. doi: 10.3389/fnbeh.2022.954906. PMID: 35967900; PMCID: PMC9372569.</a>
+Nadia Chaudhri, PhD. <br> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9372569/" target="_blank" rel="noopener noreferrer">Friend recollections, and a collection of collaborations with Nadia. Monfils, Lee, Cofresí & Gonzales. Front Behav Neurosci. 2022</a>
 
 
     </div>
