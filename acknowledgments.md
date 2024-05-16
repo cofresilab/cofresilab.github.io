@@ -13,7 +13,7 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 
 
 <article>
-		<span class="icon fa-diamond"></span>
+		<span class="icon fa-rocket"></span>
 			<div class="content">
 
 <a href="https://www.utep.edu/engineering/lsamp/" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link"></i> University of Texas System Louis Stokes Alliance for Minority Participation</a>
@@ -24,10 +24,12 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 
 
 <article>
-		<span class="icon fa-diamond"></span>
+		<span class="icon fa-rocket"></span>
 			<div class="content">		
 
-[Mangieri lab](https://pharmacy.utexas.edu/directory/regina-mangieri) - Regina Mangieri, PhD
+
+<a href="https://pharmacy.utexas.edu/directory/regina-mangieri" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link"></i> Regina Mangieri, PhD </a>
+
 
     </div>
 </article>
@@ -36,7 +38,7 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 
 
 <article>
-		<span class="icon fa-diamond"></span>
+		<span class="icon fa-rocket"></span>
 			<div class="content">		
 
 [Gonzales lab](https://pharmacy.utexas.edu/directory/rueben-gonzales) - Rueben Gonzales, PhD
@@ -49,7 +51,7 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 
 
 <article>
-		<span class="icon fa-diamond"></span>
+		<span class="icon fa-rocket"></span>
 			<div class="content">		
 			
 			
@@ -63,7 +65,7 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 
 
 <article>
-		<span class="icon fa-diamond"></span>
+		<span class="icon fa-rocket"></span>
 			<div class="content">		
 
 [Lee lab](https://labs.la.utexas.edu/lee/) - Joanne Lee, PhD
@@ -74,7 +76,7 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 
 
 <article>
-		<span class="icon fa-diamond"></span>
+		<span class="icon fa-rocket"></span>
 			<div class="content">		
 
 [Nadia Chaudhri, PhD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9372569/)
@@ -86,7 +88,7 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 
 
 <article>
-		<span class="icon fa-diamond"></span>
+		<span class="icon fa-rocket"></span>
 			<div class="content">		
 
 [Studies on Alcohol, Health, and Risky Behaviors lab (SAHARA lab)](https://labs.la.utexas.edu/sahara/) - Kim Fromme, PhD
@@ -98,7 +100,7 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 
 
 <article>
-		<span class="icon fa-diamond"></span>
+		<span class="icon fa-rocket"></span>
 			<div class="content">		
 
 [Social Cognitive and Addiction Neuroscience lab (SCANlab)](https://www.scanlab.page/) - Bruce Bartholow, PhD
@@ -110,7 +112,7 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 
 
 <article>
-		<span class="icon fa-diamond"></span>
+		<span class="icon fa-rocket"></span>
 			<div class="content">		
 
 [Tom Piasecki, PhD](https://ctri.wisc.edu/researchers/research-staff/thomas-piasecki-phd/)
@@ -123,7 +125,7 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 
 
 <article>
-		<span class="icon fa-diamond"></span>
+		<span class="icon fa-rocket"></span>
 			<div class="content">		
 
 [Denis McCarthy, PhD](https://psychology.missouri.edu/people/mccarthy)
@@ -136,7 +138,7 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 
 
 <article>
-		<span class="icon fa-diamond"></span>
+		<span class="icon fa-rocket"></span>
 			<div class="content">		
 
 [Todd Schachtman, PhD](https://psychology.missouri.edu/people/schachtman)
@@ -149,7 +151,7 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 
 
 <article>
-		<span class="icon fa-diamond"></span>
+		<span class="icon fa-rocket"></span>
 			<div class="content">		
 
 [Health Neuroscience Center (HNC)](https://www.healthneurosciencecenter.com/) - Brett Froeliger, PhD
