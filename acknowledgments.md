@@ -68,7 +68,7 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 		<span class="icon fa-diamond"></span>
 			<div class="content">		
 
-Nadia Chaudhri, PhD. <br> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9372569/" target="_blank" rel="noopener noreferrer">Friend recollections, and a collection of collaborations with Nadia. Monfils, Lee, Cofresí & Gonzales. Front Behav Neurosci. 2022</a>
+Nadia Chaudhri, PhD. | In Memory:<br> <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9372569/" target="_blank" rel="noopener noreferrer">Friend recollections, and a collection of collaborations with Nadia. Monfils, Lee, Cofresí & Gonzales. Front Behav Neurosci. 2022</a>
 
 
     </div>
