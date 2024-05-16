@@ -16,7 +16,7 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 		<span class="icon fa-rocket"></span>
 			<div class="content">
 
-<a href="https://www.utep.edu/engineering/lsamp/" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link"></i> University of Texas System Louis Stokes Alliance for Minority Participation</a>
+<a href="https://www.utep.edu/engineering/lsamp/" target="_blank" rel="noopener noreferrer">  University of Texas System Louis Stokes Alliance for Minority Participation</a>
 
     </div>
 </article>
@@ -28,7 +28,7 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 			<div class="content">		
 
 
-<a href="https://pharmacy.utexas.edu/directory/regina-mangieri" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link"></i> Regina Mangieri, PhD </a>
+<a href="https://pharmacy.utexas.edu/directory/regina-mangieri" target="_blank" rel="noopener noreferrer"> Mangieri Lab </a>- Regina Mangieri, PhD 
 
 
     </div>
@@ -41,7 +41,8 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 		<span class="icon fa-rocket"></span>
 			<div class="content">		
 
-[Gonzales lab](https://pharmacy.utexas.edu/directory/rueben-gonzales) - Rueben Gonzales, PhD
+
+<a href="https://pharmacy.utexas.edu/directory/rueben-gonzales" target="_blank" rel="noopener noreferrer"> Gonzales lab </a>- Rueben Gonzales, PhD 
 
 
     </div>
@@ -54,8 +55,32 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 		<span class="icon fa-rocket"></span>
 			<div class="content">		
 			
+<a href="https://labs.la.utexas.edu/monfils/" target="_blank" rel="noopener noreferrer"> Monfils Memory Lab </a>- Marie Monfils, PhD
 			
-[Monfils Memory lab](https://labs.la.utexas.edu/monfils/) - Marie Monfils, PhD
+			
+    </div>
+</article>
+
+
+
+
+<article>
+		<span class="icon fa-rocket"></span>
+			<div class="content">		
+
+<a href="https://labs.la.utexas.edu/lee/" target="_blank" rel="noopener noreferrer"> Lee lab </a>- Joanne Lee, PhD
+
+
+    </div>
+</article>
+
+
+
+<article>
+		<span class="icon fa-rocket"></span>
+			<div class="content">		
+
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9372569/" target="_blank" rel="noopener noreferrer">  Nadia Chaudhri, PhD</a>
 
 
     </div>
@@ -68,18 +93,8 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 		<span class="icon fa-rocket"></span>
 			<div class="content">		
 
-[Lee lab](https://labs.la.utexas.edu/lee/) - Joanne Lee, PhD
+<a href="https://labs.la.utexas.edu/sahara/" target="_blank" rel="noopener noreferrer">  Studies on Alcohol, Health, and Risky Behaviors lab (SAHARA lab)</a> - Kim Fromme, PhD
 
-    </div>
-</article>
-
-
-
-<article>
-		<span class="icon fa-rocket"></span>
-			<div class="content">		
-
-[Nadia Chaudhri, PhD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9372569/)
 
     </div>
 </article>
@@ -91,7 +106,8 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 		<span class="icon fa-rocket"></span>
 			<div class="content">		
 
-[Studies on Alcohol, Health, and Risky Behaviors lab (SAHARA lab)](https://labs.la.utexas.edu/sahara/) - Kim Fromme, PhD
+<a href="https://www.scanlab.page/" target="_blank" rel="noopener noreferrer">  Social Cognitive and Addiction Neuroscience lab (SCANlab)</a> - Bruce Bartholow, PhD
+
 
     </div>
 </article>
@@ -103,19 +119,8 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 		<span class="icon fa-rocket"></span>
 			<div class="content">		
 
-[Social Cognitive and Addiction Neuroscience lab (SCANlab)](https://www.scanlab.page/) - Bruce Bartholow, PhD
+<a href="https://ctri.wisc.edu/researchers/research-staff/thomas-piasecki-phd/" target="_blank" rel="noopener noreferrer">  Tom Piasecki, PhD</a>
 
-    </div>
-</article>
-
-
-
-
-<article>
-		<span class="icon fa-rocket"></span>
-			<div class="content">		
-
-[Tom Piasecki, PhD](https://ctri.wisc.edu/researchers/research-staff/thomas-piasecki-phd/)
 
     </div>
 </article>
@@ -128,7 +133,9 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 		<span class="icon fa-rocket"></span>
 			<div class="content">		
 
-[Denis McCarthy, PhD](https://psychology.missouri.edu/people/mccarthy)
+<a href="https://psychology.missouri.edu/people/mccarthy" target="_blank" rel="noopener noreferrer"> Denis McCarthy, PhD</a>
+
+
 
     </div>
 </article>
@@ -141,7 +148,9 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 		<span class="icon fa-rocket"></span>
 			<div class="content">		
 
-[Todd Schachtman, PhD](https://psychology.missouri.edu/people/schachtman)
+<a href="https://psychology.missouri.edu/people/schachtman" target="_blank" rel="noopener noreferrer"> Todd Schachtman, PhD</a>
+
+
 
     </div>
 </article>
@@ -153,8 +162,10 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 <article>
 		<span class="icon fa-rocket"></span>
 			<div class="content">		
+			
+<a href="https://www.healthneurosciencecenter.com/" target="_blank" rel="noopener noreferrer"> Health Neuroscience Center (HNC)</a>- Brett Froeliger, PhD
 
-[Health Neuroscience Center (HNC)](https://www.healthneurosciencecenter.com/) - Brett Froeliger, PhD
+
 
     </div>
 </article>
