@@ -92,7 +92,7 @@ Nadia Chaudhri, PhD. | In Memory:<br> <a href="https://www.ncbi.nlm.nih.gov/pmc/
 		<span class="icon fa-diamond"></span>
 			<div class="content">		
 
-<a href="https://labs.la.utexas.edu/sahara/" target="_blank" rel="noopener noreferrer">  Studies on Alcohol, Health, and Risky Behaviors lab (SAHARA lab)</a> - Kim Fromme, PhD
+<a href="https://liberalarts.utexas.edu/psychology/faculty/frommek" target="_blank" rel="noopener noreferrer">  Studies on Alcohol, Health, and Risky Behaviors lab (SAHARA lab)</a> - Kim Fromme, PhD
 
 
     </div>
