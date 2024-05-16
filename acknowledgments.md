@@ -16,7 +16,7 @@ The following scholars, individuals, and groups have helped this lab to exist, s
 		<span class="icon fa-diamond"></span>
 			<div class="content">
 
-[University of Texas System Louis Stokes Alliance for Minority Participation](https://www.utep.edu/engineering/lsamp/)
+<a href="https://www.utep.edu/engineering/lsamp/" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link"></i> University of Texas System Louis Stokes Alliance for Minority Participation</a>
 
     </div>
 </article>
