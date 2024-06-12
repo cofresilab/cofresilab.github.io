@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Liquid reward study at Mizzou
+title: Liquid Reward - Cohort A
 image: 
 ---
 
@@ -12,22 +12,20 @@ image:
 ## Study details
 
 ## Purpose of the study
-The Liquid Reward is a study conducted by researchers at the University of Missouri (MU) with funding from the National Institutes of Health (NIH). The purpose of this study is to increase understanding of factors that can lead to alcohol and other drug use-related problems in some people (MU Institutional Review Board (IRB) Project#2090565).  More specifically, this research has two goals. The first goal is to explore how the brain's processing of a visual stimulus changes as a result of new experiences with that stimulus (e.g., when we learn that it predicts drug or food reward). The second goal is to explore if between-person differences in learning-related changes in how the brain processes a visual stimulus are related to between-person differences in the use of alcohol and/or other drugs. We hope that the insight we gain from this study will improve our understanding of factors that might put people at risk for developing problems with alcohol or other drugs, or that might protect people from developing such problems. 
+Liquid Reward is a study conducted by researchers at the University of Missouri (MU) with funding from the National Institutes of Health (NIH). The purpose of this study is to increase understanding of factors that can lead to alcohol and other drug use-related problems in some people (MU Institutional Review Board (IRB) Project#2090565).  More specifically, this research has two goals. The first goal is to explore how the brain's processing of a visual stimulus changes as a result of new experiences with that stimulus (e.g., when we learn that it predicts drug or food reward). The second goal is to explore if between-person differences in learning-related changes in how the brain processes a visual stimulus are related to between-person differences in the use of alcohol and/or other drugs. We hope that the insight we gain from this study will improve our understanding of factors that might put people at risk for developing problems with alcohol or other drugs, or that might protect people from developing such problems. 
 
 
 
-## Part 1: Laboratory Visits
+## Laboratory Visits
 
-#### Lab Visit #1 (Pre-Learning)
-Visit the researcher's lab on the MU campus in Columbia, MO to undergo electroencephalogram (EEG) recording ("brain waves") and magnetic resonance imaging (MRI) scanning ("brain pictures") to see how and where in your brain various visual stimuli are processed. This lab visit will last ≈3 hours.  You will be compensated $60 in cash for this lab visit.
+#### 3 lab visits within the span of 1 week
+Visit the researcher's lab on the MU campus in Columbia, MO to complete a computerized learning task in which you are presented various visual stimuli, some of which predict receipt of a liquid reward. The liquid reward will be your most liked commercially available fruit juice or soda product. The amount served will be equivalent to an 8-oz. Your electroencephalogram (EEG) recording ("brain waves") will be recorded so that we can visualize how your brain processes visual stimuli and the liquid reward. This lab visit will last ≈2 hours.  
 
-#### Lab Visit #2 (Learning): 
-Return to the researcher's lab to complete a computerized learning task in which you are presented various visual stimuli, some of which predict receipt of a liquid reward containing alcohol or sugar. Your EEG ("brain waves") will be recorded while you complete this task. During this visit, you will also complete questionnaires about your feelings and provide breath samples to track changes in breath alcohol level. The amount of alcohol served will be equivalent to 1 standard drink and the amount of sugar served will be equivalent to an 8-oz. glass of fruit juice. This lab visit will last ≈3 hours to make sure you are sober before you leave. You will be compensated $60.
-
-#### Lab Visit #3 (Post-Learning):
-This visit to the researcher's lab needs to take place the day immediately after lab visit #2. It will be a repeat of lab visit #1. You can earn $60. 
-
-**If you complete lab visits #1, 2, and 3, you earn a $60 "streak" bonus**
+#### Compensation for the lab visits
+- You will be paid $40 in cash at the end of each visit.
+- In addition, if you complete the third visit, you will receive a $50 completion bonus. 
+- Thus, in total, you will receive $170 for completing all 3 visits. 
+ 
 
 ## Part 2: Post-Lab Online Check-in Surveys
 - At 3, 6, 9, and 12 months after lab visit #3, you complete an online survey (≈15 min).
