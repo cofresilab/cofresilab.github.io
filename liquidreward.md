@@ -7,13 +7,10 @@ image:
 <!--
 <img src="/assets/images/04-05-23 SASS webpage infographic blocked.png" width="700"> -->
 
-
-
-## Study details
+# This research study is approved by MU Institutional Review Board (IRB) Project #2106128
 
 ## Purpose of the study
-Liquid Reward is a study conducted by researchers at the University of Missouri (MU) with funding from the National Institutes of Health (NIH). The purpose of this study is to increase understanding of factors that can lead to alcohol and other drug use-related problems in some people (MU Institutional Review Board (IRB) Project#2090565).  More specifically, this research has two goals. The first goal is to explore how the brain's processing of a visual stimulus changes as a result of new experiences with that stimulus (e.g., when we learn that it predicts drug or food reward). The second goal is to explore if between-person differences in learning-related changes in how the brain processes a visual stimulus are related to between-person differences in the use of alcohol and/or other drugs. We hope that the insight we gain from this study will improve our understanding of factors that might put people at risk for developing problems with alcohol or other drugs, or that might protect people from developing such problems. 
-
+Liquid Reward - Cohort A is a study conducted by researchers at the University of Missouri (MU) with funding from the National Institutes of Health (NIH). The purpose of this study is to increase understanding of factors that can lead to alcohol and other drug use-related problems in some people (MU Institutional Review Board (IRB) Project#2090565).  More specifically, this research has two goals. The first goal is to explore how the brain's processing of a visual stimulus changes as a result of new experiences with that stimulus (e.g., when we learn that it predicts drug or food reward). The second goal is to explore if between-person differences in learning-related changes in how the brain processes a visual stimulus are related to between-person differences in the use of alcohol and/or other drugs. We hope that the insight we gain from this study will improve our understanding of factors that might put people at risk for developing problems with alcohol or other drugs, or that might protect people from developing such problems. 
 
 
 ## Laboratory Visits
@@ -22,21 +19,31 @@ Liquid Reward is a study conducted by researchers at the University of Missouri 
 Visit the researcher's lab on the MU campus in Columbia, MO to complete a computerized learning task in which you are presented various visual stimuli, some of which predict receipt of a liquid reward. The liquid reward will be your most liked commercially available fruit juice or soda product. The amount served will be equivalent to an 8-oz. Your electroencephalogram (EEG) recording ("brain waves") will be recorded so that we can visualize how your brain processes visual stimuli and the liquid reward. This lab visit will last ≈2 hours.  
 
 #### Compensation for the lab visits
-- You will be paid $40 in cash at the end of each visit.
+- You will be paid $40 **in cash** at the end of each visit.
 - In addition, if you complete the third visit, you will receive a $50 completion bonus. 
 - Thus, in total, you will receive $170 for completing all 3 visits. 
  
+ 
 
-## Part 2: Post-Lab Online Check-in Surveys
-- At 3, 6, 9, and 12 months after lab visit #3, you complete an online survey (≈15 min).
-- You earn $10 per survey.
-- If you complete the survey the day it is sent to you, you earn $10 extra ("same day bonus")
-- If you complete all 4 surveys, you earn a $30 "streak" bonus.
+## Online Survey Packet
+
+#### 5 surveys in the span of 1 year
+- The survey packet consist of validated instruments routinely used to assess substance use and related constructs. 
+- It can be completed online, remotely, as long as you have internet access.
+- Each survey takes approximately 15 minutes to complete.
+- We will ask you to complete this survey 5 times in total: once BEFORE the first lab visit, and 3, 6, 9, and 12 months after the last lab visits.
+
+#### Compensation for the Online Survey Packet
+- You earn $10 per survey. If you complete the survey the day it is sent to you, you earn $10 extra ("same day bonus"), thus each survey completed in time will earn you $20.
+- Bonus: if you complete all 5 surveys, you earn a $30 "streak" bonus.
+- Thus, in total, if you complete all 5 surveys in time, you will earn $130.
+- Compensation is with electronic gift cards.
+
 
 ## How to participate
 First, complete the eligibility screener so that the research team can determine if you meet the study eligibility criteria.  
 
-<a href="https://showmeportal.missouri.edu/redcap/surveys/?s=LHCXJARTY3P3YE78" class="button special">Eligibility Screener</a>
+<a href="#" class="button special">Eligibility Screener</a>
 
 ## How do I know if I am eligible?
 If you are eligible, the study research team will reach out to you by email, text message or phone call (depending on your indicated preference) to invite you to participate.
