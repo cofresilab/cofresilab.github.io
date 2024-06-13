@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sips and Shapes #2
+title: Sips and Shapes 2
 image: 
 ---
 
@@ -9,7 +9,7 @@ image:
 ## This research study is approved by MU Institutional Review Board (IRB) Project #2106128
 
 ## Purpose of the study
-Sips and Shapes 2.0 Part A is a study conducted by researchers at the University of Missouri (MU) with funding from the National Institutes of Health (NIH). The purpose of this study is to increase understanding of factors that can lead to alcohol and other drug use-related problems in some people (MU Institutional Review Board (IRB) Project#2090565).  More specifically, this research has two goals. The first goal is to explore how the brain's processing of a visual stimulus changes as a result of new experiences with that stimulus (e.g., when we learn that it predicts drug or food reward). The second goal is to explore if between-person differences in learning-related changes in how the brain processes a visual stimulus are related to between-person differences in the use of alcohol and/or other drugs. We hope that the insight we gain from this study will improve our understanding of factors that might put people at risk for developing problems with alcohol or other drugs, or that might protect people from developing such problems. 
+Sips and Shapes 2 is a study conducted by researchers at the University of Missouri (MU) with funding from the National Institutes of Health (NIH). The purpose of this study is to increase understanding of factors that can lead to alcohol and other drug use-related problems in some people (MU Institutional Review Board (IRB) Project#2090565).  More specifically, this research has two goals. The first goal is to explore how the brain's processing of a visual stimulus changes as a result of new experiences with that stimulus (e.g., when we learn that it predicts drug or food reward). The second goal is to explore if between-person differences in learning-related changes in how the brain processes a visual stimulus are related to between-person differences in the use of alcohol and/or other drugs. We hope that the insight we gain from this study will improve our understanding of factors that might put people at risk for developing problems with alcohol or other drugs, or that might protect people from developing such problems. 
 
 
 ## What if I have questions about the study?
