@@ -4,7 +4,7 @@ title: Sips and Shapes Study #1
 image: 
 ---
 
-## Status: Not recruiting/data collection completed. Analyses ongoing.
+## Status: Not recruiting/data collection completed. Analyses ongoing. Thank you to all wonderful participants and research team!
 
 <hr>
 
