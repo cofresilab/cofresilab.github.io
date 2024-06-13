@@ -3,7 +3,7 @@ layout: page
 image: 
 ---
 
-<img src="/assets/images/SAS2.png" width="700">
+<img src="/assets/images/SAS2.png" width="400">
 
 ## Sips and Shape 2: Research Study at the University of Missouri. Approved by MU Institutional Review Board (IRB) Project #2106128
 
