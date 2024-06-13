@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Sips and Shapes 2.0 Part A
+title: Sips and Shapes #2
 image: 
 ---
 
-<!--
-<img src="/assets/images/04-05-23 SASS webpage infographic blocked.png" width="700"> -->
+<img src="/assets/images/SASS#2_Flyer_24.06.13.png" width="700">
 
 ## This research study is approved by MU Institutional Review Board (IRB) Project #2106128
 
