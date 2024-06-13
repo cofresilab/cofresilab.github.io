@@ -41,7 +41,9 @@ This visit to the researcher's lab needs to take place the day immediately after
 ## How to participate
 First, complete the eligibility screener so that the research team can determine if you meet the study eligibility criteria.  
 
-<a href="https://showmeportal.missouri.edu/redcap/surveys/?s=LHCXJARTY3P3YE78" class="button special">Eligibility Screener</a>
+
+<a href="#" class="button special">Eligibility Screener</a>
+This link has been disabled since we are no longer recruiting for this study. Thank you!
 
 ## How do I know if I am eligible?
 If you are eligible, the study research team will reach out to you by email, text message or phone call (depending on your indicated preference) to invite you to participate.
