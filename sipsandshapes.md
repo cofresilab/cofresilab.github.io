@@ -6,6 +6,8 @@ image:
 
 ## Status: Not recruiting/data collection completed. Analyses ongoing.
 
+<hr>
+
 <img src="/assets/images/04-05-23 SASS webpage infographic blocked.png" width="700">
 
 
