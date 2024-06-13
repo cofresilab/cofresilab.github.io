@@ -28,6 +28,8 @@ Complete the eligibility screener so that the research team can determine if you
 
 <a href="#" class="button special">Eligibility Screener</a>
 
+
+## How do I know if I am eligible?
 Eligible participants will be contacted by research team via email/text/phone call (depending on your indicated preference).
 
 We will schedule a Zoom call to review what participation in the study entails and schedule your lab visits.
