@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Sips and Shapes 2
 image: 
 ---
 
-<img src="/assets/images/SAS2.png" width="100">
+<img src="/assets/images/SAS2.png" width="700">
 
-## Research Study at the University of Missouri
+## Sips and Shape 2: Research Study at the University of Missouri
 
 ## MU Institutional Review Board (IRB) Project #2106128
 
