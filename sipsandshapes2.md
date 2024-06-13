@@ -3,9 +3,8 @@ layout: page
 image: 
 ---
 
- <span class="image object">
-      <img src="assets/images/SAS2.png" alt="" />
-    </span>
+    
+<a href="#" class="image"><img src="assets/images/SAS2.png" alt=""/></a>
     
 
 ## Sips and Shape 2: Research Study at the University of Missouri. Approved by MU Institutional Review Board (IRB) Project #2106128
