@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Coming Soon
 image: 
 ---
 # Coming Soon
