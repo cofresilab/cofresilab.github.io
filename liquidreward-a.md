@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Liquid Reward - Cohort A
+title: Sips and Shapes 2.0 Part A
 image: 
 ---
 
@@ -10,16 +10,16 @@ image:
 ## This research study is approved by MU Institutional Review Board (IRB) Project #2106128
 
 ## Purpose of the study
-Liquid Reward - Cohort A is a study conducted by researchers at the University of Missouri (MU) with funding from the National Institutes of Health (NIH). The purpose of this study is to increase understanding of factors that can lead to alcohol and other drug use-related problems in some people (MU Institutional Review Board (IRB) Project#2090565).  More specifically, this research has two goals. The first goal is to explore how the brain's processing of a visual stimulus changes as a result of new experiences with that stimulus (e.g., when we learn that it predicts drug or food reward). The second goal is to explore if between-person differences in learning-related changes in how the brain processes a visual stimulus are related to between-person differences in the use of alcohol and/or other drugs. We hope that the insight we gain from this study will improve our understanding of factors that might put people at risk for developing problems with alcohol or other drugs, or that might protect people from developing such problems. 
+Sips and Shapes 2.0 Part A is a study conducted by researchers at the University of Missouri (MU) with funding from the National Institutes of Health (NIH). The purpose of this study is to increase understanding of factors that can lead to alcohol and other drug use-related problems in some people (MU Institutional Review Board (IRB) Project#2090565).  More specifically, this research has two goals. The first goal is to explore how the brain's processing of a visual stimulus changes as a result of new experiences with that stimulus (e.g., when we learn that it predicts drug or food reward). The second goal is to explore if between-person differences in learning-related changes in how the brain processes a visual stimulus are related to between-person differences in the use of alcohol and/or other drugs. We hope that the insight we gain from this study will improve our understanding of factors that might put people at risk for developing problems with alcohol or other drugs, or that might protect people from developing such problems. 
 
 
 ## Laboratory Visits
 
 #### 3 lab visits within the span of 1 week
-Visit the researcher's lab on the MU campus in Columbia, MO to complete a computerized learning task in which you are presented various visual stimuli, some of which predict receipt of a liquid reward. The liquid reward will be your most liked commercially available fruit juice or soda product. The amount served will be equivalent to an 8-oz. Your electroencephalogram (EEG) recording ("brain waves") will be recorded so that we can visualize how your brain processes visual stimuli and the liquid reward. This lab visit will last ≈2 hours.  
+Visit the researcher's lab on the MU campus in Columbia, MO to complete a computerized learning task in which you are presented various visual stimuli, some of which predict receipt of a liquid reward. The liquid reward will be a fruit juice. You will pick the flavor you like best from 3 options, and we will use that one as the liquid reward. The amount served will be equivalent to an 8-oz. Your electroencephalogram (EEG) recording ("brain waves") will be recorded so that we can visualize how your brain processes visual stimuli and the liquid reward. This lab visit will last ≈2 hours.  
 
 #### Compensation for the lab visits
-- You will be paid $40 **in cash** at the end of each visit.
+- You will be paid $40 in cash at the end of each visit.
 - In addition, if you complete the third visit, you will receive a $50 completion bonus. 
 - Thus, in total, you will receive $170 for completing all 3 visits. 
  
