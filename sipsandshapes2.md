@@ -9,9 +9,7 @@ image:
 
 ## Sips and Shape 2: Research Study at the University of Missouri. Approved by MU Institutional Review Board (IRB) Project #2106128
 
-Principal investigator: Dr. Roberto Cofresi 
-Department of Psychological Sciences
-Contact: cofresir@missouri.edu
+Principal investigator: Dr. Roberto Cofresi, Department of Psychological Sciences. Contact: cofresir@missouri.edu
 
 ## Summary
 We are seeking 18-25 yr old in the Columbia MO area to participate in a research study about the cognitive processing of newly learned liquid food reward cues.  Individuals who regularly drink alcohol (at least once a week) may be eligible. No alcohol will be consumed in this study. Participants may earn up to $300.
@@ -29,9 +27,7 @@ Complete the eligibility screener so that the research team can determine if you
 
 
 ## How do I know if I am eligible?
-Eligible participants will be contacted by research team via email/text/phone call (depending on your indicated preference).
-
-We will schedule a Zoom call to review what participation in the study entails and schedule your lab visits.
+Eligible participants will be contacted by research team via email/text/phone call (depending on your indicated preference). We will schedule a Zoom call to review what participation in the study entails and schedule your lab visits.
 
 ## Enrolled participants will be asked to:
 ### Complete 3 lab visits in 1 week span
