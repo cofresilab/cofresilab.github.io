@@ -31,7 +31,7 @@ Eligible participants will be contacted by research team via email/text/phone ca
 
 ## Enrolled participants will be asked to:
 ### Complete 3 lab visits in 1 week span
-Your electroencephalogram (EEG) will be recorded while you are presented various visual stimuli, some of which predict receipt of a liquid reward (fruit juice). Each visit ~ 2 hours, paid $40 in cash at the end of each visit. Get a $60 “streak” bonus if you complete all 3 lab visits. In total, you can earn up to $170 for lab visits. All visits will be on MU Campus 115 Melvin H. Marx Building.
+During each lab visit, your electroencephalogram (EEG) will be recorded while you are presented various visual stimuli, some of which predict receipt of a liquid reward (fruit juice). Each visit will last about 2 hours. You will be paid $40 in cash at the end of each visit. Get a $60 “streak” bonus if you complete all 3 lab visits. In total, you can earn up to $170 for lab visits. All visits will be on MU Campus 115 Melvin H. Marx Building.
 
 ### Complete 5 online surveys in 1 year span
 Complete online remote survey (~15 min) 5 times: once before the first lab visit, and 3, 6, 9 and 12 months after the last lab visit. Earn $10/survey + $10 “same day” bonus if completed the day we sent it to you. Bonus: earn $30 “streak” bonus if you complete all 5 surveys! In total, you can earn up to $130. Compensation via electronic gift cards.
