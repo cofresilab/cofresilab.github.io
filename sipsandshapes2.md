@@ -5,18 +5,18 @@ image:
 
 <img src="/assets/images/SAS2.png" width="700">
 
-## Sips and Shape 2: Research Study at the University of Missouri
-
-## MU Institutional Review Board (IRB) Project #2106128
-
-Seeking 18-25 yr old in the Columbia MO area to participate in a research study about the cognitive processing of newly learned liquid food reward cues.  Individuals who regularly drink alcohol (at least once a week) may be eligible. No alcohol will be consumed in this study. Participants may earn up to $300.
+## Sips and Shape 2: Research Study at the University of Missouri. Approved by MU Institutional Review Board (IRB) Project #2106128
 
 Principal investigator: Dr. Roberto Cofresi 
 Department of Psychological Sciences
 Contact: cofresir@missouri.edu
 
+## Summary
+We are seeking 18-25 yr old in the Columbia MO area to participate in a research study about the cognitive processing of newly learned liquid food reward cues.  Individuals who regularly drink alcohol (at least once a week) may be eligible. No alcohol will be consumed in this study. Participants may earn up to $300.
+
+
 ## Purpose of the study
-Sips and Shapes 2 is a study conducted by researchers at the University of Missouri (MU) with funding from the National Institutes of Health (NIH). The purpose of this study is to increase understanding of factors that can lead to alcohol and other drug use-related problems in some people (MU Institutional Review Board (IRB) Project#2090565).  More specifically, this research has two goals. The first goal is to explore how the brain's processing of a visual stimulus changes as a result of new experiences with that stimulus (e.g., when we learn that it predicts drug or food reward). The second goal is to explore if between-person differences in learning-related changes in how the brain processes a visual stimulus are related to between-person differences in the use of alcohol and/or other drugs. We hope that the insight we gain from this study will improve our understanding of factors that might put people at risk for developing problems with alcohol or other drugs, or that might protect people from developing such problems. 
+This study is conducted by researchers at the University of Missouri (MU) with funding from the National Institutes of Health (NIH). The purpose of this study is to increase understanding of factors that can lead to alcohol and other drug use-related problems in some people (MU Institutional Review Board (IRB) Project#2106128).  More specifically, this research has two goals. The first goal is to explore how the brain's processing of a visual stimulus changes as a result of new experiences with that stimulus (e.g., when we learn that it predicts drug or food reward). The second goal is to explore if between-person differences in learning-related changes in how the brain processes a visual stimulus are related to between-person differences in the use of alcohol and/or other drugs. We hope that the insight we gain from this study will improve our understanding of factors that might put people at risk for developing problems with alcohol or other drugs, or that might protect people from developing such problems. 
 
 
 ## How to participate
