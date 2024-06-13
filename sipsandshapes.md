@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Sips and Shapes Study
+title: Sips and Shapes Study #1
 image: 
 ---
+
+## Status: Not recruiting/data collection completed. Analyses ongoing.
 
 <img src="/assets/images/04-05-23 SASS webpage infographic blocked.png" width="700">
 
