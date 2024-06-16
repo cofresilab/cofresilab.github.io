@@ -37,7 +37,8 @@ Cofresí, R. U., Upton, S., Brown, A., Piasecki, T. M., Bartholow, B. D., & Froe
 
 
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-Acuff, S. F., Cofresi, R., Varner, A., Dennhardt, A. A., Sable, J., Bartholow, B., MacKillop, J., Murphy, J. G. (in press). Correspondence Between the Alcohol-P3 Event-related Potential and Alcohol Demand Phenotypes of Alcohol Reward Among Heavy Drinking Emerging Adults. <em>Alcohol: Clinical & Experimental Research.</em> Online ahead of print. <br/>
+Acuff, S. F., Cofresi, R., Varner, A., Dennhardt, A. A., Sable, J., Bartholow, B., MacKillop, J., Murphy, J. G. (in press). Correspondence Between the Alcohol-P3 Event-related Potential and Alcohol Demand Phenotypes of Alcohol Reward Among Heavy Drinking Emerging Adults. <em>Alcohol: Clinical & Experimental Research.</em> Online ahead of print. https://doi.org/10.1111/acer.15377
+<br/>
 <a href="assets/docs/pub/Acuff et al._2024_Correspondence between the alcohol-P3 event-related potential and alcohol reward phenotypes among young adults.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
 	| <a href="https://doi.org/10.1111/acer.15377" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>
 
