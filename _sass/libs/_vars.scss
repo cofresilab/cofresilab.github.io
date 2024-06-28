@@ -43,3 +43,16 @@
 		border-bg:			transparentize(#e6ebed, 0.75),
 		accent:				#f56a6a
 	);
+	
+	$brand-color:      #ff5757;
+	$text-color:       #333;
+	
+	// Color scheme for light
+$body-bg: #fdfdfd;
+$projectbox: #c3e1c9;
+$text-color: #333;
+
+// Color scheme for dark modes
+$body-bg-dark: #23272d;
+$projectbox-dark: lighten(#98a0ac, 2%);
+$text-color-dark: #98a0ac;
