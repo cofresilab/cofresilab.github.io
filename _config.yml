@@ -24,6 +24,7 @@ linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/cofresi_lab
+google_scholar_url: https://scholar.google.com/citations?user=nRAErPEAAAAJ&hl=en
 
 # Build settings
 markdown: kramdown
