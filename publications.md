@@ -3,13 +3,13 @@ layout: page
 title: Publications
 image: 
 ---
-
+<p> Disclaimer: The PDFs available for download from this page are intended for fair use as defined by U.S. Copyright law, and may not be used for commercial purposes. The definitive versions of journal publications are available from the publishers’ websites (see DOI link). </p>
 
 <a href="assets/docs/cofresi_cv_may2024.pdf" class="button special icon fa-download">CV</a>   
 
-See <a href="https://scholar.google.com/citations?user=nRAErPEAAAAJ&hl=en" class="icon fa-graduation-cap" target="_blank">Dr. Cofresi's Google Scholar </a> for publications with H-index.
+For a full list of Dr. Cofresi's publications with H-index, please see <a href="https://scholar.google.com/citations?user=nRAErPEAAAAJ&hl=en" class="icon fa-graduation-cap" target="_blank">Google Scholar </a>.
 
-<p> Disclaimer: The PDFs available for download from this page are intended for fair use as defined by U.S. Copyright law, and may not be used for commercial purposes. The definitive versions of journal publications are available from the publishers’ websites. </p>
+
 
 <!-- Years -->
 <p class="text-center">
