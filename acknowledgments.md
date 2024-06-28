@@ -8,10 +8,8 @@ image:
 
 <p>The following scholars, individuals, and groups have helped this lab to exist. Special thanks to each and every one for their support.</p>
 
-<li>
-<a href="https://www.utep.edu/engineering/lsamp/" target="_blank" rel="noopener noreferrer" > <i class="fa fa-external-link" aria-hidden="true"></i></a>  University of Texas System Louis Stokes Alliance for Minority Participation
-</li>
 
+<a href="https://www.utep.edu/engineering/lsamp/" target="_blank" rel="noopener noreferrer" > <i class="fa fa-external-link" aria-hidden="true"></i></a>  University of Texas System Louis Stokes Alliance for Minority Participation
 
 
 <a href="https://pharmacy.utexas.edu/directory/regina-mangieri" target="_blank" rel="noopener noreferrer"><i class="fa fa-external-link" aria-hidden="true"></i> </a> Mangieri Lab - Regina Mangieri, PhD 
