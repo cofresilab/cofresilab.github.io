@@ -23,7 +23,7 @@ image:
 			
 			
 
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9372569/" target="_blank" rel="noopener noreferrer"><i class="fa fa-external-link" aria-hidden="true"></i></a>Nadia Chaudhri, PhD. Friend recollections, and a collection of collaborations with Nadia. Monfils, Lee, Cofresí & Gonzales. Front Behav Neurosci. 2022
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9372569/" target="_blank" rel="noopener noreferrer"><i class="fa fa-external-link" aria-hidden="true"></i></a> Nadia Chaudhri, PhD. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9372569/" target="_blank" rel="noopener noreferrer">Friend recollections, and a collection of collaborations with Nadia.</a> Monfils, Lee, Cofresí & Gonzales. Front Behav Neurosci. 2022
 
 
 
