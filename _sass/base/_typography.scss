@@ -46,7 +46,7 @@
 
 
 p a {
-  color: $text-color;
+  color: _palette(fg);
   text-decoration: none;
   background: -webkit-linear-gradient(transparent 90%, lighten($brand-color, 10%) 10%);
   background: -moz-linear-gradient(transparent 90%, lighten($brand-color, 10%) 10%);
