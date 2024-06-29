@@ -26,26 +26,8 @@
 		}
 	}
 
-	a {
-		@include vendor('transition', (
-			'color #{_duration(transition)} ease-in-out',
-			'border-bottom-color #{_duration(transition)} ease-in-out'
-		));
-		color: _palette(accent);
-		text-decoration: none;
 
-		&:hover {
-			border-bottom-color: _palette(accent);
-			color: _palette(accent);
-
-			strong {
-				color: inherit;
-			}
-		}
-	}
-
-
-p a {
+ a {
   color: _palette(fg);
   text-decoration: none;
   background: -webkit-linear-gradient(transparent 90%, lighten($brand-color, 10%) 10%);
