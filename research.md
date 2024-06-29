@@ -10,3 +10,5 @@ Decades of work in preclinical non-human animal models of AUD-relevant phenotype
 
 
 As a graduate student, I developed preclinical models of cue-triggered motivation for alcohol ([Cofresi et al 2018](/assets/docs/pub/cofresi2018.pdf); [Cofresi et al 2019](/assets/docs/pub/cofresi2019_cue.pdf); [Cofresi et al 2019](/assets/docs/pub/cofresi2019_alcohol.pdf)) and memory reconsolidation-based treatment strategies for its persistent attenuation.([Cofresi et al 2017](/assets/docs/pub/Cofresi2017.pdf)) As a postdoctoral fellow, I retrained for clinically-relevant neuroscience research with human subjects so that I could directly advance efforts to translate between the non-human animal and human laboratory, and ultimately, between the human laboratory and the clinic. This is the goal of my lab.
+
+.
