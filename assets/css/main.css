@@ -2109,6 +2109,7 @@
 		border-bottom-color: #ff5757;
 		color: #ff5757;
 		text-decoration: none;
+		transition: box-shadow ease 1s;
 	}
 
 		a:hover {
