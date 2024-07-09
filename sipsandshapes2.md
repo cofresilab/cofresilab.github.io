@@ -32,7 +32,7 @@ Eligible participants will be contacted by research team via email/text/phone ca
 ### Complete 3 lab visits in 1 week span
 Visit the researcher's lab on the MU campus in Columbia, MO to complete a computerized learning task in which you are presented various visual stimuli, some of which predict receipt of a liquid reward. The liquid reward will be a fruit juice. You will pick the flavor you like best from 3 options, and we will use that one as the liquid reward. The amount served will be equivalent to an 8-oz. Your electroencephalogram (EEG) recording ("brain waves") will be recorded so that we can visualize how your brain processes visual stimuli and liquid reward. 
 
-Each visit will last about 2 hours. You will be paid $40 in cash at the end of each visit. Get a $60 “streak” bonus if you complete all 3 lab visits. In total, you can earn up to $170 for lab visits.
+Each visit will last about 2 hours. You will be paid $40 in cash at the end of each visit. Get a $50 “streak” bonus if you complete all 3 lab visits. In total, you can earn up to $170 for lab visits.
 
 ### Complete 5 online surveys in 1 year span
 Complete online remote survey (~15 min) 5 times: once before the first lab visit, and 3, 6, 9 and 12 months after the last lab visit. Earn $10/survey + $10 “same day” bonus if completed the day we sent it to you. Bonus: earn $30 “streak” bonus if you complete all 5 surveys! In total, you can earn up to $130. Compensation via electronic gift cards.
