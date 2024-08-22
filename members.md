@@ -17,8 +17,7 @@ image:
 
 			<a href="#" class="image"><img src="assets/images/members/CofresiR.jpg" alt="" /></a>
 			<h3><a href="https://psychology.missouri.edu/people/cofresi" target="_blank" rel="noopener noreferrer">Dr. Roberto Cofresí</a></h3> 
-			<em>(he/him)</em><br>
-			<b>Director, Principal Investigator</b><br>
+			<b>Director, Principal Investigator</b> | <em>(he/him)</em><br>
 			Assistant Professor <br>
 			Department of Psychological Sciences, University of Missouri<br>
 		
@@ -28,6 +27,7 @@ image:
 			</em>
 		  
 		  Contact at: CofresiR at missouri.edu
+		  <a href="https://orcid.org/0000-0003-1131-6142" class="image"><img src="assets/images/icon/ORCID_iD_40.png" alt=""/> ORCID iD 0000-0003-1131-6142</a>
 		 
 
 </article>
@@ -38,8 +38,7 @@ image:
 <article>
 			<a href="#" class="image"><img src="assets/images/members/KeerstockS.jpg" alt="" /></a>
 			<h3>Dr. Sandie Keerstock</h3> 
-			<em>(he/him)</em><br>
-			<b>Research Specialist Lead<br>
+			<b>Research Specialist Lead</b> | <em>she/her</em><br>
 			Department of Psychological Sciences, University of Missouri <br>
 			
 			<em>
@@ -50,6 +49,7 @@ image:
 			</em>
 			
 			Contact at: SKeerstock at missouri.edu
+			<a href="https://orcid.org/0000-0001-5121-594X" class="image"><img src="assets/images/icon/ORCID_iD_40.png" alt=""/> ORCID iD 0000-0001-5121-594X</a>
 
 </article>
 
