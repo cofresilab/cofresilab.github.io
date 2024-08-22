@@ -27,9 +27,9 @@ image:
 			</em>
 		  
 		  Contact at: CofresiR at missouri.edu
-		  <li><a href="https://orcid.org/0000-0003-1131-6142" class="fa-brands fa-orcid" target="_blank"><span class="label">ORCID iD</span>ORCID iD 0000-0003-1131-6142</a></li>
-		  <li><a href="{{ site.google_scholar_url }}" class="icon fa-graduation-cap" target="_blank"><span class="label">Google Scholar</span></a></li>
-		  <li><a href="{{ site.github_url }}" class="icon fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+		  <li><a href="https://orcid.org/0000-0003-1131-6142" target="_blank" rel="noopener noreferrer">ORCID iD</a></li>
+		  <li><a href="https://scholar.google.com/citations?user=nRAErPEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a></li>
+		  <li><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Cofres%C3%AD+RU&cauthor_id=33822441" target="_blank" rel="noopener noreferrer">PubMed</a></li>
 		 
 
 </article>
@@ -51,7 +51,8 @@ image:
 			</em>
 			
 			Contact at: SKeerstock at missouri.edu
-			<a href="https://orcid.org/0000-0001-5121-594X" class="image"><img src="assets/images/icon/ORCID_iD_40.png" alt=""/> ORCID iD 0000-0001-5121-594X</a>
+			<li><a href="https://orcid.org/0000-0001-5121-594X" target="_blank" rel="noopener noreferrer">ORCID iD</a></li>
+		  <li><a href="https://scholar.google.com/citations?user=NujhYIEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a></li>
 
 </article>
 
