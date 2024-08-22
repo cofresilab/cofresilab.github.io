@@ -27,7 +27,7 @@ image:
 			</em>
 		  
 		  Contact at: CofresiR at missouri.edu
-		  <a href="https://orcid.org/0000-0003-1131-6142" class="image"><img src="assets/images/icon/ORCID_iD_40.png" alt=""/> ORCID iD 0000-0003-1131-6142</a>
+		  <li><a href="https://orcid.org/0000-0003-1131-6142" class="fa-brands fa-orcid" target="_blank"><span class="label">ORCID iD</span>ORCID iD 0000-0003-1131-6142</a></li>
 		  <li><a href="{{ site.google_scholar_url }}" class="icon fa-graduation-cap" target="_blank"><span class="label">Google Scholar</span></a></li>
 		  <li><a href="{{ site.github_url }}" class="icon fa-github" target="_blank"><span class="label">GitHub</span></a></li>
 		 
