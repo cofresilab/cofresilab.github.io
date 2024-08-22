@@ -16,9 +16,9 @@ image:
 <article>
 
 			<a href="#" class="image"><img src="assets/images/members/CofresiR.jpg" alt="" /></a>
-			<h3><a href="https://psychology.missouri.edu/people/cofresi" target="_blank" rel="noopener noreferrer">Dr. Roberto Cofresí</a> (he/him)</h3> 
-			<b>Director, Principal Investigator </b> <br>
-			Assistant Research Professor <br>
+			<h3><a href="https://psychology.missouri.edu/people/cofresi" target="_blank" rel="noopener noreferrer">Dr. Roberto Cofresí</a></h3> 
+			<b>Director, Principal Investigator | <em>(he/him)</em></b> <br>
+			Assistant Professor <br>
 			Department of Psychological Sciences, University of Missouri<br>
 		
 			<em>
@@ -36,8 +36,8 @@ image:
 
 <article>
 			<a href="#" class="image"><img src="assets/images/members/KeerstockS.jpg" alt="" /></a>
-			<h3>Dr. Sandie Keerstock (she/her)</h3> 
-			<b>Research Specialist Lead</b> <br>
+			<h3>Dr. Sandie Keerstock</h3> 
+			<b>Research Specialist Lead | <em>(she/her)</em></b> <br>
 			Department of Psychological Sciences, University of Missouri <br>
 			
 			<em>
