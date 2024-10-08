@@ -59,7 +59,37 @@ image:
 
 </section>
 		
+		
+		<hr class="major" />		
+		
+		
+<section>
+	<header class="major">
+		<h2>Full-time research coordinator </h2>
+	</header>
+	
+<div class="posts">
+	
+		<article>
+			<a href="#" class="image"><img src="assets/images/members/TerryD.jpg" alt="" /></a>
+			<h3>Devon Terry, B.A.</h3>
+			<b>Research Coordinator</b>| <em>she/her</em><br>
+      Department of Psychological Sciences, University of Missouri <br>
+			
+			<em>
+			<i class="fa fa-university" aria-hidden="true"></i>B.A. Psychology, University of Missouri – Columbia<br>
+			<i class="fa fa-university" aria-hidden="true"></i>B.A. Anthropology, University of Missouri – Columbia<br>
+			</em>
+			
+			Contact at: dstmvt at missouri dot edu
+			<li><a href="https://orcid.org/0009-0002-6374-2717" target="_blank" rel="noopener noreferrer">ORCID iD</a></li>
 
+</article>
+
+</div>
+
+
+</section>
 
 <hr class="major" />		
 		
