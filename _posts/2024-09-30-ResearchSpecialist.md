@@ -17,7 +17,7 @@ canonical:
 
 ---
 
-<span class="image small"><img src="/assets/images/members/TerryD.jpg" alt=""/></span>
+<span class="image small"><img src="/assets/images/members/TerryD.jpg" alt="" width="300"/></span>
 
 ## We are thrilled to welcome Devon Terry as the newest member of our lab! 
 
