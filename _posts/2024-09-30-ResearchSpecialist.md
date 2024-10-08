@@ -17,7 +17,7 @@ canonical:
 
 ---
 
-<span class="image small"><img src="/assets/images/members/TerryD.jpg" alt="" width="100"/></span>
+<span class="image small"><img src="/assets/images/members/TerryD.jpg" alt=""/></span>
 
 We are thrilled to welcome Devon Terry as the newest member of our lab! Devon is the Research Coordinator for Sips and Shapes (R00AA029169 PI: Cofresi). Devon holds dual B.A. degrees in Psychology and Anthropology from the University of Missouri, graduating Magna Cum Laude.
 
