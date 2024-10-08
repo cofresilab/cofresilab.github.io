@@ -191,7 +191,7 @@ image:
 			<li><b>Rawan Ebada</b>.	Fall 2021 to Fall 2022.	Then: Undergraduate Research Assistant.</li>
 			
 			
-			<li><b>Mikayla Rodgers</b>. Fall 2020 to Spring 2022. Then: Research coordinator, Undergraduate Research Assistant. Last known: Research specialist, MU Molecular Imaging and Theranostics Center.</li>
+			<li><b>Mikayla Rodgers</b>. Fall 2020 to Spring 2022. Then: Research coordinator, Undergraduate Research Assistant. Last known: Medical Student, Rocky Vista University</li>
 			
 </ul>
 
