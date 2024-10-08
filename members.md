@@ -60,7 +60,7 @@ image:
 </section>
 		
 		
-		<hr class="major" />		
+<hr class="major" />
 		
 		
 <section>
