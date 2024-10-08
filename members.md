@@ -65,7 +65,7 @@ image:
 		
 <section>
 	<header class="major">
-		<h2>Full-time research coordinator </h2>
+		<h2>Full-time research staff </h2>
 	</header>
 	
 <div class="posts">
@@ -96,7 +96,7 @@ image:
 		
 <section>
 	<header class="major">
-		<h2>Sips & Shapes Study Research Staff </h2>
+		<h2>Part-time research staff </h2>
 	</header>
 	
 <div class="posts">
