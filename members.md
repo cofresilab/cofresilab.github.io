@@ -16,7 +16,7 @@ image:
 <article>
 
 			<a href="#" class="image"><img src="assets/images/members/CofresiR.jpg" alt="" /></a>
-			<h3><a href="https://psychology.missouri.edu/people/cofresi" target="_blank" rel="noopener noreferrer">Dr. Roberto Cofresí</a></h3> 
+			<h3><a href="https://psychology.missouri.edu/people/cofresi-bonilla" target="_blank" rel="noopener noreferrer">Dr. Roberto Cofresí</a></h3> 
 			<b>Principal Investigator, Assistant Professor</b> | <em>he/him</em><br>
 			Department of Psychological Sciences, University of Missouri<br>
 			<em>
