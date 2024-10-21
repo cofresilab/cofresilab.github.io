@@ -6,7 +6,7 @@ image:
 <img src="/assets/images/SAS2.png" width="300">
 
 
-## Sips and Shape 2: Research Study at the University of Missouri. MU Institutional Review Board (IRB) Project #2106128
+## Sips and Shapes 2: Research Study at the University of Missouri. MU Institutional Review Board (IRB) Project #2106128
 
 Principal investigator: Dr. Roberto Cofresi, Department of Psychological Sciences. Contact: cofresir@missouri.edu
 

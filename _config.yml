@@ -28,5 +28,6 @@ google_scholar_url: https://scholar.google.com/citations?user=nRAErPEAAAAJ&hl=en
 
 # Build settings
 markdown: kramdown
+excerpt_separator: "<!--readmore-->"
 highlighter: rouge
 
