@@ -18,14 +18,13 @@ image:
 	
 	{% if post.content contains site.excerpt_separator %}
   			{{ post.excerpt }}
-  			<a href="{{ post.url }}">[...] Continue reading<i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+  		<ul class="actions">
+  		  	<li><a href="{{ post.url }}" class="button">[...] Continue reading <i class="fa fa-arrow-right" aria-hidden="true"></i></a></li>
+  		</ul>
 			{% else %}
  			 <p>{{ post.content }}</p>
 		{% endif %}
 	      
-			<ul class="actions">
-				<li><a href="{{ BASE_PATH }}{{ post.url }}" class="button">VIEW</a></li>
-			</ul>
 		</article>
 		
 {% endfor %}		
