@@ -26,8 +26,10 @@
     </span>
   </section>
   
-  
+ 
 
+
+<!-- Menu -->
 
 <section>
 	<header class="major">
@@ -70,4 +72,24 @@
 		
 		
 	</section>
+	
+	
+	<!-- Recent News -->
 
+<section>
+	<header class="major">
+		<h2>Recent News</h2>
+	</header>
+	
+<div class="posts">
+	  
+{% for post in site.posts %}
+	<article>
+		    <h4>{{ post.date | date: "%B %d %Y" }}</h4> 
+		    <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4> 
+	</article>
+		<hr>
+{% endfor %}		
+
+  </div>
+</section>
