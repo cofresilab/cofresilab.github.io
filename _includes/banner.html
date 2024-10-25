@@ -85,8 +85,8 @@
 	  
 {% for post in site.posts %}
 	<article>
-		    <h4>{{ post.date | date: "%B %d %Y" }}</h4> 
-		    <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4> 
+		    <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4>
+		    {{ post.date | date: "%B %d %Y" }} 
 	</article>
 		<hr>
 {% endfor %}		
