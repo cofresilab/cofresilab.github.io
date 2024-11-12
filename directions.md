@@ -26,7 +26,7 @@ Contact: 573-884-8779
 
 ### Parking
 
-The research team will indicate where to park.
+If you are driving: there are 2 designated parking spots right outside in front of the building. There are also 2 designated parking spots in the lot immediately south of the building.
 
 
 ### Once in the building
