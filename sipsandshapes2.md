@@ -22,7 +22,7 @@ This study is conducted by researchers at the University of Missouri (MU) with f
 Complete the eligibility screener so that the research team can determine if you meet the study eligibility criteria.  
 
 
-<a href="#" class="button special">Eligibility Screener</a>
+<a href="https://showmeportal.missouri.edu/redcap/surveys/?s=78JHY8NE9H9X3REX" class="button special">Eligibility Screener: Sips and Shapes 2</a>
 
 
 ## How do I know if I am eligible?
@@ -39,19 +39,23 @@ Complete online remote survey (~15 min) 5 times: once before the first lab visit
 
 
 ## What if I have questions about the study?
-You should contact the research team! 
+You should contact the research team!  
+
+MU LAMP Lab
+Email: mulamplab@missouri.edu
+  
 Dr. Roberto Cofresi
 Email: cofresir@missouri.edu
 
 
-<a id="directions"></a>
 ## Where to go for lab visits?
+<a href="https://mulamplab.org/directions.html" >Directions to our lab</a>
 [View address in Google Maps](https://goo.gl/maps/qyhsaqvywLMfFqir7)  
 115 Melvin H. Marx Building  
 University of Missouri  
 1416 Carrie Francke Drive  
 Columbia, MO 65211-3470  
-Contact: 573-884-8779  
+Contact: 573-544-0192 
 
 ![University of Missouri MARX Building](/assets/images/marx_bldg.png)
 
@@ -60,9 +64,8 @@ Contact: 573-884-8779
 
 
 ### Parking
-Participants should park in the visitor parking spaces in front of the building.
-If you are coming via public transportation
-There is a bus stop for the reactor loop bus in front of the building.
+If you are driving: there are 2 designated parking spots right outside in front of the building. There are also 2 designated parking spots in the lot immediately south of the building.
+
 
 ### Once in the building
 Please wait in the lobby area. The research team will come greet you there.
