@@ -24,9 +24,33 @@ Contact: 573-884-8779
 
 ----
 
+Because our lab is located off Mizzou’s main campus, you may want to either drive your personal vehicle, have a friend drop you off, or use Mizzou’s free campus shuttle services. Tiger Line is the university’s shuttle service throughout campus, provided at no extra charge to members of the university community in partnership with the City of Columbia.
+
+
 ### Parking
 
 If you are driving: there are 2 designated parking spots right outside in front of the building. There are also 2 designated parking spots in the lot immediately south of the building.
+
+
+### Bus
+
+If using the Tiger Line, the MU Reactor Loop (403) makes a loop between the bus shelter near the MU Reactor and the MU Student Center on Rollins St. You can find more information about the Tiger Line service at [gocomotransit.com/tiger-line](https://www.gocomotransit.com/tiger-line/)
+
+Unfortunately, there is no shuttle that runs between the bus stop and our lab, and it is about a ten-minute walk. The map below depicts the most straightforward path. Note that you will need to walk through several parking lots. Please take caution and pay attention to vehicle traffic.
+
+![Map to bldg from bus stop](/assets/images/maptobldgfrombus.png)
+
+Below is a photo of the bus stop. If you are walking to our lab from here, you can take the stairs behind the Life Sciences Building.
+
+![Life Science Bldg](/assets/images/lifesciencebldg.png)
+
+These stairs lead to a pathway out to the Red Cross parking lot. Please note that there are multiple parking lots to cross.
+
+![Pathway behind Life Science bldg](/assets/images/pathwaylifesciencebldg.png)
+
+Keep crossing the lots until you make it to the Melvin H. Marx Building. This is our lab. 
+
+![View from Life Science bldg](/assets/images/viewfromlifesciencebldg.png)
 
 
 ### Once in the building
