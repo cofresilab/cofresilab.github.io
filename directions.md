@@ -38,22 +38,19 @@ If using the Tiger Line, the MU Reactor Loop (403) makes a loop between the bus 
 
 Unfortunately, there is no shuttle that runs between the bus stop and our lab, and it is about a ten-minute walk. The map below depicts the most straightforward path. Note that you will need to walk through several parking lots. Please take caution and pay attention to vehicle traffic.
 
-<span class="image small"><img src="/assets/images/maptobldgfrombus.png" alt="" width="400"/></span>
-
-
-![Map to bldg from bus stop](/assets/images/maptobldgfrombus.png)
+<span class="image small"><img src="/assets/images/maptobldgfrombus2.png" alt="Map to Bldg from Bus Stop" width="400"/></span>
 
 Below is a photo of the bus stop. If you are walking to our lab from here, you can take the stairs behind the Life Sciences Building.
 
-![Life Science Bldg](/assets/images/lifesciencebldg.png)
+<span class="image small"><img src="/assets/images/lifesciencebldg.png" alt="Life Science Bldg" width="400"/></span>
 
 These stairs lead to a pathway out to the Red Cross parking lot. Please note that there are multiple parking lots to cross.
 
-![Pathway behind Life Science bldg](/assets/images/pathwaylifesciencebldg.png)
+<span class="image small"><img src="/assets/images/pathwaylifesciencebldg.png" alt="Pathway behind Life Science bldg" width="400"/></span>
 
 Keep crossing the lots until you make it to the Melvin H. Marx Building. This is our lab. 
 
-![View from Life Science bldg](/assets/images/viewfromlifesciencebldg.png)
+<span class="image small"><img src="/assets/images/viewfromlifesciencebldg.png" alt="View from Life Science bldg" width="400"/></span>
 
 
 ### Once in the building
