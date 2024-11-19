@@ -38,6 +38,9 @@ If using the Tiger Line, the MU Reactor Loop (403) makes a loop between the bus 
 
 Unfortunately, there is no shuttle that runs between the bus stop and our lab, and it is about a ten-minute walk. The map below depicts the most straightforward path. Note that you will need to walk through several parking lots. Please take caution and pay attention to vehicle traffic.
 
+<span class="image small"><img src="/assets/images/maptobldgfrombus.png" alt="" width="400"/></span>
+
+
 ![Map to bldg from bus stop](/assets/images/maptobldgfrombus.png)
 
 Below is a photo of the bus stop. If you are walking to our lab from here, you can take the stairs behind the Life Sciences Building.
