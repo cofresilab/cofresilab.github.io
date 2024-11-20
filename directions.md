@@ -42,7 +42,7 @@ Unfortunately, there is no shuttle that runs between the bus stop and our lab, a
 
 Below is a photo of the bus stop. If you are walking to our lab from here, you can take the stairs behind the Life Sciences Building.
 
-<span class="image small"><img src="/assets/images/lifesciencebldg.png" alt="Life Science Bldg" width="400"/></span>
+<span class="image small"><img src="/assets/images/LifeScienceBldg.png" alt="Life Science Bldg" width="400"/></span>
 
 These stairs lead to a pathway out to the Red Cross parking lot. Please note that there are multiple parking lots to cross.
 
