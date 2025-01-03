@@ -6,7 +6,7 @@ img :
 img2 :
 img3 : 
 author : 
-title: New study: Sips and Shapes 2
+title: New study! Sips and Shapes 2
 title2 : 
 title3 : 
 css: 
