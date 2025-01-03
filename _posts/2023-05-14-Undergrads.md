@@ -16,7 +16,7 @@ keywords:
 canonical:
 ---
 
-<span class="image small"><img src="https://www.cofresilab.org/assets/images/news/Spring2023_Graduation.png" width="600"/></span>
+<span class="image small"><img src="/assets/images/news/Spring2023_Graduation.png" width="600"/></span>
 
 <p class="lead"> Congratulations to lab members who graduated this semester! </p>
 

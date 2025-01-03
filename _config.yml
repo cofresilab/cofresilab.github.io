@@ -1,6 +1,6 @@
 # Site settings
-title: MU LampLab
-subtitle: Dr. Roberto U. Cofresí
+title: MU LAMP Lab
+subtitle:
 email: cofresilab@gmail.com
 description: 
 baseurl: "" # the subpath of your site, e.g. /blog
