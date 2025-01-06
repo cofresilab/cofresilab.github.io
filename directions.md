@@ -4,13 +4,13 @@ title: Directions
 image: 
 ---
 
-### Where to go
+### Address
 [View address in Google Maps](https://goo.gl/maps/qyhsaqvywLMfFqir7)  
 115 Melvin H. Marx Building  
 University of Missouri  
 1416 Carrie Francke Drive  
 Columbia, MO 65211-3470  
-Contact: 573-884-8779  
+Contact: 573-544-0192  
 
 
 
@@ -29,7 +29,7 @@ Because our lab is located off Mizzou’s main campus, you may want to either dr
 
 ### Parking
 
-If you are driving: there are 2 designated parking spots right outside in front of the building. There are also 2 designated parking spots in the lot immediately south of the building.
+For your convenience, there are 2 designated parking spots right in front of the building as well as 2 parking spots in the lot immediately south of the building. The spots are designated "RESTRICTED: IMAGING CENTER CLIENT PARKING", and are specifically intended for your use, so feel free to park in whichever spot is available. 
 
 
 ### Bus
