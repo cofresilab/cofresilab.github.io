@@ -11,7 +11,7 @@ image:
 Principal investigator: Dr. Roberto Cofresi, Department of Psychological Sciences. Contact: cofresir@missouri.edu
 
 ## Summary
-We are Seeking 18-25 yr old in the Columbia MO area to participate in a research study (3 lab visits, 5 electronic surveys) about the cognitive processing of newly learned cues for a liquid reward. Individuals who have consumed at least 5 drinks containing any kind of alcohol in their lifetime may be eligible. No alcohol will be consumed in this study. Participants may earn up to $300.
+We are Seeking 18-25 yr old in the Columbia MO area to participate in a research study (3 lab visits, 5 electronic surveys) about the cognitive processing of newly learned cues for a liquid reward. Individuals who have consumed at least 5 drinks containing any kind of alcohol in their lifetime may be eligible. No alcohol will be consumed in this study. Participants may earn up to $350.
 
 
 ## Purpose of the study
