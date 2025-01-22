@@ -31,7 +31,7 @@ Eligible participants will be contacted by research team via email/text/phone ca
 
 ## Enrolled participants will be asked to:
 ### Complete 3 lab visits in 1 week span
-Visit the researcher's lab on the MU campus in Columbia, MO to complete a computerized learning task in which you are presented various visual stimuli, some of which predict receipt of a small amount of water or alcohol. You will consume your preferred alcohol beverage commercially available. The amount served will be equivalent to an 8-oz. Your electroencephalogram (EEG) recording ("brain waves") will be recorded so that we can visualize how your brain processes visual stimuli and liquid reward. 
+Visit the researcher's lab on the MU campus in Columbia, MO to complete a computerized learning task in which you are presented various visual stimuli, some of which predict receipt of a small amount of water or alcohol. You will consume your preferred alcohol beverage commercially available. Your electroencephalogram (EEG) recording ("brain waves") will be recorded so that we can visualize how your brain processes visual stimuli and liquid reward. 
 
 You will be paid in cash at the end of each visit. In total, you can earn up to $220 for lab visits.
 - Visit 1 will last 3 hours and you will be paid $60 in cash for completing it. 
