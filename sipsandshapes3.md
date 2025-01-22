@@ -12,7 +12,7 @@ image:
 Principal investigator: Dr. Roberto Cofresi, Department of Psychological Sciences. Contact: cofresir@missouri.edu
 
 ## Summary
-We are seeking young adults for a paid research study looking at brain and mental processes during learning of new visual cues for liquid rewards. Individuals age 21-25 who drink alcohol at least twice a month may be eligible. The study involves 3 lab visits within 1 week, and 5 short (<15 min) electronic (online) surveys across 12 months. During the lab visits, we will record your EEG (brain waves) while you view shapes on a computer screen and get small sips of water and alcohol. You will consume about 1 standard drink total at each lab visit. You can earn up to $350 total for completing the entire study.  
+We are seeking young adults for a paid research study looking at brain and mental processes during learning of new visual cues for liquid rewards. Individuals age 21-25 who drank alcohol at least two days in the past month may be eligible. The study involves 3 lab visits within 1 week, and 5 short (<15 min) electronic (online) surveys across 12 months. During the lab visits, we will record your EEG (brain waves) while you view shapes on a computer screen and get small sips of water and alcohol. You will consume about 1 standard drink total at each lab visit. You can earn up to $350 total for completing the entire study.  
 
 
 ## Purpose of the study
