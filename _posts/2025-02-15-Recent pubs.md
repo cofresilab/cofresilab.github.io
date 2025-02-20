@@ -6,7 +6,7 @@ img :
 img2 : 
 img3 : 
 author : 
-title: Recent publications 
+title: A busy start to 2025! Recent publications.
 title2 : 
 title3 : 
 css: 
@@ -16,8 +16,6 @@ keywords:
 canonical:
 
 ---
-
-### A busy start to 2025!
 
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Cofresí, R.U., Piasecki, T.M. & Bartholow, B.D. (in press). Inhibitory control in the sober state as a function of alcohol sensitivity: A pilot functional magnetic resonance imaging (fMRI) study. <em>Frontiers in Human Neuroscience-Brain Health and Clinical Neuroscience,</em> 19. doi: 10.3389/fnhum.2025.1557661
