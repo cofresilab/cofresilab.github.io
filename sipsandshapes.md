@@ -4,7 +4,7 @@ title: Sips and Shapes Study #1
 image: 
 ---
 
-#### We are no longer recruiting research participants for this study. Thank you to the wonderful participants and research team who made this possible! 
+#### We are not recruiting new research participants for this study. Thank you to the wonderful participants and research team who made this possible! 
 
 <hr>
 
