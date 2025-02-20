@@ -14,6 +14,7 @@ For a full list of Dr. Cofresi's publications with H-index, please see <a href="
 <!-- Years -->
 <p class="text-center">
 <a href="#InPress"> In Press <i class="fa fa-arrow-circle-o-down icons"></i></a> |
+<a href="#2025"> 2024 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
 <a href="#2024"> 2024 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
 <a href="#2023"> 2023 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
 <a href="#2022"> 2022 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
@@ -29,23 +30,39 @@ For a full list of Dr. Cofresi's publications with H-index, please see <a href="
 
 <hr class="major" />
 
+
 #### <a id="InPress">  In Press </a>
-
-<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-Cofresí, R. U., Upton, S., Brown, A., Piasecki, T. M., Bartholow, B. D., & Froeliger, B. (in press). Mesocorticolimbic system reactivity to alcohol use-related visual cues as a function of alcohol sensitivity phenotype: a pilot fMRI study. <em>Addiction Neuroscience.</em> https://doi.org/10.1016/j.addicn.2024.100156 
+Cofresí, R.U., Piasecki, T.M. & Bartholow, B.D. (in press). Inhibitory control in the sober state as a function of alcohol sensitivity: A pilot functional magnetic resonance imaging (fMRI) study. <em>Frontiers in Human Neuroscience-Brain Health and Clinical Neuroscience,</em> 19. doi: 10.3389/fnhum.2025.1557661
 <br/>
-<a href="assets/docs/pub/Cofresí et al._2024_Mesocorticolimbic system reactivity to alcohol use-related visual cues as a function of alcohol sensitivity phenoty.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
-	| <a href="https://doi.org/10.1016/j.addicn.2024.100156" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>
+<a href="" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
+	| <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1557661/abstract" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>	
 
 
-<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-Acuff, S. F., Cofresi, R., Varner, A., Dennhardt, A. A., Sable, J., Bartholow, B., MacKillop, J., Murphy, J. G. (in press). Correspondence Between the Alcohol-P3 Event-related Potential and Alcohol Demand Phenotypes of Alcohol Reward Among Heavy Drinking Emerging Adults. <em>Alcohol: Clinical & Experimental Research.</em> Online ahead of print. https://doi.org/10.1111/acer.15377
+
+
+#### <a id="2025">  2025 </a>
+Cofresí, R.U., Piasecki, T.M. & Bartholow, B.D. (2025). Alcohol insensitivity and the incentive salience of alcohol: Two decades of work relevant to future directions of the addictions neuroclinical assessment. <em>Translational Psychiatry,</em> 15, 50. https://doi.org/10.1038/s41398-025-03273-y
 <br/>
-<a href="assets/docs/pub/Acuff et al._2024_Correspondence between the alcohol-P3 event-related potential and alcohol reward phenotypes among young adults.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
-	| <a href="https://doi.org/10.1111/acer.15377" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>
+<a href="assets/docs/pub/Cofres-_et_al-2025-Translational_Psychiatry.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
+	| <a href="https://doi.org/10.1038/s41398-025-03273-y" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>
+
 
 
 #### <a id="2024">  2024 </a>
+
+<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Cofresí, R. U., Upton, S., Brown, A., Piasecki, T. M., Bartholow, B. D., & Froeliger, B. (2024). Mesocorticolimbic system reactivity to alcohol use-related visual cues as a function of alcohol sensitivity phenotype: a pilot fMRI study. <em>Addiction Neuroscience.</em> 11, 100156. https://doi.org/10.1016/j.addicn.2024.100156 
+<br/>
+<a href="assets/docs/pub/Cofresí et al._2024_Mesocorticolimbic system reactivity to alcohol use-related visual cues as a function of alcohol sensitivity phenoty.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
+	| <a href="https://doi.org/10.1016/j.addicn.2024.100156" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>
+	
+
+<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Acuff, S. F., Cofresi, R., Varner, A., Dennhardt, A. A., Sable, J., Bartholow, B., MacKillop, J., Murphy, J. G. (2024). Correspondence Between the Alcohol-P3 Event-related Potential and Alcohol Demand Phenotypes of Alcohol Reward Among Heavy Drinking Emerging Adults. <em>Alcohol: Clinical & Experimental Research.</em> 48, 1302–1312. https://doi.org/10.1111/acer.15377
+<br/>
+<a href="assets/docs/pub/Acuff et al._2024_Correspondence between the alcohol-P3 event-related potential and alcohol reward phenotypes among young adults.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
+	| <a href="https://doi.org/10.1111/acer.15377" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>
+	
  
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Kohen, C. B., Cofresí, R. U., Piasecki, T. M., & Bartholow, B. D. (2024). Predictive utility of the P3 event‐related potential (ERP) response to alcohol cues for ecologically assessed alcohol craving and use. 
