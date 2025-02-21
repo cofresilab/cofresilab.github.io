@@ -33,7 +33,7 @@ For a full list of Dr. Cofresi's publications with H-index, please see <a href="
 
 #### <a id="InPress">  In Press </a>
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-Cofresí, R.U., Piasecki, T.M. & Bartholow, B.D. (in press). Inhibitory control in the sober state as a function of alcohol sensitivity: A pilot functional magnetic resonance imaging (fMRI) study. <em>Frontiers in Human Neuroscience,</em> 19. doi: 10.3389/fnhum.2025.1557661
+Cofresí, R.U., Upton, S., Terry, D., Brown, A. A., Piasecki, T.M., Bartholow, B.D., & Froeliger, B. (in press). Inhibitory control in the sober state as a function of alcohol sensitivity: A pilot functional magnetic resonance imaging (fMRI) study. <em>Frontiers in Human Neuroscience,</em> 19. doi: 10.3389/fnhum.2025.1557661
 <br/>
 <a href="" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
 	| <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1557661/abstract" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>	
@@ -53,7 +53,7 @@ Cofresí, R.U., Piasecki, T.M. & Bartholow, B.D. (2025). Alcohol insensitivity a
 #### <a id="2024">  2024 </a>
 
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-Cofresí, R. U., Upton, S., Brown, A., Piasecki, T. M., Bartholow, B. D., & Froeliger, B. (2024). Mesocorticolimbic system reactivity to alcohol use-related visual cues as a function of alcohol sensitivity phenotype: a pilot fMRI study. <em>Addiction Neuroscience.</em> 11, 100156. https://doi.org/10.1016/j.addicn.2024.100156 
+Cofresí, R. U., Upton, S., Brown, A. A., Piasecki, T. M., Bartholow, B. D., & Froeliger, B. (2024). Mesocorticolimbic system reactivity to alcohol use-related visual cues as a function of alcohol sensitivity phenotype: a pilot fMRI study. <em>Addiction Neuroscience.</em> 11, 100156. https://doi.org/10.1016/j.addicn.2024.100156 
 <br/>
 <a href="assets/docs/pub/Cofresí et al._2024_Mesocorticolimbic system reactivity to alcohol use-related visual cues as a function of alcohol sensitivity phenoty.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
 	| <a href="https://doi.org/10.1016/j.addicn.2024.100156" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>
