@@ -105,7 +105,7 @@ image:
 			<a href="#" class="image"><img src="assets/images/members/StewartD.jpg" alt="" /></a>
 			<h3>Darius Stewart, B.S.</h3>
 			<b>Research Technician</b><br>
-			Currently in the MU Masters in Public Health program<br>
+			Currently in the MU Masters in Public Health Promotion and Planning<br>
 			<em>
 			<i class="fa fa-university" aria-hidden="true"></i>B.S. in Public Health, University of Missouri (2023)
 			</em><br>
@@ -126,7 +126,7 @@ image:
 			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
 			<h3>Lukas Hawkins</h3>
 			<b>Undergraduate Research Assistant</b><br>
-			<p>Majoring in Psychology<br>
+			<p>Majoring in Chemistry/Physics<br>
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Fall 2023</p>
 		</article>
 			
