@@ -3,17 +3,17 @@ layout: page
 title: Publications
 image: 
 ---
-<p> Disclaimer: The PDFs available for download from this page are intended for fair use as defined by U.S. Copyright law, and may not be used for commercial purposes. The definitive versions of journal publications are available from the publishers’ websites (see DOI link). </p>
+<p> Disclaimer: The PDFs available for download from this page are intended for fair use as defined by U.S. Copyright law, and may not be used for commercial purposes. The definitive versions of journal publications are available from the publishers’ websites (see DOI link). For a full list of Dr. Cofresi's publications with H-index, please see <a href="https://scholar.google.com/citations?user=nRAErPEAAAAJ&hl=en" class="icon fa-graduation-cap" target="_blank">Google Scholar </a>. </p>
 
 <a href="assets/docs/cofresi_cv_feb2025.pdf" class="button special icon fa-download">CV</a>   
 
-For a full list of Dr. Cofresi's publications with H-index, please see <a href="https://scholar.google.com/citations?user=nRAErPEAAAAJ&hl=en" class="icon fa-graduation-cap" target="_blank">Google Scholar </a>.
+
 
 
 
 <!-- Years -->
 <p class="text-center">
-<!-- <a href="#InPress"> In Press <i class="fa fa-arrow-circle-o-down icons"></i></a> | -->
+<a href="#InPress"> In Press <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
 <a href="#2025"> 2025 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
 <a href="#2024"> 2024 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
 <a href="#2023"> 2023 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
@@ -31,9 +31,11 @@ For a full list of Dr. Cofresi's publications with H-index, please see <a href="
 <hr class="major" />
 
 
-<!-- #### <a id="InPress">  In Press </a> -->
+#### <a id="InPress">  In Press </a>
 
-
+<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Brancaleone, P. J., Cofresí, R. U., Volpert-Esmond, H., Amodio, D. M., Ito, T. A., & Bartholow, B. D. (in press). Within-person dynamics of attention to race and expression of race bias: a real-time test of the self-regulation of prejudice model. Social Cognitive and Affective Neuroscience.
+</p>	
 
 
 #### <a id="2025">  2025 </a>
@@ -42,8 +44,7 @@ Cofresí, R.U., Upton, S., Terry, D., Brown, A. A., Piasecki, T.M., Bartholow, B
 <br/>
 <a href="assets/docs/pub/cofresi_et_al_2025_fmri.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
 	| <a href="https://doi.org/10.3389/fnhum.2025.1557661" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>	
-	
-	
+
 	
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Cofresí, R.U., Piasecki, T.M. & Bartholow, B.D. (2025). Alcohol insensitivity and the incentive salience of alcohol: Two decades of work relevant to future directions of the addictions neuroclinical assessment. <em>Translational Psychiatry,</em> 15, 50. https://doi.org/10.1038/s41398-025-03273-y
@@ -54,7 +55,13 @@ Cofresí, R.U., Piasecki, T.M. & Bartholow, B.D. (2025). Alcohol insensitivity a
 
 
 #### <a id="2024">  2024 </a>
-
+<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Acuff, S. F., Cofresi, R., Varner, A., Dennhardt, A. A., Sable, J., Bartholow, B., MacKillop, J., Murphy, J. G. (2024). Correspondence Between the Alcohol-P3 Event-related Potential and Alcohol Demand Phenotypes of Alcohol Reward Among Heavy Drinking Emerging Adults. <em>Alcohol: Clinical & Experimental Research.</em> 48, 1302–1312. https://doi.org/10.1111/acer.15377
+<br/>
+<a href="assets/docs/pub/Acuff et al._2024_Correspondence between the alcohol-P3 event-related potential and alcohol reward phenotypes among young adults.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
+	| <a href="https://doi.org/10.1111/acer.15377" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>
+	
+	
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Cofresí, R. U., Upton, S., Brown, A. A., Piasecki, T. M., Bartholow, B. D., & Froeliger, B. (2024). Mesocorticolimbic system reactivity to alcohol use-related visual cues as a function of alcohol sensitivity phenotype: a pilot fMRI study. <em>Addiction Neuroscience.</em> 11, 100156. https://doi.org/10.1016/j.addicn.2024.100156 
 <br/>
@@ -62,13 +69,6 @@ Cofresí, R. U., Upton, S., Brown, A. A., Piasecki, T. M., Bartholow, B. D., & F
 	| <a href="https://doi.org/10.1016/j.addicn.2024.100156" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>
 	
 
-<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-Acuff, S. F., Cofresi, R., Varner, A., Dennhardt, A. A., Sable, J., Bartholow, B., MacKillop, J., Murphy, J. G. (2024). Correspondence Between the Alcohol-P3 Event-related Potential and Alcohol Demand Phenotypes of Alcohol Reward Among Heavy Drinking Emerging Adults. <em>Alcohol: Clinical & Experimental Research.</em> 48, 1302–1312. https://doi.org/10.1111/acer.15377
-<br/>
-<a href="assets/docs/pub/Acuff et al._2024_Correspondence between the alcohol-P3 event-related potential and alcohol reward phenotypes among young adults.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
-	| <a href="https://doi.org/10.1111/acer.15377" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>
-	
- 
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Kohen, C. B., Cofresí, R. U., Piasecki, T. M., & Bartholow, B. D. (2024). Predictive utility of the P3 event‐related potential (ERP) response to alcohol cues for ecologically assessed alcohol craving and use. 
 <em>Addiction Biology,</em> 29(2), e13368. https://doi.org/10.1111/adb.13368 
@@ -168,7 +168,7 @@ Transfer of incentive salience from a first-order alcohol cue to a novel second-
 			   
 			   
 <p>  <i class="fa fa-chevron-right" aria-hidden="true"></i>
-Cofresí, R.U., &amp; Bartholow, B.D. (2020). 
+Cofresí, R.U., & Bartholow, B.D. (2020). 
 Acute effects of alcohol on error-elicited negative affect during a cognitive control task. 
 <em>Psychopharmacology</em>, <em>237,</em>3383–3397. https://doi.org/10.1007/s00213-020-05619-4
 <br/>
