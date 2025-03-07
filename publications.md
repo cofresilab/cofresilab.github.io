@@ -13,7 +13,7 @@ For a full list of Dr. Cofresi's publications with H-index, please see <a href="
 
 <!-- Years -->
 <p class="text-center">
-<a href="#InPress"> In Press <i class="fa fa-arrow-circle-o-down icons"></i></a> |
+<!-- <a href="#InPress"> In Press <i class="fa fa-arrow-circle-o-down icons"></i></a> | -->
 <a href="#2025"> 2025 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
 <a href="#2024"> 2024 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
 <a href="#2023"> 2023 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
@@ -31,17 +31,20 @@ For a full list of Dr. Cofresi's publications with H-index, please see <a href="
 <hr class="major" />
 
 
-#### <a id="InPress">  In Press </a>
-<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-Cofresí, R.U., Upton, S., Terry, D., Brown, A. A., Piasecki, T.M., Bartholow, B.D., & Froeliger, B. (in press). Inhibitory control in the sober state as a function of alcohol sensitivity: A pilot functional magnetic resonance imaging (fMRI) study. <em>Frontiers in Human Neuroscience,</em> 19. doi: 10.3389/fnhum.2025.1557661
-<br/>
-<a href="" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
-	| <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2025.1557661/abstract" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>	
+<!-- #### <a id="InPress">  In Press </a> -->
 
 
 
 
 #### <a id="2025">  2025 </a>
+<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Cofresí, R.U., Upton, S., Terry, D., Brown, A. A., Piasecki, T.M., Bartholow, B.D., & Froeliger, B. (in press). Inhibitory control in the sober state as a function of alcohol sensitivity: A pilot functional magnetic resonance imaging (fMRI) study. <em>Frontiers in Human Neuroscience,</em> 19. https://doi.org/10.3389/fnhum.2025.1557661
+<br/>
+<a href="assets/docs/pub/cofresi_et_al_2025_fmri.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
+	| <a href="https://doi.org/10.3389/fnhum.2025.1557661" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>	
+	
+	
+	
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Cofresí, R.U., Piasecki, T.M. & Bartholow, B.D. (2025). Alcohol insensitivity and the incentive salience of alcohol: Two decades of work relevant to future directions of the addictions neuroclinical assessment. <em>Translational Psychiatry,</em> 15, 50. https://doi.org/10.1038/s41398-025-03273-y
 <br/>
