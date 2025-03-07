@@ -38,7 +38,7 @@ For a full list of Dr. Cofresi's publications with H-index, please see <a href="
 
 #### <a id="2025">  2025 </a>
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-Cofresí, R.U., Upton, S., Terry, D., Brown, A. A., Piasecki, T.M., Bartholow, B.D., & Froeliger, B. (in press). Inhibitory control in the sober state as a function of alcohol sensitivity: A pilot functional magnetic resonance imaging (fMRI) study. <em>Frontiers in Human Neuroscience,</em> 19. https://doi.org/10.3389/fnhum.2025.1557661
+Cofresí, R.U., Upton, S., Terry, D., Brown, A. A., Piasecki, T.M., Bartholow, B.D., & Froeliger, B. (2025). Inhibitory control in the sober state as a function of alcohol sensitivity: A pilot functional magnetic resonance imaging (fMRI) study. <em>Frontiers in Human Neuroscience,</em> 19:1557661. https://doi.org/10.3389/fnhum.2025.1557661
 <br/>
 <a href="assets/docs/pub/cofresi_et_al_2025_fmri.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
 	| <a href="https://doi.org/10.3389/fnhum.2025.1557661" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>	
