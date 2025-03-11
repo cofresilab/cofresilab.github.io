@@ -5,7 +5,7 @@ image:
 ---
 
 
-If you would like to join our lab, please complete the following online application: <a href="https://redcap.link/MULAMPlabapp" target="_blank" rel="noopener noreferrer">MU LAMP Lab Application</a>. This application portal remains open all year round. If there are openings in the lab, we will review the applications received and reach out to potential candidates. Additional inquiries can be directed to lab manager Dr. Sandie Keerstock, skeerstock at missouri dot edu. 
+If you would like to join our lab, please email our lab manager, Dr. Sandie Keerstock (skeerstock at missouri dot edu), to request access to the online application portal. The portal remains open year-round, and we review applications when positions are available. If there are openings, we will reach out to potential candidates.
 
 Typical duties of Research Assistants in the LAMP Lab
 - work in person with research team in Melvin H. Marx Building on the Mizzou campus;
