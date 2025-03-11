@@ -15,8 +15,7 @@ University of Missouri
 Columbia, MO 65211-3470  
 MU LAMP Lab Text/Voice Contact: 573-544-0192  
 
-[MARX](/assets/images/marx_bldg.png) 
-<span class="image small"><img src="/assets/images/marx_bldg.png" alt="Marx Bldg1" width="400"/></span>
+<span class="image small"><img src="/assets/images/marx_bldg_caption.png" alt="Marx Bldg1" width="400"/></span>
 
 <span class="image small"><img src="/assets/images/marx_bldg.png" alt="Marx Bldg2" width="600"/></span>
 
