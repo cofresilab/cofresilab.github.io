@@ -4,7 +4,7 @@ title: Directions
 image: 
 ---
 
-Our lab is located in the Melvin H. Marx Building, off Mizzou’s main campus. You may want to either drive your personal vehicle, have a friend drop you off, or use Mizzou’s free campus shuttle services. Tiger Line is the university’s shuttle service throughout campus, provided at no extra charge to members of the university community in partnership with the City of Columbia.
+Our lab is located in the [Melvin H. Marx Building](https://map.missouri.edu/?bldg=37011), off Mizzou’s main campus. You may want to either drive your personal vehicle, have a friend drop you off, or use Mizzou’s free campus shuttle services. Tiger Line is the university’s shuttle service throughout campus, provided at no extra charge to members of the university community in partnership with the City of Columbia.
 
 ### Address
 [View address in Google Maps](https://goo.gl/maps/qyhsaqvywLMfFqir7)  
