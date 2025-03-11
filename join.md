@@ -20,4 +20,5 @@ Preference for the position will be given to students who:
 - can commit at least 8 hr/wk in 4 hr blocks
 - can commit at least two semesters in the lab to accommodate the extensive training involved
 
-Students can work in the lab for course credit (PSYC 2950/2888 or 4950/4888).
+Students can work in the lab for course credit (<a href="https://psychology.missouri.edu/undergrad/undergraduate-research-opportunities" target="_blank" rel="noopener noreferrer">PSYC 2950/2888 or 4950/4888</a>).
+
