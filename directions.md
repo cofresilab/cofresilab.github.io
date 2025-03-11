@@ -8,7 +8,7 @@ Our lab is located in the [Melvin H. Marx Building](https://map.missouri.edu/?bl
 
 ### Address
 [View address in Google Maps](https://goo.gl/maps/qyhsaqvywLMfFqir7)  
-Cognitive Neuroscience Systems Core Facility
+Cognitive Neuroscience Systems Core Facility  
 <strong> Melvin H. Marx Building </strong>  
 University of Missouri  
 1416 Carrie Francke Drive  
