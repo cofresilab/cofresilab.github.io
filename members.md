@@ -37,7 +37,7 @@ image:
 
 <article>
 			<a href="#" class="image"><img src="assets/images/members/KeerstockS.jpg" alt="" /></a>
-			<h3>Dr. Sandie Keerstock</h3> 
+			<h3><a href="https://psychology.missouri.edu/people/keerstock-0" target="_blank" rel="noopener noreferrer">Dr. Sandie Keerstock</a></h3> 
 			<b>Research Specialist Lead</b> | <em>she/her</em><br>
 			Department of Psychological Sciences, University of Missouri <br>
 			
