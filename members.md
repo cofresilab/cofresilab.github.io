@@ -126,10 +126,19 @@ image:
 			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
 			<h3>Lukas Hawkins</h3>
 			<b>Undergraduate Research Assistant</b><br>
-			<p>Majoring in Chemistry/Physics<br>
+			<p>Double majoring in Chemistry and Physics<br>
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Fall 2023</p>
 		</article>
 			
+			
+			<article>
+			<a href="#" class="image"><img src="assets/images/members/MasonC.png" alt=""/></a>
+			<h3>Mason Chartrand</h3>
+			<b>Undergraduate Research Assistant</b><br>
+			<p>Double majoring in Psychology and Psychology<br>
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2025</p>
+		</article>
+
 
 </div>
 </section>
