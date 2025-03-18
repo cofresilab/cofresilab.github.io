@@ -132,7 +132,7 @@ image:
 			
 			
 			<article>
-			<img src="assets/images/members/MasonC.png" alt=""/>
+			<a href="#" class="image"><img src="assets/images/members/MasonC.png" alt=""/></a>
 			<h3>Mason Chartrand</h3>
 			<b>Undergraduate Research Assistant</b><br>
 			<p>Double majoring in Psychology and Psychology<br>
