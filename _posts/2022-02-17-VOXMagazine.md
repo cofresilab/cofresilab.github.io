@@ -18,7 +18,7 @@ canonical:
 ---
 <span class="image tiny"><img src="/assets/images/news/voxmag.png" alt="VoxMagazine" width="600"/></span>
 
-The article features experts on the science of addiction, MU Professor Dr. Kenneth Sher and Dr. Roberto Cofresi, who weigh in on how HBO's 'Euphoria' depicts addiction.
+The article features experts on the science of addiction, MU Professor Dr. Kenneth Sher and Dr. Roberto Cofresi, who weigh in on how HBO's 'Euphoria' depicts addiction.  <!--readmore-->
 
 Dr. Cofresi explains that understanding addiction and withdrawal comes from acknowledging how it is grounded in biology and our bodies. He hopes that media portrayals of addiction will get people talking and inspire those suffering from substance use disorders to get help. 
 
