@@ -15,7 +15,7 @@ bgcolor:
 keywords: 
 canonical:
 ---
-<span class="image small"><img src="/assets/images/news/urw2023.png" alt="urw2023" width="600"/></span>
+<a href="/2023/04/21/Undergrads.html"><span class="image small"><img src="/assets/images/news/urw2023.png" alt="urw2023" width="600"/></span></a>
 
 <p class="lead"> Undergraduate lab members mentored by Dr. Cofresi presented their independent research projects at the 2023 edition of the Undergraduate Research Week.  </p>  <!--readmore-->
 

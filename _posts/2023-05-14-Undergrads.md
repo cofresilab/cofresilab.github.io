@@ -16,7 +16,7 @@ keywords:
 canonical:
 ---
 
-<span class="image small"><img src="/assets/images/news/Spring2023_Graduation.png" width="600"/></span>
+<a href="/2023/05/14/Undergrads.html"><span class="image small"><img src="/assets/images/news/Spring2023_Graduation.png" width="600"/></span></a>
 
 <p class="lead"> Congratulations to lab members who graduated this semester! </p>
 

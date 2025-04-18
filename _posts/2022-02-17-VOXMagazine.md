@@ -16,7 +16,7 @@ keywords:
 canonical:
 
 ---
-<span class="image tiny"><img src="/assets/images/news/voxmag.png" alt="VoxMagazine" width="600"/></span>
+<a href="/2022/02/17/VOXMagazine.html"><span class="image tiny"><img src="/assets/images/news/voxmag.png" alt="VoxMagazine" width="600"/></span></a>
 
 The article features experts on the science of addiction, MU Professor Dr. Kenneth Sher and Dr. Roberto Cofresi, who weigh in on how HBO's 'Euphoria' depicts addiction.  <!--readmore-->
 
