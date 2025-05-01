@@ -3,16 +3,13 @@ layout: page
 title: News
 image: 
 ---
-<nav id="menu">
-<ul>
+
 
 {% for post in site.posts %}
 <li>
-<span class="opener">{{ post.date | date: "%B %d %Y" }}</span>
-<li> {{ post.title }} </li>
+{{ post.date | date: "%B %Y" }} | <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
 </li>
 {% endfor %}
-</ul>
-</nav>
+
 
 
