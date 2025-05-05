@@ -6,7 +6,7 @@ img :
 img2 : 
 img3 : 
 author : 
-title: Summer 2025: Research Internships in the LAMP Lab
+title: Summer 2025 Research Internships in the LAMP Lab
 title2 : 
 title3 : 
 css: 
