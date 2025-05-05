@@ -60,6 +60,49 @@ image:
 </section>
 		
 		
+		
+
+
+
+
+<hr class="major" />
+
+		
+		
+<section>
+	<header class="major">
+		<h2>Graduate students</h2>
+	</header>
+	
+<div class="posts">
+	
+	<article>
+			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt="" /></a>
+			<h3>Julián Aponte Zabala, B.A.</h3>
+			<b>Graduate student</b>| <em>he/him</em><br>
+      Department of Psychological Sciences, University of Missouri <br>
+			
+			<em>
+			<i class="fa fa-university" aria-hidden="true"></i>B.A. Psychology, University of Puerto Rico, Rio Piedras
+			</em>
+			
+			Contact at: jaqth at missouri dot edu
+			<!-- <li><a href="https://orcid.org/0009-0002-6374-2717" target="_blank" rel="noopener noreferrer">ORCID iD</a></li>
+-->
+
+</article>
+	
+	
+</div>
+
+
+</section>
+
+
+		
+		
+		
+		
 <hr class="major" />
 		
 		
@@ -91,6 +134,12 @@ image:
 
 </section>
 
+
+
+
+
+
+
 <hr class="major" />		
 		
 		
@@ -104,6 +153,7 @@ image:
 		<article>
 			<a href="#" class="image"><img src="assets/images/members/StewartD.jpg" alt="" /></a>
 			<h3>Darius Stewart, B.S.</h3>
+			<p><em>he/him</em><p><br>
 			<b>Research Technician</b><br>
 			Currently in the MU Masters in Public Health Promotion and Planning<br>
 			<em>
@@ -116,6 +166,7 @@ image:
   <article>
 			<a href="#" class="image"><img src="assets/images/members/GutierrezC.jpg" alt=""/></a>
 			<h3>Camila Gutierrez</h3>
+			<p><em>she/her</em><p><br>
 			<b>Undergraduate Research Assistant</b><br>
 			Double majoring in Psychology and Biology with emphasis in Human Biology and Medical Science.<br> 
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Summer 2023
@@ -124,6 +175,7 @@ image:
   
 		 <article>
 			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
+			<p><em>he/him</em><p><br>
 			<h3>Lukas Hawkins</h3>
 			<b>Undergraduate Research Assistant</b><br>
 			<p>Double majoring in Chemistry and Physics<br>
@@ -134,9 +186,19 @@ image:
 			<article>
 			<a href="#" class="image"><img src="assets/images/members/MasonC.png" alt=""/></a>
 			<h3>Mason Chartrand</h3>
+			<p><em>he/him</em><p><br>
 			<b>Undergraduate Research Assistant</b><br>
 			<p>Double majoring in Psychology and Sociology<br>
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2025</p>
+		</article>
+		
+		<article>
+			<a href="#" class="image"><img src="assets/images/members/StoneRiver.png" alt=""/></a>
+			<p><em>he/him</em><p><br>
+			<h3>River Stone</h3>
+			<b>Undergraduate Research Assistant</b><br>
+			<p>Majoring in Psychological Sciences<br>
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Summer 2025</p>
 		</article>
 
 
