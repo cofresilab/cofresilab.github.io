@@ -153,8 +153,7 @@ image:
 		<article>
 			<a href="#" class="image"><img src="assets/images/members/StewartD.jpg" alt="" /></a>
 			<h3>Darius Stewart, B.S.</h3>
-			<p><em>he/him</em><p><br>
-			<b>Research Technician</b><br>
+			<b>Research Technician</b> | <em>he/him</em><br>
 			Currently in the MU Masters in Public Health Promotion and Planning<br>
 			<em>
 			<i class="fa fa-university" aria-hidden="true"></i>B.S. in Public Health, University of Missouri (2023)
@@ -166,8 +165,7 @@ image:
   <article>
 			<a href="#" class="image"><img src="assets/images/members/GutierrezC.jpg" alt=""/></a>
 			<h3>Camila Gutierrez</h3>
-			<p><em>she/her</em><p><br>
-			<b>Undergraduate Research Assistant</b><br>
+			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
 			Double majoring in Psychology and Biology with emphasis in Human Biology and Medical Science.<br> 
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Summer 2023
 		</article>
@@ -175,9 +173,8 @@ image:
   
 		 <article>
 			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
-			<p><em>he/him</em><p><br>
 			<h3>Lukas Hawkins</h3>
-			<b>Undergraduate Research Assistant</b><br>
+			<b>Undergraduate Research Assistant</b> | <em>he/him</em><br>
 			<p>Double majoring in Chemistry and Physics<br>
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Fall 2023</p>
 		</article>
@@ -186,17 +183,15 @@ image:
 			<article>
 			<a href="#" class="image"><img src="assets/images/members/MasonC.png" alt=""/></a>
 			<h3>Mason Chartrand</h3>
-			<p><em>he/him</em><p><br>
-			<b>Undergraduate Research Assistant</b><br>
+			<b>Undergraduate Research Assistant</b> | <em>he/him</em><br>
 			<p>Double majoring in Psychology and Sociology<br>
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2025</p>
 		</article>
 		
 		<article>
 			<a href="#" class="image"><img src="assets/images/members/StoneRiver.png" alt=""/></a>
-			<p><em>he/him</em><p><br>
 			<h3>River Stone</h3>
-			<b>Undergraduate Research Assistant</b><br>
+			<b>Undergraduate Research Assistant</b> | <em>he/him</em><br>
 			<p>Majoring in Psychological Sciences<br>
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Summer 2025</p>
 		</article>
