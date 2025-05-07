@@ -27,7 +27,7 @@ image:
 		  Contact at: CofresiR at missouri.edu
 		  <li><a href="https://orcid.org/0000-0003-1131-6142" target="_blank" rel="noopener noreferrer">ORCID iD</a></li>
 		  <li><a href="https://scholar.google.com/citations?user=nRAErPEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a></li>
-		  <li><a href="https://pubmed.ncbi.nlm.nih.gov/?term=Cofres%C3%AD+RU&cauthor_id=33822441" target="_blank" rel="noopener noreferrer">PubMed</a></li>
+		  <li><a href="https://www.ncbi.nlm.nih.gov/myncbi/roberto.cofresi.1/bibliography/public/" target="_blank" rel="noopener noreferrer">NCBI</a></li>
 		 
 
 </article>
@@ -51,6 +51,7 @@ image:
 			Contact at: SKeerstock at missouri.edu
 			<li><a href="https://orcid.org/0000-0001-5121-594X" target="_blank" rel="noopener noreferrer">ORCID iD</a></li>
 		  <li><a href="https://scholar.google.com/citations?user=NujhYIEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a></li>
+		  <li><a href="https://www.ncbi.nlm.nih.gov/myncbi/sandie.keerstock.1/bibliography/public/ " target="_blank" rel="noopener noreferrer">NCBI</a></li>
 
 </article>
 
