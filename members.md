@@ -77,7 +77,7 @@ image:
 <div class="posts">
 	
 	<article>
-			<a href="#" class="image"><img src="assets/images/members/AponteJulian.png" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/members/AponteJ.png" alt="" /></a>
 			<h3>Julián Aponte Zabala, B.A.</h3>
 			<b>Graduate student</b>| <em>he/him</em><br>
       Department of Psychological Sciences, University of Missouri <br>
@@ -181,7 +181,7 @@ image:
 			
 			
 			<article>
-			<a href="#" class="image"><img src="assets/images/members/MasonC.png" alt=""/></a>
+			<a href="#" class="image"><img src="assets/images/members/ChartrandM.png" alt=""/></a>
 			<h3>Mason Chartrand</h3>
 			<b>Undergraduate Research Assistant</b> | <em>he/him</em><br>
 			<p>Double majoring in Psychology and Sociology<br>
@@ -189,7 +189,7 @@ image:
 		</article>
 		
 		<article>
-			<a href="#" class="image"><img src="assets/images/members/StoneRiver.png" alt=""/></a>
+			<a href="#" class="image"><img src="assets/images/members/StoneR.png" alt=""/></a>
 			<h3>River Stone</h3>
 			<b>Undergraduate Research Assistant</b> | <em>he/him</em><br>
 			<p>Majoring in Psychological Sciences<br>
