@@ -77,17 +77,17 @@ image:
 <div class="posts">
 	
 	<article>
-			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/members/AponteJulian.png" alt="" /></a>
 			<h3>Julián Aponte Zabala, B.A.</h3>
 			<b>Graduate student</b>| <em>he/him</em><br>
       Department of Psychological Sciences, University of Missouri <br>
 			
 			<em>
-			<i class="fa fa-university" aria-hidden="true"></i>B.A. Psychology, University of Puerto Rico, Rio Piedras
+			<i class="fa fa-university" aria-hidden="true"></i>B.A. Psychology, University of Puerto Rico, Rio Piedras<br>
 			</em>
 			
 			Contact at: jaqth at missouri dot edu
-			<!-- <li><a href="https://orcid.org/0009-0002-6374-2717" target="_blank" rel="noopener noreferrer">ORCID iD</a></li>
+			<!-- <li><a href="" target="_blank" rel="noopener noreferrer">ORCID iD</a></li>
 -->
 
 </article>
