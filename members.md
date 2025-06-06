@@ -193,7 +193,23 @@ image:
 			<a href="#" class="image"><img src="assets/images/members/StoneR.png" alt=""/></a>
 			<h3>River Stone</h3>
 			<b>Undergraduate Research Assistant</b> | <em>he/him</em><br>
-			<p>Majoring in Psychological Sciences<br>
+			<p>Majoring in Psychology<br>
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Summer 2025</p>
+		</article>
+		
+		<article>
+			<a href="#" class="image"><img src="assets/images/members/SchnarreN.png" alt=""/></a>
+			<h3>Noah Schnarre</h3>
+			<b>Undergraduate Research Assistant</b> | <em>he/him</em><br>
+			<p>Majoring in Psychology, Pre-Med track<br>
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Summer 2025</p>
+		</article>
+		
+			<article>
+			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
+			<h3>Lainie Mueller</h3>
+			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
+			<p>Majoring in Neuroscience, Truman State University<br>
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Summer 2025</p>
 		</article>
 
