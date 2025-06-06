@@ -169,7 +169,7 @@ image:
 			<b>Research Technician</b> | <em>he/him</em><br>
 			<em><i class="fa fa-university" aria-hidden="true"></i>B.A. in Psychology, University of Missouri</em><br>
 			<em><i class="fa fa-university" aria-hidden="true"></i>B.A. in Sociology, University of Missouri</em><br>
-			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2025</p>
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2025
 		</article>
 		
 
