@@ -109,7 +109,7 @@ image:
 		
 <section>
 	<header class="major">
-		<h2>Full-time research staff </h2>
+		<h2>Full-time research coordinator</h2>
 	</header>
 	
 <div class="posts">
@@ -141,29 +141,54 @@ image:
 
 
 
+
+
 <hr class="major" />		
 		
 		
 <section>
 	<header class="major">
-		<h2>Part-time research staff </h2>
+		<h2>Postbac research staff</h2>
+	</header>
+	
+<div class="posts">
+
+
+<article>
+			<a href="#" class="image"><img src="assets/images/members/StewartD.jpg" alt="" /></a>
+			<h3>Darius Stewart, B.S.</h3>
+			<b>Research Technician</b> | <em>he/him</em><br>
+			Currently in the MU Masters in Public Health Promotion and Planning<br>
+			<em><i class="fa fa-university" aria-hidden="true"></i>B.S. in Public Health, University of Missouri</em><br>
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Fall 2022
+		</article>
+
+   <article>
+			<a href="#" class="image"><img src="assets/images/members/ChartrandM.png" alt=""/></a>
+			<h3>Mason Chartrand, B.A.</h3>
+			<b>Research Technician</b> | <em>he/him</em><br>
+			<em><i class="fa fa-university" aria-hidden="true"></i>B.A. in Psychology, University of Missouri</em><br>
+			<em><i class="fa fa-university" aria-hidden="true"></i>B.A. in Sociology, University of Missouri</em><br>
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2025</p>
+		</article>
+		
+
+</div>
+</section>
+
+
+
+<hr class="major" />		
+		
+		
+<section>
+	<header class="major">
+		<h2>Undergraduate research staff</h2>
 	</header>
 	
 <div class="posts">
 	
 		<article>
-			<a href="#" class="image"><img src="assets/images/members/StewartD.jpg" alt="" /></a>
-			<h3>Darius Stewart, B.S.</h3>
-			<b>Research Technician</b> | <em>he/him</em><br>
-			Currently in the MU Masters in Public Health Promotion and Planning<br>
-			<em>
-			<i class="fa fa-university" aria-hidden="true"></i>B.S. in Public Health, University of Missouri (2023)
-			</em><br>
-			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Fall 2022
-		</article>
-
-
-  <article>
 			<a href="#" class="image"><img src="assets/images/members/GutierrezC.jpg" alt=""/></a>
 			<h3>Camila Gutierrez</h3>
 			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
@@ -181,13 +206,6 @@ image:
 		</article>
 			
 			
-			<article>
-			<a href="#" class="image"><img src="assets/images/members/ChartrandM.png" alt=""/></a>
-			<h3>Mason Chartrand</h3>
-			<b>Undergraduate Research Assistant</b> | <em>he/him</em><br>
-			<p>Double majoring in Psychology and Sociology<br>
-			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2025</p>
-		</article>
 		
 		<article>
 			<a href="#" class="image"><img src="assets/images/members/StoneR.png" alt=""/></a>
