@@ -224,7 +224,7 @@ image:
 		</article>
 		
 			<article>
-			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
+			<a href="#" class="image"><img src="assets/images/members/MuellerL.png" alt=""/></a>
 			<h3>Lainie Mueller</h3>
 			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
 			<p>Majoring in Neuroscience, Truman State University<br>
