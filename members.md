@@ -130,6 +130,21 @@ image:
 
 </article>
 
+
+<article>
+			<a href="#" class="image"><img src="assets/images/members/DrifkaK.png" alt="" /></a>
+			<h3>Kayla Drifka, B.S.</h3>
+			<b>Research Coordinator</b>| <em>she/her</em><br>
+      Department of Psychological Sciences, University of Missouri <br>
+			
+			<em>, Un
+			<i class="fa fa-university" aria-hidden="true"></i>B.S. for Biopsychology, Cognition, & Neuroscience (minor in Quantitative Methods in the Social Sciences), University of Michigan<br>
+			</em>
+			
+			Contact at: kd92d at missouri dot edu
+
+</article>
+
 </div>
 
 
