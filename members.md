@@ -137,7 +137,7 @@ image:
 			<b>Research Coordinator</b>| <em>she/her</em><br>
       Department of Psychological Sciences, University of Missouri <br>
 			
-			<em>, Un
+			<em>
 			<i class="fa fa-university" aria-hidden="true"></i>B.S. for Biopsychology, Cognition, & Neuroscience (minor in Quantitative Methods in the Social Sciences), University of Michigan<br>
 			</em>
 			
