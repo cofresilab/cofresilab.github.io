@@ -262,7 +262,7 @@ image:
 	
 	<ul>
 
-			<li><b>Elizabeth Conley</b>. Fall 2021 to Spring 2024.Then: Undergraduate Research Assistant. MU Goldwater Fellowship Nominee; DAAD Summer REU. Last known: PhD student in Neuroscience, Washington University in St. Louis. </li>
+			<li><b>Elizabeth Conley</b>. Fall 2021 to Spring 2024.Then: Undergraduate Research Assistant. Last known: PhD student in Neuroscience, Washington University in St. Louis. </li>
 		
 		
 		  <li><b>Peyton Maras</b>. Fall 2023 to Spring 2024.Then: Undergraduate Research Assistant.</li>
@@ -274,16 +274,16 @@ image:
 			<li><b>Abigail Obregon</b>.	Fall 2022 to Spring 2024. Then: Undergraduate Research Assistant. </li>
 			
 		
-			<li><b>Paola Gonzalez</b>. Fall 2023.Then: Undergraduate Research Assistant.	Last known: Master's student, MU Social Work.</li>
+			<li><b>Paola Gonzalez</b>. Fall 2023.Then: Undergraduate Research Assistant. Last known: Master's student, MU Social Work.</li>
 			
 					
-			<li><b>Sophia Slinkard</b>. Fall 2022 to Spring 2023. Then: Undergraduate Research Assistant. Research apprenticeship (2022-2023; co-supervised by Drs. Froeliger and Cofresi) focused on the role of reward-related learning in disordered eating behavior. Last known: Medical student, KCU.</li>
+			<li><b>Sophia Slinkard</b>. Fall 2022 to Spring 2023. Then: Undergraduate Research Assistant. Last known: Medical student, KCU.</li>
 			
 			
-			<li><b>Liam Peck</b>. Fall 2022 to Spring 2023.Then: Undergraduate Research Assistant. Honors Thesis (co-mentored with Dr. Bruce Bartholow) focusing on the neural correlates (EEG, MRI) of learning about cues for ingested rewards.	Last known: Research Specialist, MU Psychological Sciences.</li>
+			<li><b>Liam Peck</b>. Fall 2022 to Spring 2023.Then: Undergraduate Research Assistant. Last known: Research Specialist, MU Psychological Sciences.</li>
 			
 			
-			<li><b>Ian Flowers</b>.	Fall 2022 to Spring 2023.Then: Undergraduate Research Assistant. Honors Thesis (co-mentored with Dr. Bruce Bartholow) focusing on the role of familial risk for alcoholism in alcohol cue reactivity and alcohol use. Last known: Applied Psychology at Maastricht University, Netherlands.</li>
+			<li><b>Ian Flowers</b>.	Fall 2022 to Spring 2023.Then: Undergraduate Research Assistant. Last known: Applied Psychology at Maastricht University, Netherlands.</li>
 			
 			
 			<li><b>Jasmine Chen</b>.	Fall 2022 to Spring 2023.	Then: Undergraduate Research Assistant. MARC/IMSD Intern.</li>
@@ -292,7 +292,7 @@ image:
 			<li><b>Hannah Drzewiecki</b>. Fall 2022 to Spring 2023. Then: Undergraduate Research Assistant. MARC/IMSD Intern.</li>
 			
 			
-			<li><b>Alana Hatanaka</b>.	Spring to Summer 2023.	Then: Research coordinator.Last known: Senior Clinical Lab Technician, MU Veterinary Diagnostic Laboratory.</li>
+			<li><b>Alana Hatanaka</b>.	Spring to Summer 2023.	Then: Research coordinator. Last known: Senior Clinical Lab Technician, MU Veterinary Diagnostic Laboratory.</li>
 			
 			
 			<li><b>Rawan Ebada</b>.	Fall 2021 to Fall 2022.	Then: Undergraduate Research Assistant.</li>

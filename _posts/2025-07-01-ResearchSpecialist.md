@@ -17,6 +17,7 @@ canonical:
 
 ---
 
+<span class="image small"><img src="/assets/images/members/DrifkaK.png" alt="" width="400"/></span>
 
 ### Congratulations to Devon, and Welcome to Kayla!
 Devon Terry, our current research coordinator for the Sips and Shapes Study, will be starting the Clinical Psychology Doctoral Program at the University at Buffalo in Fall 2025! Devon has been an integral part of our team and helped us develop the Sips and Shapes Study and the lab spirit. While we’ll miss her greatly, we’re incredibly proud of her and can’t wait to see all that she’ll accomplish in this next chapter.
