@@ -169,14 +169,7 @@ image:
 <div class="posts">
 
 
-<article>
-			<a href="#" class="image"><img src="assets/images/members/StewartD.jpg" alt="" /></a>
-			<h3>Darius Stewart, B.S.</h3>
-			<b>Research Technician</b> | <em>he/him</em><br>
-			Currently in the MU Masters in Public Health Promotion and Planning<br>
-			<em><i class="fa fa-university" aria-hidden="true"></i>B.S. in Public Health, University of Missouri</em><br>
-			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Fall 2022
-		</article>
+
 
    <article>
 			<a href="#" class="image"><img src="assets/images/members/ChartrandM.png" alt=""/></a>
@@ -262,7 +255,10 @@ image:
 	
 	<ul>
 
-			<li><b>Elizabeth Conley</b>. Fall 2021 to Spring 2024.Then: Undergraduate Research Assistant. Last known: PhD student in Neuroscience, Washington University in St. Louis. </li>
+
+<li><b>Darius Stewart</b>. Fall 2022 to Spring 2025. Then: Research Assistant/Technician.</li>
+
+			<li><b>Elizabeth Conley</b>. Fall 2021 to Spring 2024. Then: Undergraduate Research Assistant. Last known: PhD student in Neuroscience, Washington University in St. Louis. </li>
 		
 		
 		  <li><b>Peyton Maras</b>. Fall 2023 to Spring 2024.Then: Undergraduate Research Assistant.</li>
