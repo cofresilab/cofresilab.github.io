@@ -29,25 +29,21 @@ MU LAMP Lab Text/Voice Contact: 573-544-0192
 For research participants, there are 2 designated parking spots right in front of the building as well as 2 parking spots in the lot immediately south of the building. The spots are designated "RESTRICTED: IMAGING CENTER CLIENT PARKING", and are specifically intended for your use, so feel free to park in whichever spot is available. 
 
 
-### Bus
+### Bus: MU Reactor Loop
 
-If using the Tiger Line, the MU Reactor Loop (403) makes a loop between the bus shelter near the MU Reactor and the MU Student Center on Rollins St. You can find more information about the Tiger Line service at [gocomotransit.com/tiger-line](https://www.gocomotransit.com/tiger-line/)
+The Tiger Line MU Reactor Loop (403) makes a loop between the bus shelter near the MU Reactor and the MU Student Center on Rollins St. It runs Monday – Friday, 6 a.m. – 8 p.m. at 10 or 20 minutes intervals. You can find more information about the Tiger Line service at [https://parking.missouri.edu/tiger-line-shuttle/](https://parking.missouri.edu/tiger-line-shuttle/). It's about a ten-minute walk between the bus stop and our lab. The map below depicts the most straightforward path. Note that you will need to walk through several parking lots. Please take caution and pay attention to vehicle traffic. 
 
-Unfortunately, there is no shuttle that runs between the bus stop and our lab, and it is about a ten-minute walk. The map below depicts the most straightforward path. Note that you will need to walk through several parking lots. Please take caution and pay attention to vehicle traffic.
+<span class="image small"><img src="/assets/images/maptobldgfrombus2.png" alt="Map to Building from Bus Stop" width="400"/></span>
 
-<span class="image small"><img src="/assets/images/maptobldgfrombus2.png" alt="Map to Bldg from Bus Stop" width="400"/></span>
+From the bus stop: you can take the stairs behind the Life Sciences Building. These stairs lead to a pathway out to the Red Cross parking lot. Please note that there are multiple parking lots to cross. Keep crossing the lots until you make it to the Melvin H. Marx Building. This is our lab. 
 
-Below is a photo of the bus stop. If you are walking to our lab from here, you can take the stairs behind the Life Sciences Building.
+<span class="image small"><img src="/assets/images/pathtobldg.png" alt="View from Life Science bldg" width="400"/></span>
 
-<span class="image small"><img src="/assets/images/LifeScienceBldg2.png" alt="Life Science Bldg" width="400"/></span>
+### Bus: Black line
 
-These stairs lead to a pathway out to the Red Cross parking lot. Please note that there are multiple parking lots to cross.
+The Black line runs less frequently (every 1.5 hrs) but drops you right at the corner of Carrie Francke Drive! You can see Live Bus Routes at [GoComoTransit/routes](https://www.gocomotransit.com/routes/).
 
-<span class="image small"><img src="/assets/images/pathwaylifesciencebldg.png" alt="Pathway behind Life Science bldg" width="500"/></span>
-
-Keep crossing the lots until you make it to the Melvin H. Marx Building. This is our lab. 
-
-<span class="image small"><img src="/assets/images/viewfromlifesciencebldg.png" alt="View from Life Science bldg" width="400"/></span>
+<span class="image small"><img src="/assets/images/busstop.png" alt="Black line bus stop" width="500"/></span>
 
 
 ### Once in the building
