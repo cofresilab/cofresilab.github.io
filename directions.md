@@ -37,7 +37,7 @@ The Tiger Line MU Reactor Loop (403) makes a loop between the bus shelter near t
 
 From the bus stop: you can take the stairs behind the Life Sciences Building. These stairs lead to a pathway out to the Red Cross parking lot. Please note that there are multiple parking lots to cross. Keep crossing the lots until you make it to the Melvin H. Marx Building. This is our lab. 
 
-<span class="image small"><img src="/assets/images/pathtobldg.png" alt="View from Life Science bldg" width="400"/></span>
+<span class="image small"><img src="/assets/images/pathtobldg.png" alt="View from Life Science bldg" width="550"/></span>
 
 ### Bus: Black line
 
