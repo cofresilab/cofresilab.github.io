@@ -114,22 +114,6 @@ image:
 	
 <div class="posts">
 	
-		<article>
-			<a href="#" class="image"><img src="assets/images/members/TerryD.jpg" alt="" /></a>
-			<h3>Devon Terry, B.A.</h3>
-			<b>Research Coordinator</b>| <em>she/her</em><br>
-      Department of Psychological Sciences, University of Missouri <br>
-			
-			<em>
-			<i class="fa fa-university" aria-hidden="true"></i>B.A. Psychology, University of Missouri – Columbia<br>
-			<i class="fa fa-university" aria-hidden="true"></i>B.A. Anthropology, University of Missouri – Columbia<br>
-			</em>
-			
-			Contact at: dstmvt at missouri dot edu
-			<li><a href="https://orcid.org/0009-0002-6374-2717" target="_blank" rel="noopener noreferrer">ORCID iD</a></li>
-
-</article>
-
 
 <article>
 			<a href="#" class="image"><img src="assets/images/members/DrifkaK.png" alt="" /></a>
@@ -231,14 +215,7 @@ image:
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Summer 2025</p>
 		</article>
 		
-			<article>
-			<a href="#" class="image"><img src="assets/images/members/MuellerL.png" alt=""/></a>
-			<h3>Lainie Mueller</h3>
-			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
-			<p>Majoring in Neuroscience, Truman State University<br>
-			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Summer 2025</p>
-		</article>
-
+		
 
 </div>
 </section>
@@ -254,7 +231,10 @@ image:
 	</header>
 	
 	<ul>
-
+	
+<li><b>Devon Terry</b>. September 2024 to August 2025. Then: Research Coordinator. Now: Graduate Student in Clinical Psychology at University at Buffalo.</li>
+	
+<li><b>Lainie Mueller</b>. Summer 2025. Then: MU-ARTSS Intern.</li>
 
 <li><b>Darius Stewart</b>. Fall 2022 to Spring 2025. Then: Research Assistant/Technician.</li>
 
