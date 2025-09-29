@@ -216,6 +216,14 @@ image:
 		</article>
 		
 		
+		<article>
+			<a href="#" class="image"><img src="assets/images/members/missing.png" alt=""/></a>
+			<h3>Makayla Guilbert</h3>
+			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
+			<p>Majoring in Health Sciences, emphasis in Rehabilitation<br>
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Fall 2025</p>
+		</article>
+		
 
 </div>
 </section>
