@@ -217,7 +217,7 @@ image:
 		
 		
 		<article>
-			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
+			<a href="#" class="image"><img src="assets/images/members/Guilbert_M.png" alt=""/></a>
 			<h3>Makayla Guilbert</h3>
 			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
 			<p>Majoring in Health Sciences, emphasis in Rehabilitation<br>
