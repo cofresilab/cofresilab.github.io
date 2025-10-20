@@ -37,7 +37,6 @@ image:
 Cofresí, R.U., Keerstock, S., Kohen, C.B., Piasecki, T.M., Bartholow, B.D. (in press). Alcohol approach-avoidance task behavior and brain potentials differentially predict ecologically assessed alcohol craving and consumption in early emerging adulthood. <em>Addiction</em>.
 </p>
 
-</p>	
 
 
 #### <a id="2025">  2025 </a>
