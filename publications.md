@@ -34,11 +34,18 @@ image:
 #### <a id="InPress">  In Press </a>
 
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-Brancaleone, P. J., Cofresí, R. U., Volpert-Esmond, H., Amodio, D. M., Ito, T. A., & Bartholow, B. D. (in press). Within-person dynamics of attention to race and expression of race bias: a real-time test of the self-regulation of prejudice model. Social Cognitive and Affective Neuroscience.
+Cofresí, R.U., Keerstock, S., Kohen, C.B., Piasecki, T.M., Bartholow, B.D. (in press). Alcohol approach-avoidance task behavior and brain potentials differentially predict ecologically assessed alcohol craving and consumption in early emerging adulthood. <em>Addiction</em>.
+</p>
+
 </p>	
 
 
 #### <a id="2025">  2025 </a>
+<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Brancaleone, P. J., Cofresí, R. U., Volpert-Esmond, H., Amodio, D. M., Ito, T. A., & Bartholow, B. D. (2025). Within-person dynamics of attention to race and expression of race bias: a real-time test of the self-regulation of prejudice model. <em>Social Cognitive and Affective Neuroscience</em>, 20(1), nsaf026. https://doi.org/10.1093/scan/nsaf026
+<br/>
+<a href="https://doi.org/10.1093/scan/nsaf026" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>	
+
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Cofresí, R.U., Upton, S., Terry, D., Brown, A. A., Piasecki, T.M., Bartholow, B.D., & Froeliger, B. (2025). Inhibitory control in the sober state as a function of alcohol sensitivity: A pilot functional magnetic resonance imaging (fMRI) study. <em>Frontiers in Human Neuroscience,</em> 19:1557661. https://doi.org/10.3389/fnhum.2025.1557661
 <br/>
