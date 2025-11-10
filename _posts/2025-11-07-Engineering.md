@@ -6,7 +6,7 @@ img :
 img2 : 
 img3 : 
 author : 
-title: Collaborate, Create, Innovate: Engineering Opportunities in the LAMP Lab
+title: Engineering Opportunities in the LAMP Lab
 title2 : 
 title3 : 
 css: 
