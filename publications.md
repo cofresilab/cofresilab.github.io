@@ -30,8 +30,9 @@ image:
 
 <hr class="major" />
 
-
-#### <a id="InPress">  In Press </a>
+<!--
+#### <a id="InPress">  In Press </a> 
+-->
 
 
 
