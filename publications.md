@@ -5,7 +5,7 @@ image:
 ---
 <p> Disclaimer: The PDFs available for download from this page are intended for fair use as defined by U.S. Copyright law, and may not be used for commercial purposes. The definitive versions of journal publications are available from the publishers’ websites (see DOI link). For a full list of Dr. Cofresi's publications with H-index, please see <a href="https://scholar.google.com/citations?user=nRAErPEAAAAJ&hl=en" class="icon fa-graduation-cap" target="_blank">Google Scholar </a>. </p>
 
-<a href="assets/docs/cofresi_cv_feb2025.pdf" class="button special icon fa-download">CV</a>   
+<!-- <a href="assets/docs/cofresi_cv_feb2025.pdf" class="button special icon fa-download">CV</a>   -->
 
 
 
