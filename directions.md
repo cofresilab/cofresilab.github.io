@@ -46,6 +46,6 @@ The Black line runs less frequently (every 1.5 hrs) but drops you right at the c
 <span class="image small"><img src="/assets/images/busstop.png" alt="Black line bus stop" width="500"/></span>
 
 
-### Once in the building
+### The building
 
-Please wait in the lobby area. The research team will come greet you there.
+The building is locked at all times. Please call or text us at 573-544-0192 to let us know you are here, and we will unlock the door. 
