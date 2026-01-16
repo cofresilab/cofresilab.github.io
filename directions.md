@@ -4,7 +4,8 @@ title: Directions
 image: 
 ---
 
-Our lab is located in the [Melvin H. Marx Building](https://map.missouri.edu/?bldg=37011), off Mizzou’s main campus. Participants can either drive their personal vehicle, be dropped off by a friend, or use Mizzou’s free campus shuttle services. Tiger Line is the university’s shuttle service throughout campus, provided at no extra charge to members of the university community in partnership with the City of Columbia.
+Our lab is located in the [Melvin H. Marx Building](https://map.missouri.edu/?bldg=37011), off Mizzou’s main campus. The building is locked at all times. Please call or text us at 573-544-0192 to let us know you are here, and we will unlock the door. 
+
 
 ### Address
 [View address in Google Maps](https://goo.gl/maps/qyhsaqvywLMfFqir7)  
@@ -23,6 +24,10 @@ MU LAMP Lab Text/Voice Contact: 573-544-0192
 
 
 ----
+
+## Ways to get to the building
+
+There are several ways you can get to the building. You may drive your own vehicle, be dropped off by a friend, or use Mizzou’s free campus shuttle service. The Tiger Line is the university’s shuttle system, which operates throughout campus at no cost to members of the university community in partnership with the City of Columbia.
 
 ### Parking
 
@@ -46,6 +51,4 @@ The Black line runs less frequently (every 1.5 hrs) but drops you right at the c
 <span class="image small"><img src="/assets/images/busstop.png" alt="Black line bus stop" width="500"/></span>
 
 
-### The building
 
-The building is locked at all times. Please call or text us at 573-544-0192 to let us know you are here, and we will unlock the door. 
