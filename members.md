@@ -224,6 +224,50 @@ image:
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Fall 2025</p>
 		</article>
 		
+		
+		
+		<article>
+			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
+			<h3>Omkaar Alakkassery</h3>
+			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
+			<p>Majoring in Public Health<br>
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026</p>
+		</article>
+		
+		
+		<article>
+			<a href="#" class="image"><img src="assets/images/members/BinderM.png" alt=""/></a>
+			<h3>Maya Binder</h3>
+			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
+			<p>Majoring in Psychological Sciences<br>
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026</p>
+		</article>
+		
+		
+		<article>
+			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
+			<h3>Delaney Foster</h3>
+			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
+			<p>Majoring in Biochemistry<br>
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026</p>
+		</article>
+		
+		<article>
+			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
+			<h3>Sahara Kaiser</h3>
+			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026</p>
+		</article>
+		
+				
+		<article>
+			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
+			<h3>Zach Wright</h3>
+			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
+			<p>Majoring in Biochemistry<br>
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026</p>
+		</article>
+
 
 </div>
 </section>
