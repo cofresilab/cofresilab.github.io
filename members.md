@@ -256,7 +256,7 @@ image:
 			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
 			<h3>Sahara Kaiser</h3>
 			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
-			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026</p>
+			<p><i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026</p>
 		</article>
 		
 				
