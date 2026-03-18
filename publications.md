@@ -13,7 +13,8 @@ image:
 
 <!-- Years -->
 <p class="text-center">
-<a href="#InPress"> In Press <i class="fa fa-arrow-circle-o-down icons"></i></a> | 
+<a href="#InPress"> In Press <i class="fa fa-arrow-circle-o-down icons"></i></a> |
+<a href="#2026"> 2026 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
 <a href="#2025"> 2025 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
 <a href="#2024"> 2024 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
 <a href="#2023"> 2023 <i class="fa fa-arrow-circle-o-down icons"></i></a> |
@@ -34,7 +35,13 @@ image:
 #### <a id="InPress">  In Press </a> 
 -->
 
-
+#### <a id="2026">  2026 </a>
+<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Cofresí RU and Aponte Zabala JA (2026) Taste matters: lessons learned in translating a conditioned drug cue reactivity paradigm from rodents to humans. <em>Front. Psychol.</em> 17:1724256. https://doi.org/10.3389/fpsyg.2026.1724256
+<br/>
+<a href="assets/docs/pub/Cofresi_and_Aponte_2026_Taste-matters.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
+	| <a href="https://doi.org/10.3389/fpsyg.2026.1724256" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI 
+</p>
 
 
 
@@ -45,8 +52,6 @@ Cofresí, R.U., Keerstock, S., Kohen, C.B., Piasecki, T.M., Bartholow, B.D. (202
 <a href="assets/docs/pub/Cofresi-et-al-2025-Addiction-AAT-EMA.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
 	| <a href="https://doi.org/10.1111/add.70247" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI 
 </p>
-
-
 
 
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
