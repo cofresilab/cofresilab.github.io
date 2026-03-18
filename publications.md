@@ -37,7 +37,7 @@ image:
 
 #### <a id="2026">  2026 </a>
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-Cofresí RU and Aponte Zabala JA (2026) Taste matters: lessons learned in translating a conditioned drug cue reactivity paradigm from rodents to humans. <em>Front. Psychol.</em> 17:1724256. https://doi.org/10.3389/fpsyg.2026.1724256
+Cofresí, R.U. and Aponte Zabala, J.A. (2026). Taste matters: lessons learned in translating a conditioned drug cue reactivity paradigm from rodents to humans. <em>Frontiers in Psychology</em> 17:1724256. https://doi.org/10.3389/fpsyg.2026.1724256
 <br/>
 <a href="assets/docs/pub/Cofresi_and_Aponte_2026_Taste-matters.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
 	| <a href="https://doi.org/10.3389/fpsyg.2026.1724256" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI 
