@@ -57,6 +57,8 @@ Cofresí, R.U., Keerstock, S., Kohen, C.B., Piasecki, T.M., Bartholow, B.D. (202
 	| <a href="https://doi.org/10.1111/add.70247" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI 
 </p>
 
+<hr class="major" />
+
 #### <a id="2025">  2025 </a>
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Brancaleone, P. J., Cofresí, R. U., Volpert-Esmond, H., Amodio, D. M., Ito, T. A., & Bartholow, B. D. (2025). Within-person dynamics of attention to race and expression of race bias: a real-time test of the self-regulation of prejudice model. <em>Social Cognitive and Affective Neuroscience</em>, 20(1), nsaf026. https://doi.org/10.1093/scan/nsaf026
@@ -77,7 +79,7 @@ Cofresí, R.U., Piasecki, T.M. & Bartholow, B.D. (2025). Alcohol insensitivity a
 <a href="assets/docs/pub/Cofres-_et_al-2025-Translational_Psychiatry.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
 	| <a href="https://doi.org/10.1038/s41398-025-03273-y" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI </p>
 
-
+<hr class="major" />
 
 #### <a id="2024">  2024 </a>
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
