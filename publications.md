@@ -43,17 +43,14 @@ Cofresí, R.U. and Aponte Zabala, J.A. (2026). Taste matters: lessons learned in
 	| <a href="https://doi.org/10.3389/fpsyg.2026.1724256" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI 
 </p>
 
-
-
-#### <a id="2025">  2025 </a>
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-Cofresí, R.U., Keerstock, S., Kohen, C.B., Piasecki, T.M., Bartholow, B.D. (2025). Alcohol approach-avoidance task behavior and brain potentials differentially predict ecologically assessed alcohol craving and consumption in early emerging adulthood. <em>Addiction</em> 121(4):804–824. http://dx.doi.org/10.1111/add.70247
+Cofresí, R.U., Keerstock, S., Kohen, C.B., Piasecki, T.M., Bartholow, B.D. (2026). Alcohol approach-avoidance task behavior and brain potentials differentially predict ecologically assessed alcohol craving and consumption in early emerging adulthood. <em>Addiction</em> 121(4):804–824. http://dx.doi.org/10.1111/add.70247
 <br/>
 <a href="assets/docs/pub/Cofresi-et-al-2025-Addiction-AAT-EMA.pdf" target="_blank" rel="noopener noreferrer"> <i class="fa fa-download icons"></i> </a>PDF 
 	| <a href="https://doi.org/10.1111/add.70247" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI 
 </p>
 
-
+#### <a id="2025">  2025 </a>
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Brancaleone, P. J., Cofresí, R. U., Volpert-Esmond, H., Amodio, D. M., Ito, T. A., & Bartholow, B. D. (2025). Within-person dynamics of attention to race and expression of race bias: a real-time test of the self-regulation of prejudice model. <em>Social Cognitive and Affective Neuroscience</em>, 20(1), nsaf026. https://doi.org/10.1093/scan/nsaf026
 <br/>
