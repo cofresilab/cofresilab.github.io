@@ -20,7 +20,7 @@ This study is conducted by researchers at the University of Missouri (MU) with f
 ## How to participate
 Complete the eligibility screener so that the research team can determine if you meet the study eligibility criteria.  
 
-<a href="" target="_blank" rel="noopener noreferrer" class="button special">Eligibility Screener: Sips and Shapes 4</a>
+<a href="https://redcap.link/sipsandshapes4" target="_blank" rel="noopener noreferrer" class="button special">Eligibility Screener: Sips and Shapes 4</a>
 
 
 ## How do I know if I am eligible?
