@@ -9,7 +9,7 @@ image:
 
 Principal investigator: Dr. Roberto Cofresi, Department of Psychological Sciences. Contact: cofresir@missouri.edu
 
-###### We are recruiting adults aged 21–50 for a research study. Participation involves a 1.5 hours in-person visit to MU Melvin H. Marx Building, where you will be asked to drink fluids including alcohol.
+### We are recruiting adults aged 21–50 for a research study. Participation involves a 1.5 hours in-person visit to [MU Melvin H. Marx Building](https://mulamplab.org/directions.html), where you will be asked to drink fluids including alcohol.
 
 ### Purpose of the study
 The purpose of the research is to examine how visual cues in everyday environments can influence people’s attention, choices, and motivation around consuming beverages, including alcohol. In everyday life, many behaviors are shaped by prior experiences in which specific cues (such as images, sounds, or contexts) are paired with rewarding outcomes. Under some circumstances, these learned associations can affect decision-making and action in ways that are not fully deliberate or consciously planned. Cue-driven influences on behavior are implicated in a range of health-related behaviors, including those that can become difficult to regulate.
@@ -24,9 +24,9 @@ Complete the eligibility screener so that the research team can determine if you
 <a href="https://redcap.link/pit1" target="_blank" rel="noopener noreferrer" class="button special">Eligibility Screener: PIT 1</a>
 
 ### Participants will be asked to
-•	Complete computer-based tasks which involve viewing colorful shapes on a computer screen and consuming alcohol (≤1.5 standard drink) and water (≤8-oz total) through a plastic mouthpiece. 
-•	Complete questionnaires asking about general demographic information, sleep duration, time of last meal, time of most recent physical exercise, history of alcohol and drug use, and other questionnaires relevant to the research. 
-•	The duration of this one-time lab visit is ~1.5 hr.
+- Complete computer-based tasks which involve viewing colorful shapes on a computer screen and consuming alcohol (≤1.5 standard drink) and water (≤8-oz total) through a plastic mouthpiece.   
+- Complete questionnaires asking about general demographic information, sleep duration, time of last meal, time of most recent physical exercise, history of alcohol and drug use, and other questionnaires relevant to the research.   
+- The duration of this one-time lab visit is ~1.5 hr.
 
 Participation is voluntary. 
 
@@ -36,8 +36,8 @@ Participants will receive $40 in cash for their time.
 ### What if I have questions about the study?
 Please contact the research team at mulamplab@missouri.edu.
 
-## Where to go for lab visits?
-https://mulamplab.org/directions.html
+### Where to go for lab visits?
+<a href="https://mulamplab.org/directions.html">Directions to our lab</a>
 
 
 
