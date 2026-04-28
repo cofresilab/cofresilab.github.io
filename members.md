@@ -184,8 +184,8 @@ image:
 			<a href="#" class="image"><img src="assets/images/members/GutierrezC.jpg" alt=""/></a>
 			<h3>Camila Gutierrez</h3>
 			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
-			Double majoring in Psychology and Biology with emphasis in Human Biology and Medical Science.<br> 
-			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Summer 2023
+			<p>Double major: Psychology and Biology with emphasis in Human Biology and Medical Science.<br> 
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Summer 2023</p>
 		</article>
 	
   
@@ -193,7 +193,7 @@ image:
 			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
 			<h3>Lukas Hawkins</h3>
 			<b>Undergraduate Research Assistant</b> | <em>he/him</em><br>
-			<p>Double majoring in Chemistry and Physics<br>
+			<p>Double major: Chemistry and Physics<br>
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Fall 2023</p>
 		</article>
 			
@@ -203,7 +203,7 @@ image:
 			<a href="#" class="image"><img src="assets/images/members/StoneR.png" alt=""/></a>
 			<h3>River Stone</h3>
 			<b>Undergraduate Research Assistant</b> | <em>he/him</em><br>
-			<p>Majoring in Psychology<br>
+			<p>Major: Psychology<br>
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Summer 2025</p>
 		</article>
 		
@@ -211,7 +211,7 @@ image:
 			<a href="#" class="image"><img src="assets/images/members/SchnarreN.png" alt=""/></a>
 			<h3>Noah Schnarre</h3>
 			<b>Undergraduate Research Assistant</b> | <em>he/him</em><br>
-			<p>Majoring in Psychology, Pre-Med track<br>
+			<p>Major: Psychology, Pre-Med track<br>
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Summer 2025</p>
 		</article>
 		
@@ -220,7 +220,7 @@ image:
 			<a href="#" class="image"><img src="assets/images/members/Guilbert_M.png" alt=""/></a>
 			<h3>Makayla Guilbert</h3>
 			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
-			<p>Majoring in Health Sciences, emphasis in Rehabilitation<br>
+			<p>Major: Health Sciences, emphasis in Rehabilitation<br>
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Fall 2025</p>
 		</article>
 		
@@ -230,7 +230,7 @@ image:
 			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
 			<h3>Omkaar Alakkassery</h3>
 			<b>Undergraduate Research Assistant</b> | <em>he/him</em><br>
-			<p>Majoring in Public Health<br>
+			<p>Major: Public Health<br>
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026</p>
 		</article>
 		
@@ -239,7 +239,7 @@ image:
 			<a href="#" class="image"><img src="assets/images/members/BinderM.png" alt=""/></a>
 			<h3>Maya Binder</h3>
 			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
-			<p>Majoring in Psychological Sciences<br>
+			<p>Major: Psychology<br>
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026</p>
 		</article>
 		
@@ -248,9 +248,10 @@ image:
 			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
 			<h3>Delaney Foster</h3>
 			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
-			<p>Majoring in Biochemistry<br>
+			<p>Major: Biochemistry<br>
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026</p>
 		</article>
+		
 		
 		<article>
 			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
@@ -264,10 +265,19 @@ image:
 			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
 			<h3>Zach Wright</h3>
 			<b>Undergraduate Research Assistant</b> | <em>he/him</em><br>
-			<p>Majoring in Biochemistry<br>
+			<p>Major: Biochemistry<br>
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026</p>
 		</article>
 
+
+	<article>
+			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
+			<h3>Tiger Hutton</h3>
+			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
+			<p>Major: Psychology<br>
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026</p>
+		</article>
+		
 
 </div>
 </section>
