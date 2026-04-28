@@ -273,7 +273,7 @@ image:
 	<article>
 			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
 			<h3>Tiger Hutton</h3>
-			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
+			<b>Undergraduate Research Assistant</b> | <em>he/him</em><br>
 			<p>Major: Psychology<br>
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026</p>
 		</article>
