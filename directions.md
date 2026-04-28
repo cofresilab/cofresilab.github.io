@@ -4,7 +4,7 @@ title: Directions
 image: 
 ---
 
-Our lab is located in the [Melvin H. Marx Building](https://map.missouri.edu/?bldg=37011), off Mizzou’s main campus. The building is locked at all times. Please call or text us at 573-544-0192 to let us know you are here, and we will unlock the door. 
+Our lab is located in the [Melvin H. Marx Building](https://map.missouri.edu/?bldg=37011). The building is locked at all times. Please call or text us at 573-544-0192 so we can come open the door for you. 
 
 
 ### Address
