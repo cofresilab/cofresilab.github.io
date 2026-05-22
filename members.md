@@ -222,15 +222,6 @@ image:
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Summer 2025</p>
 		</article>
 		
-
-		<article>
-			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
-			<h3>Omkaar Alakkassery</h3>
-			<b>Undergraduate Research Assistant</b> | <em>he/him</em><br>
-			<p>Major: Public Health<br>
-			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026</p>
-		</article>
-		
 		
 		<article>
 			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
