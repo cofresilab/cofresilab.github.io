@@ -17,7 +17,7 @@ canonical:
 
 ---
 
-<span class="image small"><img src="/assets/images/members/rs1summer26.png" alt="" width="400"/></span>
+<span class="image small"><img src="/assets/images/news/rs1summer26.png" alt="" width="400"/></span>
 
 ### Big news in the LAMP Lab!
 Kayla Drifka, our current research coordinator for the Sips and Shapes Study, is joining the clinical psychology program at the University of Nebraska-Lincoln in Fall 2026! Congratulations Kayla for a truly well-deserved achievement! Kayla will be dearly missed by everyone in the LAMP Lab. She was a wonderful colleague and terrific research coordinator. We are very excited about her very promising future as a scholar!
