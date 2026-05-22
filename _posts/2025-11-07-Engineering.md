@@ -20,6 +20,7 @@ canonical:
 <a href="/2025/11/07/Engineering.html"><span class="image small"><img src="/assets/images/news/Engineering.png" width="550"/></span></a>
 
 Are you an engineering student looking to apply your technical skills in a hands-on research environment? The <b>LAMP Lab</b> at Mizzou is inviting students with interests in <b>device design, programming, and system testing</b> to join our interdisciplinary team and collaborate with us on developing innovative tools for psychology research.
+<!--readmore-->
 
 We’ve already started building our own custom systems — including a <b>liquid-delivery device</b> based on Arduino architecture that interfaces with psychology and neuroscience-specific software. It’s been a powerful tool, but there’s room to grow — from increasing its delivery capacity and long-term stability to making it more user-friendly and reliable for repeated research use.
 
