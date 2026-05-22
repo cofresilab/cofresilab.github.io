@@ -164,7 +164,14 @@ image:
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2025
 		</article>
 		
-
+	<article>
+			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
+			<h3>Tiger Hutton, B.A.</h3>
+			<b>Research Technician</b> | <em>he/him</em><br>
+      <em><i class="fa fa-university" aria-hidden="true"></i>B.A. in Psychology, University of Missouri</em><br>
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026</p>
+		</article>
+		
 </div>
 </section>
 
@@ -215,31 +222,12 @@ image:
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Summer 2025</p>
 		</article>
 		
-		
-		<article>
-			<a href="#" class="image"><img src="assets/images/members/Guilbert_M.png" alt=""/></a>
-			<h3>Makayla Guilbert</h3>
-			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
-			<p>Major: Health Sciences, emphasis in Rehabilitation<br>
-			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Fall 2025</p>
-		</article>
-		
-		
-		
+
 		<article>
 			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
 			<h3>Omkaar Alakkassery</h3>
 			<b>Undergraduate Research Assistant</b> | <em>he/him</em><br>
 			<p>Major: Public Health<br>
-			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026</p>
-		</article>
-		
-		
-		<article>
-			<a href="#" class="image"><img src="assets/images/members/BinderM.png" alt=""/></a>
-			<h3>Maya Binder</h3>
-			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
-			<p>Major: Psychology<br>
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026</p>
 		</article>
 		
@@ -270,76 +258,7 @@ image:
 		</article>
 
 
-	<article>
-			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
-			<h3>Tiger Hutton</h3>
-			<b>Undergraduate Research Assistant</b> | <em>he/him</em><br>
-			<p>Major: Psychology<br>
-			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026</p>
-		</article>
-		
-
 </div>
-</section>
-
-
-
-<hr class="major" />
-
-		
-<section>
-	<header class="major">
-		<h2>Lab Alumni </h2>
-	</header>
-	
-	<ul>
-	
-<li><b>Devon Terry</b>. September 2024 to August 2025. Then: Research Coordinator. Now: Graduate Student in Clinical Psychology at University at Buffalo.</li>
-	
-<li><b>Lainie Mueller</b>. Summer 2025. Then: MU-ARTSS Intern.</li>
-
-<li><b>Darius Stewart</b>. Fall 2022 to Spring 2025. Then: Research Assistant/Technician.</li>
-
-			<li><b>Elizabeth Conley</b>. Fall 2021 to Spring 2024. Then: Undergraduate Research Assistant. Last known: PhD student in Neuroscience, Washington University in St. Louis. </li>
-		
-		
-		  <li><b>Peyton Maras</b>. Fall 2023 to Spring 2024.Then: Undergraduate Research Assistant.</li>
-		
-			
-			<li><b>Katelyn Matzdorf</b>.	Spring 2023 to Spring 2024.	Then: Undergraduate Research Assistant.</li>
-			
-		
-			<li><b>Abigail Obregon</b>.	Fall 2022 to Spring 2024. Then: Undergraduate Research Assistant. </li>
-			
-		
-			<li><b>Paola Gonzalez</b>. Fall 2023.Then: Undergraduate Research Assistant. Last known: Master's student, MU Social Work.</li>
-			
-					
-			<li><b>Sophia Slinkard</b>. Fall 2022 to Spring 2023. Then: Undergraduate Research Assistant. Last known: Medical student, KCU.</li>
-			
-			
-			<li><b>Liam Peck</b>. Fall 2022 to Spring 2023.Then: Undergraduate Research Assistant. Last known: Research Specialist, MU Psychological Sciences.</li>
-			
-			
-			<li><b>Ian Flowers</b>.	Fall 2022 to Spring 2023.Then: Undergraduate Research Assistant. Last known: Applied Psychology at Maastricht University, Netherlands.</li>
-			
-			
-			<li><b>Jasmine Chen</b>.	Fall 2022 to Spring 2023.	Then: Undergraduate Research Assistant. MARC/IMSD Intern.</li>
-			
-			
-			<li><b>Hannah Drzewiecki</b>. Fall 2022 to Spring 2023. Then: Undergraduate Research Assistant. MARC/IMSD Intern.</li>
-			
-			
-			<li><b>Alana Hatanaka</b>.	Spring to Summer 2023.	Then: Research coordinator. Last known: Senior Clinical Lab Technician, MU Veterinary Diagnostic Laboratory.</li>
-			
-			
-			<li><b>Rawan Ebada</b>.	Fall 2021 to Fall 2022.	Then: Undergraduate Research Assistant.</li>
-			
-			
-			<li><b>Mikayla Rodgers</b>. Fall 2020 to Spring 2022. Then: Research coordinator, Undergraduate Research Assistant. Last known: Medical Student, Rocky Vista University</li>
-			
-</ul>
-
 </section>
 
 
