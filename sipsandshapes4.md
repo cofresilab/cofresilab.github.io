@@ -31,14 +31,15 @@ Please note: If you have participated in a previous Sips and Shapes study, you a
 
 ## Enrolled participants will be asked to:
 ### Complete 4 lab visits in 1 week span
-Visit the researcher’s lab on the MU campus in Columbia, MO to complete a computerized learning task in which you are presented various visual stimuli, some of which predict receipt of a liquid reward. The liquid reward will be a fruit juice. You will pick the flavor you like best from 3 options, and we will use that one as the liquid reward. The amount served will be no more than 8-oz total. Your functional magnetic resonance imaging (fMRI) recording will be collected so that we can visualize how your brain processes visual stimuli and liquid reward.
+Visit the researcher’s lab on the MU campus in Columbia, MO to complete a computerized learning task in which you are presented various visual stimuli, some of which predict receipt of a liquid reward. The liquid reward will be a fruit juice. You will pick the flavor you like best from 3 options, and we will use that one as the liquid reward. The amount served will be no more than 8-oz total. Your functional magnetic resonance imaging (fMRI) recording will be collected so that we can visualize how your brain processes visual stimuli and liquid reward.   
+
 Participants are compensated at a rate of $20 per hour for laboratory visits. Payment is provided in cash at the end of each visit.
 -	Visit 1 (~1 hour): $20
 -	Visit 2 (~2 hours): $40
 -	Visit 3 (~1.5 hours): $30
 -	Visit 4 (~1.5 hours): $30   
 
-Participants who complete all four lab visits will receive an additional $60 completion bonus at the final visit. Those who arrive on time for all visits are also eligible for an on-time bonus of $10 per visit (up to $40 total). In total, participants can earn up to $220 for completing all laboratory visits and arriving on time.
+Participants who complete all four lab visits will receive an additional **$60 completion bonus** at the final visit. Those who arrive on time for all visits are also eligible for an on-time bonus of **$10 per visit** (up to $40 total). In total, participants can earn up to **$220 for completing all laboratory visits and arriving on time**.
 
 ### Complete 5 online surveys in 1 year span
 Complete online remote survey (~20 min) 5 times: once before the first lab visit, and 3, 6, 9 and 12 months after the last lab visit. Earn $10/survey + $10 "on-time" bonus if completed the day we sent it to you. Bonus: earn $30 “streak” bonus if you complete all 5 surveys! In total, you can earn up to $130. Compensation via electronic gift cards.
