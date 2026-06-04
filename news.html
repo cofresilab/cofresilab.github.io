@@ -1,3 +1,9 @@
+---
+layout: page
+title: Lab news
+image: 
+---
+
 <!-- Group posts by their calendar year -->
 {% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 
