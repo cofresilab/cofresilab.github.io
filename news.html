@@ -4,10 +4,8 @@ title: Lab news
 image: 
 ---
 
-<!-- Group posts by their calendar year -->
+<!-- Create a clean year navigation index at the top -->
 {% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
-
-<!-- Year Navigation Links (Styled using standard template paragraphs) -->
 <p>
   <strong>Jump to year:</strong> &nbsp;
   {% for group in postsByYear %}
@@ -16,23 +14,34 @@ image:
 </p>
 
 <hr />
+<!-- Single native posts grid tracking the template rules -->
+<div class="posts">
+  {% for post in site.posts %}
+    
+    <!-- Track calendar years to detect transitions -->
+    {% assign currentYear = post.date | date: "%Y" %}
+    {% if forloop.first %}
+      {% assign previousYear = "" %}
+    {% else %}
+      {% assign previousYear = first_item_check.date | date: "%Y" %}
+    {% endif %}
 
-<!-- Loop through each year group safely outside the grid container -->
-{% for group in postsByYear %}
-  
-  <!-- Year Heading (Acts as a section divider) -->
-  <h3 id="year-{{ group.name }}" style="margin-top: 2em; margin-bottom: 1em;">{{ group.name }}</h3>
-  
-  <!-- Dedicated CSS grid container for just this year's articles -->
-  <div class="posts">
-    {% for post in group.items %}
-      <article>
-          <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4>
-          <p>{{ post.date | date: "%B %d" }}</p> 
-      </article>
-    {% endfor %}
-  </div>
-  
-  {% unless forloop.last %}<hr style="margin: 2em 0;" />{% endunless %}
+    <!-- When hitting a new year, inject a native major header that spans 100% width -->
+    {% if currentYear != previousYear %}
+      <div id="year-{{ currentYear }}" style="width: 100%;">
+        <header class="major">
+          <h2>{{ currentYear }}</h2>
+        </header>
+      </div>
+    {% endif %}
 
-{% endfor %}
+    <!-- Native template article element -->
+    <article>
+        <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4>
+        <p>{{ post.date | date: "%B %d" }}</p>
+    </article>
+
+    <!-- Update tracker for next post entry -->
+    {% assign first_item_check = post %}
+  {% endfor %}
+</div>
