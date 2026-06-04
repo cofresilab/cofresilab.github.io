@@ -83,22 +83,27 @@
 	</section>
 	
 	
-	<!-- Recent News -->
+<!-- Recent News -->
 
 <section>
-	<header class="major">
-		<h2>Recent News</h2>
-	</header>
-	
-<div class="posts">
-	  
-{% for post in site.posts %}
-	<article>
-		    <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4>
-		    {{ post.date | date: "%B %d %Y" }} 
-	</article>
-		<hr>
-{% endfor %}		
+    <header class="major">
+        <h2>Recent News</h2>
+    </header>
+    
+    <div class="posts">
+      
+    {% for post in site.posts limit: 5 %}
+        <article>
+            <h4><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h4>
+            {{ post.date | date: "%B %d %Y" }} 
+        </article>
+        <hr>
+    {% endfor %}        
+        
+    </div>
 
-  </div>
+    <!-- Link to your full archive page -->
+    <p style="margin-top: 1.5em;">
+        <a href="{{ BASE_PATH }}/news.html" class="button">View All News &rarr;</a>
+    </p>
 </section>
