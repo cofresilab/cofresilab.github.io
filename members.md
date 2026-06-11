@@ -242,7 +242,7 @@ image:
 		<article>
 			<a href="#" class="image"><img src="assets/images/members/BelliniJ.png" alt=""/></a>
 			<h3>Juliana Bellini</h3>
-			<b>Undergraduate Research Assistant</b> | <em>he/him</em><br>
+			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
 			<p>MU-ARTSS 2026 Intern<br>
 			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Summer 2026</p>
 		</article>
