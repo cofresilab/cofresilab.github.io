@@ -10,7 +10,7 @@ image:
 Principal investigator: Dr. Roberto Cofresi, Department of Psychological Sciences. Contact: cofresir@missouri.edu
 
 ## Summary
-We are seeking research participants for a study looking at how adult brains learn and remember new cues. Adults <b>aged 18 to 65 who reside in Boone or adjacent counties</b> and who can safely undergo a brain activity recording may be eligible. The study consists of a single lab visit to [MU Campus (Marx Building)](https://mulamplab.org/directions.html) where you will complete computer-based tasks and consume small amounts of water or fruit juice while your brain activity is recorded. Compensation available. Your participation is voluntary. This means you do not have to participate in the new study if you do not want to do so. Nothing will happen should you decide that you do not want to participate.  
+We are seeking research participants for a study looking at how adult brains learn and remember new cues. Adults <b>aged 18 to 65 who reside in Boone or adjacent counties</b> and who have normal or corrected-to-normal visual acuity, normal color vision and no history of neurological problems may be eligible. The study consists of a single lab visit to [MU Campus (Marx Building)](https://mulamplab.org/directions.html) where you will complete computer-based tasks and consume small amounts of water or fruit juice while your brain activity is recorded. Compensation available. Your participation is voluntary. This means you do not have to participate in the new study if you do not want to do so. Nothing will happen should you decide that you do not want to participate.  
 
 
 ## Purpose of the study
@@ -25,7 +25,7 @@ Complete the eligibility screener so that the research team can determine if you
 
 
 ## How do I know if I am eligible?
-Eligible participants will be contacted by the research team via email/text/phone call (depending on your indicated preference). 
+Eligibility is determined by the research team by reviewing the answers to the screener. If you are determined to be eligible to participate, you will be contacted by the research team via email/text/phone call (depending on your indicated preference). 
 
 ## Enrolled participants will be asked to:
 - Complete computer-based tasks in which you will be viewing colorful shapes on a computer screen and consuming water and/or fruit juice (≤8-oz total). During the tasks, your brain and muscle activity will be recorded.
