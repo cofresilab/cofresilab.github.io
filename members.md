@@ -116,16 +116,16 @@ image:
 	
 
 <article>
-			<a href="#" class="image"><img src="assets/images/members/DrifkaK.png" alt="" /></a>
-			<h3>Kayla Drifka, B.S.</h3>
+			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt="" /></a>
+			<h3>Lainie Mueller, B.S.</h3>
 			<b>Research Coordinator</b>| <em>she/her</em><br>
       Department of Psychological Sciences, University of Missouri <br>
 			
 			<em>
-			<i class="fa fa-university" aria-hidden="true"></i>B.S. for Biopsychology, Cognition, & Neuroscience (minor in Quantitative Methods in the Social Sciences), University of Michigan<br>
+			<i class="fa fa-university" aria-hidden="true"></i>B.S. in Neuroscience, Truman State University<br>
 			</em>
 			
-			Contact at: kd92d at missouri dot edu
+			Contact at: lmm7wc at missouri dot edu
 
 </article>
 
