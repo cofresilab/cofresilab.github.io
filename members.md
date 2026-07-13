@@ -116,7 +116,7 @@ image:
 	
 
 <article>
-			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/members/MuellerL.png" alt="" /></a>
 			<h3>Lainie Mueller, B.S.</h3>
 			<b>Research Coordinator</b>| <em>she/her</em><br>
       Department of Psychological Sciences, University of Missouri <br>
