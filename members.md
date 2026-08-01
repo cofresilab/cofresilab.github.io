@@ -165,7 +165,7 @@ image:
 		</article>
 		
 	<article>
-			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
+			<a href="#" class="image"><img src="assets/images/members/HuttonT.png" alt=""/></a>
 			<h3>Tiger Hutton, B.A.</h3>
 			<b>Research Technician</b> | <em>he/him</em><br>
       <em><i class="fa fa-university" aria-hidden="true"></i>B.A. in Psychology, University of Missouri</em><br>
