@@ -6,7 +6,7 @@ img :
 img2 : 
 img3 : 
 author : 
-title: Summer Research Spotlight: Juliana Bellini
+title: Summer Research Spotlight Juliana Bellini
 title2 : 
 title3 : 
 css: 
