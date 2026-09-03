@@ -26,7 +26,7 @@ Complete the eligibility screener so that the research team can determine if you
 ## How do I know if I am eligible?
 Take the [eligibility screener](https://redcap.link/sipsandshapes5)! Potentially eligible participants will be contacted by research team via email/text/phone call (depending on your indicated preference). We will schedule a brief Zoom call to review what participation in the study entails and confirm your eligibility for MRI procedures. Potential contraindications include metal implants, implanted medical devices, fear of tight spaces or loud sounds, pregnancy. 
 
-Please note: If you have participated in a previous Sips and Shapes study, you are not eligible for this one. However, if you have only taken a screener for another study but were not contacted to participate, you are still welcome to complete the screener for this study. We sometimes reach out to different people depending on the study’s needs, so you may be invited to participate this time!
+Please note: If you have actively participated in a previous Sips and Shapes study, you are not eligible for this one. However, if you have only taken a screener for another study but were not contacted to participate, or did not end up actively participating, you are still welcome to complete the screener for this study. We sometimes reach out to different people depending on the study’s needs, so you may be invited to participate this time!
 
 
 
