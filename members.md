@@ -232,7 +232,7 @@ image:
 		
 				
 		<article>
-			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
+			<a href="#" class="image"><img src="assets/images/members/WrightZ.png" alt=""/></a>
 			<h3>Zach Wright</h3>
 			<b>Undergraduate Research Assistant</b> | <em>he/him</em><br>
 			<p>Major: Biochemistry<br>
