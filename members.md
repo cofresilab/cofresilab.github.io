@@ -169,7 +169,7 @@ image:
 			<h3>Tiger Hutton, B.A.</h3>
 			<b>Research Technician</b> | <em>he/him</em><br>
       <em><i class="fa fa-university" aria-hidden="true"></i>B.A. in Psychology, University of Missouri</em><br>
-			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026</p>
+			<i class="fa fa-calendar" aria-hidden="true"></i> Joined the lab: Spring 2026
 		</article>
 		
 </div>
