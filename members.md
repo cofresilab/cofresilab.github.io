@@ -215,7 +215,7 @@ image:
 		
 		
 		<article>
-			<a href="#" class="image"><img src="assets/images/members/missing.jpg" alt=""/></a>
+			<a href="#" class="image"><img src="assets/images/members/FosterD.png" alt=""/></a>
 			<h3>Delaney Foster</h3>
 			<b>Undergraduate Research Assistant</b> | <em>she/her</em><br>
 			<p>Major: Biochemistry<br>
