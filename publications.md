@@ -33,8 +33,9 @@ image:
 
 #### <a id="InPress">  In Press </a> 
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-Cofresí, R.U., Drifka, K., Kareken, D. Mesocorticolimbic reactivity to a newly conditioned visual signal for alcohol ingestion in the human laboratory and its behavioral correlates. <em>Progress in Neuropsychopharmacology & Biological Psychiatry</em>
+Cofresí, R.U., Drifka, K., Kareken, D. Mesocorticolimbic reactivity to a newly conditioned visual signal for alcohol ingestion in the human laboratory and its behavioral correlates. <em>Progress in Neuropsychopharmacology & Biological Psychiatry</em> </p>  
 
+<hr class="major" />
 
 #### <a id="2026">  2026 </a>
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
