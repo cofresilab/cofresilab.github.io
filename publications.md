@@ -29,15 +29,18 @@ image:
 <a href="#2012"> 2012 <i class="fa fa-arrow-circle-o-down icons"></i></a>   
 </p>
 
-<hr class="major" />
 
-#### <a id="InPress">  In Press </a> 
-<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
-Cofresí, R.U., Drifka, K., Kareken, D. Mesocorticolimbic reactivity to a newly conditioned visual signal for alcohol ingestion in the human laboratory and its behavioral correlates. <em>Progress in Neuropsychopharmacology & Biological Psychiatry</em> </p>  
+<!--  #### <a id="InPress">  In Press </a>  -->
 
 <hr class="major" />
 
 #### <a id="2026">  2026 </a>
+<p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
+Cofresí, R.U., Drifka, K., Kareken, D. (2026). Mesocorticolimbic reactivity to a newly conditioned visual signal for alcohol ingestion in the human laboratory and its behavioral correlates. <em>Progress in Neuropsychopharmacology & Biological Psychiatry</em>  https://doi.org/10.1016/j.pnpbp.2026.112015 
+<br/>
+<a href="https://doi.org/10.1016/j.pnpbp.2026.112015" target="_blank" rel="noopener noreferrer"> <i class="fa fa-external-link" aria-hidden="true"></i></a> DOI
+</p>
+
 <p> <i class="fa fa-chevron-right" aria-hidden="true"></i>
 Cofresí, R.U. and Aponte Zabala, J.A. (2026). Taste matters: lessons learned in translating a conditioned drug cue reactivity paradigm from rodents to humans. <em>Frontiers in Psychology</em> 17:1724256. https://doi.org/10.3389/fpsyg.2026.1724256
 <br/>
